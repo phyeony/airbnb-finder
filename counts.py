@@ -18,7 +18,6 @@ data = {'stops': stop_counts, 'stations': station_counts}
 counts = pd.DataFrame(data=data, index=boundary_list)
 counts['stations'] = counts['stations'].fillna(0)
 counts['stations'] = counts['stations'].apply(lambda x: int(x))
-print(counts)
 
 # export
 counts.to_csv('counts.csv', index=True)
