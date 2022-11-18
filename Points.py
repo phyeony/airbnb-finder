@@ -2,12 +2,19 @@ import pandas as pd
 import numpy as numpy
 from shapely.geometry import Point, Polygon
 
-df = pd.read_json('local-area-boundary.json')
+df = pd.read_csv('boundary.csv')
+coords = df['coordinates']
+
+print(type(coords[0]))
+poly = Polygon(coords[0])
+print(poly)
+
 # boundary = df.loc[0,'fields']['geom']['coordinates']
 # print(boundary)
 # p1 = Point(-122.948947, 49.200056)
-# coords = boundary[0]
+
 # poly = Polygon(coords)
+# print(poly)
 
 # print(p1.within(poly))
 
