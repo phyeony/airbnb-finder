@@ -2,9 +2,10 @@ import sys
 import pandas as pd
 from ast import literal_eval
 from shapely.geometry import Point, Polygon
+import os
 
 # python points.py boundary.csv Stops.csv 
-# python points.py boundary.csv Stations_Exchanges.csv
+# python points.py boundary.csv Stations.csv
 
 def main(bd, pt):
   boundary = pd.read_csv(bd)
@@ -22,9 +23,9 @@ def main(bd, pt):
   points = pd.read_csv(pt)
   
   # combine Longitudes and Latitudes together to a list
-  points['Point'] = points['Longitude'].astype(str) + ", " +  points['Latitude'] .astype(str)
-  points['Point'] = points['Point'].apply(lambda x: list(x.split(", ")))
-  points['Point'] = points['Point'].apply(lambda x: list(map(float, x)))
+  # https://stackoverflow.com/questions/43898035/pandas-combine-column-values-into-a-list-in-a-new-column
+  points['Point'] = points[['Longitude','Latitude']].values.tolist()
+
   # clean the dataframe - remove x, y, lon, lat
   del points['x'], points['y'], points['Longitude'], points['Latitude']
 
@@ -46,18 +47,8 @@ def main(bd, pt):
   no_boundary = points[points['boundary'] == "NB"].index
   points = points.drop(no_boundary)
 
-  if pt == 'Stops.csv':
-    export_stop(points)
-  if pt == 'Stations_Exchanges.csv':
-    export_exchange(points)
-    
-# export
-def export_stop(df):
-  df.to_csv('Stops-with-boundary.csv', index=False)
-def export_exchange(df):
-  df.to_csv('Stations-with-boundary.csv', index=False)
-
-
+  points.to_csv(f"{os.path.splitext(pt)[0]}-with-boundary.csv", index=False)
+  
 if __name__ == '__main__':
     bd = sys.argv[1]
     pt = sys.argv[2]
