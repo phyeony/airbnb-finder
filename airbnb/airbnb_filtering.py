@@ -11,4 +11,4 @@ if __name__ == '__main__':
     min_price = sys.argv[1]
     max_price = sys.argv[2]
     room_type = sys.argv[3]
-    main(bd, pt)
+    main(min_price, max_price)
