@@ -1,7 +1,6 @@
 import pandas as pd
 
 airbnb = pd.read_csv('listings.csv')
-airbnb
 
 def main():
     # Data cleaning
