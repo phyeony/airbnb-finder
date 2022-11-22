@@ -2,7 +2,7 @@ import pandas as pd
 
 airbnb = pd.read_csv('airbnb/filtered_airbnb_listings.csv')
 
-def main():
+def main(min_price, max_price):
     # filter price range
     
     # filter room type
