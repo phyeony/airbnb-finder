@@ -3,16 +3,26 @@ import sys
 
 # python airbnb_filtering.py 100 200 private
 def main(min_price, max_price, room_type):
-    airbnb = pd.read_csv('filtered_airbnb_listings.csv')
+    airbnb = pd.read_csv('cleaned_airbnb_listings.csv')
+    
+    if room_type == "entire":
+        room_type = "Entire home/apt"
+    elif room_type == "hotel":
+        room_type = "Hotel room"
+    elif room_type == "private":
+        room_type = "Private room"
+    elif room_type == "shared":
+        room_type = "Shared room"
     # Entire home/apt
-    # Hotl room
+    # Hotel room
     # Private room
     # Shared room
+
     # filter price range
-    print(type(min_price))
-    airbnb_priced = airbnb[(airbnb['price'] >= int(min_price)) & (airbnb['price'] <= int(max_price))]
-    print(airbnb_priced[['name', 'price']])
+    price_filtered = airbnb[(airbnb['price'] >= float(min_price)) & (airbnb['price'] <= float(max_price))]
     # filter room type
+    room_filtered = price_filtered[(price_filtered['room_type'] == room_type)]
+    print(room_filtered[['name', 'price', 'room_type']])
 
 if __name__ == '__main__':
     min_price = sys.argv[1]
