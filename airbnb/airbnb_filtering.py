@@ -1,14 +1,17 @@
 import pandas as pd
 import sys
 
-airbnb = pd.read_csv('filtered_airbnb_listings.csv')
-
+# python airbnb_filtering.py 100 200 private
 def main(min_price, max_price, room_type):
+    airbnb = pd.read_csv('filtered_airbnb_listings.csv')
+    # Entire home/apt
+    # Hotl room
+    # Private room
+    # Shared room
     # filter price range
-    print("min price: ", min_price)
-    print("max price: ", max_price)
-    print("room type: ", room_type)
-    print(airbnb)
+    print(type(min_price))
+    airbnb_priced = airbnb[(airbnb['price'] >= int(min_price)) & (airbnb['price'] <= int(max_price))]
+    print(airbnb_priced[['name', 'price']])
     # filter room type
 
 if __name__ == '__main__':
