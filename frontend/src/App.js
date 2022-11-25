@@ -4,12 +4,10 @@ import {
   FormControl,
   FormGroup,
   FormControlLabel,
-  FormHelperText,
   Checkbox,
   Stack,
   Slider,
   Box,
-  Switch,
   Card,
   CardHeader,
   Divider,
@@ -40,7 +38,7 @@ function union(a, b) {
 
 function App() {
   const [state, setState] = useState({
-    entire: true,
+    entire: false,
     pv: false,
     shared: false,
   });
@@ -69,22 +67,9 @@ function App() {
     setValue(newValue);
   };
 
-  const [stateSwitches, setStateSwitches] = useState({
-    attraction: true,
-    food: false,
-    transportation: true,
-  });
-
-  const handleSwitchesChange = (event) => {
-    setState({
-      ...state,
-      [event.target.name]: event.target.checked,
-    });
-  };
-
   const [checked, setChecked] = useState([]);
   const [left, setLeft] = useState([0, 1, 2, 3]);
-  const [right, setRight] = useState([4, 5, 6, 7]);
+  const [right, setRight] = useState([]);
 
   const leftChecked = intersection(checked, left);
   const rightChecked = intersection(checked, right);
@@ -221,7 +206,7 @@ function App() {
           getAriaValueText={valuetext}
         />
       </Box>
-    <FormLabel component="legend">3. Preference</FormLabel>
+    <FormLabel component="legend">3. Preference - Choose items in order of your importance </FormLabel>
     <Grid container spacing={2} justifyContent="center" alignItems="center">
       <Grid item>{customList('Choices', left)}</Grid>
       <Grid item>
@@ -257,4 +242,3 @@ function App() {
 }
 
 export default App;
-
