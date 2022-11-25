@@ -13,7 +13,9 @@ import {
   ListItem,
   ListItemIcon,
   ListItemText,
-  Grid
+  Grid,
+  Box,
+  TextField
 } from '@mui/material';
 
 import {useState} from 'react';
@@ -54,6 +56,11 @@ function App() {
       .then((res) => console.log(res))
       .catch((e) => console.error(e))
   }
+
+  const [name, setName] = useState(0);
+  const handleTextChange = (event) => {
+    setName(event.target.value);
+  };
 
   const [checked, setChecked] = useState([]);
   const [left, setLeft] = useState([0, 1, 2, 3]);
@@ -164,6 +171,7 @@ function App() {
     
     <FormControl sx={{ m: 3 }} component="fieldset" variant="standard">
       <FormLabel component="legend">1. Select Your Room Type</FormLabel>
+      <div>
       <FormGroup>
         <FormControlLabel
           control={
@@ -184,8 +192,28 @@ function App() {
           label="Shared room"
         />
       </FormGroup>
+      </div>
       <FormLabel component="legend">2. Select Your Price Range</FormLabel>
-
+      <div>
+      <Box
+      component="form"
+      sx={{
+        '& > :not(style)': { m: 1, width: '25ch' },
+      }}
+      noValidate
+      autoComplete="off"
+    >
+      <TextField
+        id="min price"
+        label="Min Price"
+        onChange={handleTextChange}
+      />
+      <TextField
+        id="max price"
+        label="Max Price"
+      />
+    </Box>
+    </div>
     <FormLabel component="legend">3. Preference - Choose items in order of your importance </FormLabel>
     <Grid container spacing={2} justifyContent="center" alignItems="center">
       <Grid item>{customList('Choices', left)}</Grid>
