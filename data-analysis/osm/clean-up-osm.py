@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 amenities = pd.read_json(
-    "./osm/amenities-vancouver.json.gz", lines=True, compression="gzip"
+    "amenities-vancouver.json.gz", lines=True, compression="gzip"
 )
 #%%
 
@@ -149,10 +149,11 @@ amenities["category"] = np.select(conditions, choices, default=None)
 
 #Keep amenities with category (food and attraction)
 amenities = amenities[amenities['category'].notna()]
-print(amenities)
+del amenities['timestamp']
 
 food_amenities = amenities[amenities['category']=='food']
 attraction_amenities = amenities[amenities['category']=='attraction']
 
-
+food_amenities.to_csv("cleaned_food_amenities.csv", index=False)
+attraction_amenities.to_csv("cleaned_attraction_amenities.csv", index=False)
 # %%

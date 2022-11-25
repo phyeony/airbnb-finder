@@ -1,0 +1,2340 @@
+,stop_no,stop_name,line_con,Longitude,Latitude
+0,50001,Westbound Davie St @ Bidwell St,023,-123.140424,49.286458
+1,50011,Eastbound Davie St @ Howe St,006,-123.126971,49.27755
+2,50013,Eastbound Pacific St @ Richards St,023,-123.127316,49.273529
+3,50014,Eastbound Pacific Blvd @ Homer St,023,-123.125546,49.272929
+4,50015,Eastbound Pacific Blvd @ Drake St,023,-123.123135,49.273429
+5,50016,Yaletown-Roundhouse Station @ Bay 4,023,-123.120842,49.274036
+6,50021,Eastbound E Pender St @ Carrall St,019; 022; N19,-123.103799,49.280394
+7,50022,Northbound Columbia St @ E Pender St,050,-123.102196,49.280772
+8,50023,Yaletown-Roundhouse Station @ Bay 1,006,-123.122521,49.274863
+9,50024,Westbound Davie St @ Richards St,006,-123.124555,49.276179
+10,50025,Westbound Davie St @ Granville St,006,-123.126514,49.277437
+11,50026,Westbound Davie St @ Howe St,006; 010,-123.127493,49.278073
+12,50030,Northbound Burrard St @ Robson St,002; 005; 044; N22,-123.12214,49.283593
+13,50031,Burrard Station @ Bay 7,002; 005; 044,-123.120503,49.284688
+14,50034,Northbound Granville St @ W Hastings St,004; 007; 010; 050,-123.11335,49.285553
+15,50035,Waterfront Station @ Bay 3,003; 004; 007; 008; 010; 050; N8,-123.111191,49.284786
+16,50036,Eastbound W Cordova St @ Homer St,003; 004; 007; 008; 050; 209; 210; 211; 214; N8,-123.109649,49.283765
+17,50038,Westbound Powell St @ Columbia St,050,-123.102896,49.283285
+18,50040,Waterfront Station @ Bay 2,050,-123.112069,49.285597
+19,50043,Burrard Station @ Bay 1,002; 005; N22,-123.119982,49.285306
+20,50044,Southbound Burrard St @ W Georgia St,044,-123.121677,49.284178
+21,50045,Southbound Burrard St @ Robson St,002; N22,-123.123336,49.283087
+22,50046,Southbound Burrard St @ Barclay St,002; N22,-123.12488,49.282068
+23,50047,Southbound Burrard St @ Nelson St,002; 044; N22,-123.126516,49.280981
+24,50048,Westbound Davie St @ Burrard St,006,-123.129617,49.279449
+25,50049,Westbound Davie St @ Thurlow St,006,-123.131638,49.280756
+26,50050,Westbound Davie St @ Bute St,006,-123.133574,49.282009
+27,50051,Westbound Davie St @ Jervis St,006,-123.135121,49.283006
+28,50052,Westbound Davie St @ Broughton St,006,-123.136507,49.283898
+29,50053,Westbound Davie St @ Cardero St,006,-123.138909,49.28546
+30,50054,Eastbound W 16 Ave @ Trutch St,002; 033,-123.175459,49.257636
+31,50055,Eastbound W 16 Ave @ Carnarvon St,002; 033,-123.17185,49.257583
+32,50056,Northbound Macdonald St @ W 16 Ave,002; N22,-123.168299,49.258079
+33,50058,Northbound Macdonald St @ W 12 Ave,002; N22,-123.168164,49.261778
+34,50060,Northbound Macdonald St @ W Broadway,002; 014; N22,-123.168174,49.264458
+35,50061,Northbound Macdonald St @ W 7th Ave,002; 014; N22,-123.168302,49.266074
+36,50063,Northbound Macdonald St @ W 4th Ave,002; N22,-123.168204,49.268707
+37,50064,Northbound Macdonald St @ W 2nd Ave,002; N22,-123.168148,49.270381
+38,50067,Eastbound Cornwall Ave @ Balsam St,002; N22,-123.159332,49.272582
+39,50069,Eastbound Cornwall Ave @ Yew St,002; N22,-123.154568,49.272507
+40,50070,Eastbound Cornwall Ave @ Arbutus St,002; N22,-123.152226,49.272471
+41,50072,Eastbound Cornwall Ave @ Cypress St,002; N22,-123.14734,49.272368
+42,50073,Northbound Burrard St @ Pacific St,002; N22,-123.131783,49.277226
+43,50074,Eastbound Davie St @ Burrard St,006,-123.128901,49.278793
+44,50075,Northbound Burrard St @ Davie St,002; 044; N22,-123.129252,49.278885
+45,50076,Eastbound W Pender St @ Burrard St,005; 019; 022; 209; 210; 211; 214; N24,-123.117245,49.286121
+46,50077,Eastbound W Pender St @ Granville St,005; 019; 022; 044; 209; 210; 211; 214; N24,-123.115231,49.284791
+47,50078,Eastbound W Pender St @ Seymour St,005; 014; 017; 019; 022; 209; 210; 211; 214; N15; N19; N24,-123.113589,49.283753
+48,50080,Eastbound W Pender St @ Hamilton St,005; 017; 019; 022; N15; N19; N24,-123.110618,49.281799
+49,50081,Southbound Cambie St @ Dunsmuir St,005; 006; N15; N24,-123.111146,49.280808
+50,50085,Yaletown-Roundhouse Station @ Bay 3,023,-123.121945,49.27402
+51,50086,Westbound Pacific Blvd @ Drake St,023,-123.124214,49.27342
+52,50087,Westbound Pacific St @ Richards St,023,-123.127085,49.273623
+53,50091,Westbound W Pender St @ Carrall St,004; 007; 019; 022; 209; 210; 211; 214; N19,-123.104998,49.280707
+54,50093,Westbound W Pender St @ Abbott St,004; 007; 019; 022; 209; 210; 211; 214; N19,-123.108213,49.28129
+55,50094,Westbound W Pender St @ Hamilton St,004; 005; 007; 019; 022; 209; 210; 211; 214; N19,-123.11137,49.282472
+56,50095,Westbound W Pender St @ Seymour St,004; 005; 007; 010; 019; 022; 209; 210; 211; 214; N19; N22,-123.113429,49.283818
+57,50096,Westbound W Pender St @ Granville St,004; 005; 007; 010; 019; 022; 209; 210; 211; 214; N19; N22; N24,-123.114596,49.284575
+58,50097,Westbound W Pender St @ Howe St,005; 019; 022,-123.116055,49.285523
+59,50098,Southbound Burrard St @ Davie St,002; N22,-123.12964,49.278914
+60,50103,Westbound Cornwall Ave @ Arbutus St,002; N22,-123.152989,49.272608
+61,50104,Westbound Cornwall Ave @ Yew St,002; N22,-123.155439,49.272645
+62,50105,Westbound Cornwall Ave @ Point Grey Rd,002; N22,-123.160216,49.272731
+63,50106,Westbound Cornwall Ave @ Trafalgar St,002; N22,-123.164636,49.272799
+64,50107,Southbound Macdonald St @ W 1st Ave,002; N22,-123.168323,49.270753
+65,50109,Southbound Macdonald St @ W 6th Ave,002; 014; N22,-123.168483,49.266274
+66,50110,Southbound Macdonald St @ W Broadway,002; N22,-123.168373,49.264268
+67,50111,Southbound Macdonald St @ W 11 Ave,002; N22,-123.16835,49.261885
+68,50112,Southbound Macdonald St @ W 13 Ave,002; N22,-123.168421,49.260226
+69,50113,Southbound Macdonald St @ W 16 Ave,002; N22,-123.168496,49.257315
+70,50114,Westbound W 16 Ave @ Macdonald St,002; 033,-123.168896,49.257816
+71,50115,Westbound W 16 Ave @ Mackenzie St,002; 033,-123.170777,49.257839
+72,50116,Westbound W 16 Ave @ Balaclava St,002; 033,-123.17458,49.257904
+73,50119,Southbound Macdonald St @ W 21 Ave,002; N22,-123.16787,49.253375
+74,50121,Southbound Macdonald St @ Alamein Ave,002; N22,-123.167913,49.249858
+75,50123,Westbound W King Edward Ave @ Puget Dr,002; 025; N22,-123.170432,49.249627
+76,50124,Southbound Quesnel Dr @ W King Edward Ave,002; N22,-123.171914,49.249603
+77,50126,Southbound Mackenzie St @ W 29 Ave,002; N22,-123.170308,49.245848
+78,50128,Southbound Mackenzie St @ W 33 Ave,002; N22,-123.170345,49.241997
+79,50130,Southbound Mackenzie St @ W 37 Ave,002; N22,-123.170377,49.238254
+80,50132,Eastbound W 41 Ave @ Mackenzie St,041,-123.169829,49.234673
+81,50133,Westbound W 41st Ave @ Willow St,041,-123.124174,49.233946
+82,50134,Eastbound W 41 Ave @ Willow St,041,-123.123477,49.233687
+83,50136,Oakridge-41st Ave Station @ Bay 2,R4,-123.116867,49.23344
+84,50137,Eastbound W 41 Ave @ Cambie St,041,-123.115623,49.233415
+85,50138,Eastbound W 41 Ave @ Columbia St,041,-123.111462,49.23327
+86,50139,Eastbound W 41 Ave @ Manitoba St,041,-123.107725,49.233142
+87,50140,Eastbound E 41 Ave @ Ontario St,041,-123.105218,49.233063
+88,50142,Northbound Main St @ SE Marine Dr,003,-123.102035,49.211565
+89,50146,Northbound Main St @ E 59 Ave,003,-123.101819,49.217015
+90,50147,Northbound Main St @ E 57 Ave,003,-123.10174,49.218788
+91,50150,Northbound Main St @ E 51 Ave,003,-123.101593,49.223638
+92,50151,Northbound Main St @ E 49 Ave,003,-123.10147,49.225975
+93,50154,Northbound Main St @ E 43 Ave,003,-123.101306,49.231454
+94,50155,Northbound Main St @ E 41 Ave,003,-123.101394,49.233445
+95,50156,Westbound E 41 Ave @ Main St,041,-123.102082,49.233207
+96,50157,Westbound W 41 Ave @ Ontario St,041,-123.106197,49.233269
+97,50158,Westbound W 41 Ave @ Columbia St,041,-123.11122,49.233442
+98,50160,Oakridge-41st Ave Station @ Bay 5,041,-123.116855,49.233681
+99,50162,Northbound Main St @ E 39 Ave,003,-123.101505,49.235734
+100,50163,Northbound Main St @ E 36 Ave,003,-123.101502,49.23802
+101,50165,Northbound Main St @ E 33 Ave,003,-123.101314,49.241308
+102,50166,Northbound Main St @ E 30 Ave,003,-123.101232,49.243554
+103,50167,Northbound Main St @ E 28 Ave,003,-123.101101,49.245968
+104,50169,Northbound Main St @ E King Edward Ave,003,-123.100891,49.249121
+105,50174,Northbound Main St @ E 12 Ave,003,-123.100888,49.260528
+106,50176,Northbound Main St @ E Broadway,003,-123.100792,49.263233
+107,50177,Northbound Main St @ E 6th Ave,003; 008; 019; N19; N8,-123.100685,49.265339
+108,50178,Northbound Main St @ E 5th Ave,003; 008; 019; N19; N8,-123.100662,49.266719
+109,50179,Northbound Main St @ E 2nd Ave,003; 008; 019; N19; N8,-123.100505,49.269455
+110,50180,Northbound Main St @ Industrial Ave,003; 008; 019; N19; N8,-123.100432,49.270803
+111,50181,Main Street-Science World Station @ Bay 2,003; 008; 019; 022; N19; N8,-123.099831,49.273395
+112,50182,Northbound Main St @ National Ave,003; 008; 019; 022; N19; N8,-123.099748,49.275321
+113,50184,Northbound Main St @ E Georgia St,003; 008; 019; 022; N19; N8,-123.099607,49.278968
+114,50185,Westbound E Hastings St @ Main St,003; 008; N20; N35; N8,-123.1003,49.28144
+115,50186,Westbound W Hastings St @ Carrall St,003; 008; 014; 016; 020; N20; N35; N8,-123.105366,49.281733
+116,50187,Westbound W Hastings St @ Abbott St,003; 008; 014; 016; 020; N20; N35; N8,-123.108043,49.282221
+117,50188,Westbound W Hastings St @ Hamilton St,003; 008; 014; 016; 020; N20; N35; N8,-123.110279,49.283085
+118,50189,Southbound Richards St @ W Hastings St,005; 010; 020,-123.11242,49.283796
+119,50190,Southbound Richards St @ Dunsmuir St,020,-123.115253,49.281944
+120,50195,Westbound W 41 Ave @ Oak St,R4,-123.128633,49.234081
+121,50196,Westbound W 41 Ave @ Selkirk St,041,-123.132951,49.234201
+122,50197,Westbound W 41 Ave @ Cartier St,041,-123.137,49.234332
+123,50198,Westbound W 41 Ave @ Granville St,041,-123.139167,49.234391
+124,50199,Eastbound W 41 Ave @ Granville St,R4,-123.138484,49.23422
+125,50200,Eastbound W 41 Ave @ Selkirk St,041,-123.132898,49.23404
+126,50201,Eastbound W 41 Ave @ Osler St,041,-123.129836,49.233911
+127,50203,Northbound Granville St @ W 38 Ave,010; N10,-123.139374,49.237418
+128,50204,Northbound Granville St @ W 36 Ave,010; N10,-123.13931,49.239279
+129,50205,Northbound Granville St @ W 34 Ave,010; N10,-123.13924,49.241186
+130,50206,Northbound Granville St @ Minto Cres,010; N10,-123.139178,49.243144
+131,50207,Northbound Granville St @ N Connaught Dr,010; N10,-123.139081,49.245722
+132,50208,Northbound Granville St @ Nanton Ave,010; N10,-123.139023,49.24769
+133,50209,Northbound Granville St @ W King Edward Ave,010; N10,-123.138924,49.250127
+134,50210,Northbound Granville St @ Balfour Ave,010; N10,-123.138834,49.252263
+135,50211,Northbound Granville St @ Matthews Ave,010; N10,-123.138804,49.253467
+136,50212,Northbound Granville St @ W 16 Ave,010; N10,-123.138663,49.257367
+137,50213,Northbound Granville St @ W 14 Ave,010; N10,-123.138595,49.25921
+138,50214,Northbound Granville St @ W 12 Ave,010; 016; N10,-123.13852,49.261157
+139,50217,Northbound Granville St @ W 7th Ave,010; 014; 016; N10; N17; N9,-123.138349,49.265651
+140,50218,Northbound Granville St @ W 5th Ave,010; 016; N10; N17; N9,-123.138259,49.267404
+141,50220,Northbound Granville St @ Davie St,004; 007; 010; 014; 016; 050,-123.125372,49.277584
+142,50228,Eastbound E Cordova St @ Main St,003; 008; N8,-123.099988,49.282229
+143,50229,Southbound Main St @ E Hastings St,003; 004; 007; 008; N8,-123.099812,49.28081
+144,50230,Southbound Main St @ Keefer St,003; 008; 019; 022; N19; N8,-123.099896,49.279029
+145,50232,Southbound Main St @ National Ave,003; 008; 019; 022; N19; N8,-123.100141,49.274506
+146,50233,Main Street-Science World Station @ Bay 1,003; 008; 019; 023; N19; N8,-123.100189,49.273072
+147,50234,Southbound Main St @ Switchmen St,003; 008; 019; N19; N8,-123.100821,49.270621
+148,50236,Southbound Main St @ E 5th Ave,003,-123.100989,49.265849
+149,50240,Southbound Main St @ E 12 Ave,003,-123.10127,49.259888
+150,50241,Southbound Main St @ E 14 Ave,003,-123.101305,49.258082
+151,50242,Southbound Main St @ E 16 Ave,003,-123.101386,49.256251
+152,50244,Southbound Main St @ E 20 Ave,003,-123.101095,49.252395
+153,50245,Southbound Main St @ E 22 Ave,003,-123.101089,49.250676
+154,50246,Southbound Main St @ E King Edward Ave,003,-123.101194,49.248466
+155,50248,Southbound Main St @ E 30 Ave,003,-123.101498,49.243003
+156,50249,Southbound Main St @ E 33 Ave,003,-123.101629,49.240211
+157,50250,Southbound Main St @ E 36 Ave,003,-123.101715,49.23788
+158,50253,Eastbound E 41 Ave @ Main St,R4,-123.101913,49.232967
+159,50255,Southbound Main St @ E 43 Ave,003,-123.101591,49.230612
+160,50256,Southbound Main St @ E 46 Ave,003,-123.101625,49.228145
+161,50258,Southbound Main St @ E 51 Ave,003,-123.101804,49.223508
+162,50259,Southbound Main St @ E 54 Ave,003,-123.101949,49.22075
+163,50260,Southbound Main St @ E 56 Ave,003,-123.102003,49.218969
+164,50263,Southbound Main St @ E 62 Ave,003,-123.102217,49.213842
+165,50264,Southbound Main St @ E 63 Ave,003,-123.102245,49.212975
+166,50265,Eastbound E 65 Ave @ Main St,003,-123.101625,49.211695
+167,50268,Eastbound University Blvd @ Allison Rd,004; 009; 014; 099; N17,-123.241849,49.266827
+168,50270,Eastbound University Blvd @ 5300 Block,004; 009; 014; N17,-123.235217,49.265327
+169,50271,Eastbound University Blvd @ 5100 Block,004; 009; 014; N17,-123.229095,49.263486
+170,50272,Northbound Blanca St @ W 10 Ave,004,-123.215067,49.264289
+171,50273,Blanca Loop @ Bay 1,004; 014,-123.21585,49.265243
+172,50274,Eastbound W 10 Ave @ Blanca St,009; 014; N17,-123.214641,49.263836
+173,50275,Eastbound W 10 Ave @ Tolmie St,009; 014; N17,-123.211737,49.26381
+174,50276,Eastbound W 10 Ave @ Sasamat St,009; 014; 099; N17,-123.208525,49.263764
+175,50277,Eastbound W 10 Ave @ Trimble St,009; 014; N17,-123.205581,49.263689
+176,50278,Eastbound W 10 Ave @ Discovery St,009; 014; N17,-123.202595,49.263657
+177,50279,Eastbound W 10 Ave @ Courtenay St,009; 014; N17,-123.199436,49.263605
+178,50280,Eastbound W 10 Ave @ Camosun St,009; 014; N17,-123.196532,49.263564
+179,50281,Eastbound W 10 Ave @ Crown St,009; 014; N17,-123.193422,49.263526
+180,50282,Eastbound W 10 Ave @ Wallace St,009; 014; N17,-123.190678,49.263472
+181,50283,Eastbound W 10 Ave @ Highbury St,009; 014; N17,-123.187456,49.263434
+182,50284,Westbound W 41 Ave @ Granville St,R4,-123.140514,49.234426
+183,50285,Westbound W 41 Ave @ Marguerite St,041,-123.145101,49.234499
+184,50286,Westbound W 41 Ave @ Angus Dr,041,-123.148146,49.234547
+185,50288,Westbound W 41 Ave @ Maple St,041,-123.152449,49.234633
+186,50290,Westbound W 41 Ave @ Vine St,041,-123.160343,49.234721
+187,50291,Westbound W 41 Ave @ Larch St,041,-123.163165,49.234767
+188,50292,Westbound W 41 Ave @ Macdonald St,041,-123.167912,49.23481
+189,50293,Westbound W 41 Ave @ Mackenzie St,002; 041; N22,-123.170795,49.234819
+190,50294,Westbound W 41 Ave @ Carnarvon St,R4,-123.173542,49.23482
+191,50296,Westbound W 41 Ave @ Blenheim St,002; 041; N22,-123.179103,49.234831
+192,50297,Westbound W 41 Ave @ Collingwood St,002; 041; N22,-123.182546,49.234836
+193,50298,Dunbar Loop @ Bay 6,007,-123.185234,49.235129
+194,50299,Northbound Dunbar St @ W 39 Ave,007,-123.185216,49.236747
+195,50300,Northbound Dunbar St @ W 38 Ave,007,-123.185183,49.238112
+196,50301,Northbound Dunbar St @ W 36 Ave,007,-123.185157,49.239851
+197,50302,Northbound Dunbar St @ W 34 Ave,007,-123.185172,49.241702
+198,50303,Northbound Dunbar St @ W 31 Ave,007,-123.185135,49.244597
+199,50304,Northbound Dunbar St @ W 30 Ave,007,-123.185125,49.245532
+200,50305,Northbound Dunbar St @ W 28 Ave,007,-123.185094,49.247382
+201,50307,Northbound Dunbar St @ W King Edward Ave,007; 025,-123.185062,49.250494
+202,50308,Northbound Dunbar St @ W 22 Ave,007; 025,-123.18504,49.253177
+203,50310,Northbound Dunbar St @ W 18 Ave,007; 025,-123.185003,49.256755
+204,50312,Northbound Dunbar Diversion @ W 14 Ave,007,-123.184213,49.260126
+205,50313,Northbound Alma St @ W 12 Ave,007,-123.185815,49.261926
+206,50314,Northbound Alma St @ W 10 Ave,007; 014; N17,-123.185744,49.263872
+207,50315,Eastbound W Broadway @ Alma St,009; 014; N17,-123.185239,49.264278
+208,50319,Eastbound W Broadway @ Macdonald St,009; 099; N17,-123.167357,49.263995
+209,50320,Eastbound W Broadway @ Trafalgar St,009; N17,-123.164293,49.263906
+210,50321,Eastbound W Broadway @ Larch St,009; N17,-123.16196,49.263904
+211,50322,Eastbound W Broadway @ Vine St,009; N17,-123.157195,49.263809
+212,50323,Eastbound W Broadway @ Arbutus St,009,-123.154253,49.263766
+213,50325,Eastbound W Broadway @ Burrard St,009; N17,-123.145163,49.263611
+214,50327,Eastbound W Broadway @ Hemlock St,009; N9,-123.134715,49.263448
+215,50328,Eastbound W Broadway @ Alder St,009; N9,-123.130979,49.263381
+216,50331,Southbound Oak St @ W 12 Ave,017,-123.126842,49.260251
+217,50333,Southbound Oak St @ W 16 Ave,017,-123.127351,49.256751
+218,50335,Southbound Oak St @ Douglas Cres,017,-123.127471,49.254123
+219,50336,Southbound Oak St @ Balfour Ave,017,-123.12759,49.251423
+220,50337,Southbound Oak St @ W King Edward Ave,017,-123.127716,49.248653
+221,50338,Southbound Oak St @ Nanton Ave,017,-123.127793,49.245988
+222,50339,Southbound Oak St @ Devonshire Cres,017,-123.127861,49.244095
+223,50341,Southbound Oak St @ W 33 Ave,017,-123.12796,49.241077
+224,50342,Southbound Oak St @ W 37 Ave,017,-123.128102,49.237306
+225,50347,Eastbound W 4th Ave @ Tolmie St,004; 044; 084,-123.21149,49.268974
+226,50349,Eastbound W 4th Ave @ Trimble St,004,-123.2064,49.268907
+227,50350,Eastbound W 4th Ave @ 4100 Block,004; 042; 044; 084,-123.197617,49.268679
+228,50352,Eastbound W 4th Ave @ Wallace St,004; 042,-123.190183,49.26852
+229,50354,Eastbound W 4th Ave @ Alma St,004; 007; 044; 084,-123.185205,49.268538
+230,50355,Southbound Alma St @ W 4th Ave,007; 042,-123.18585,49.268214
+231,50356,Southbound Alma St @ W 6th Ave,007; 042,-123.185897,49.266642
+232,50357,Southbound Alma St @ W 10 Ave,009; 014; 042; 099; N17,-123.186028,49.26367
+233,50359,Southbound Alma St @ W 12 Ave,007,-123.186069,49.261267
+234,50360,Southbound Dunbar Diversion @ W 14 Ave,007,-123.184374,49.259981
+235,50361,Southbound Dunbar St @ W 15 Ave,007,-123.184116,49.258657
+236,50362,Southbound Dunbar St @ W 17 Ave,007; 025,-123.185245,49.257067
+237,50364,Southbound Dunbar St @ W 21 Ave,007; 025,-123.18526,49.253446
+238,50366,Southbound Dunbar St @ W King Edward Ave,007,-123.185302,49.249684
+239,50367,Southbound Dunbar St @ W 27 Ave,007,-123.185322,49.247813
+240,50368,Southbound Dunbar St @ W 29 Ave,007,-123.185332,49.245928
+241,50369,Southbound Dunbar St @ W 31 Ave,007,-123.185351,49.243962
+242,50370,Southbound Dunbar St @ W 33 Ave,007,-123.185368,49.242056
+243,50371,Southbound Dunbar St @ W 35 Ave,007,-123.185397,49.240149
+244,50372,Southbound Dunbar St @ W 37 Ave,007,-123.185425,49.238349
+245,50374,Eastbound W 41 Ave @ Collingwood St,002; 041; N22,-123.181639,49.234687
+246,50375,Eastbound W 41 Ave @ Blenheim St,002; 041; N22,-123.178303,49.234696
+247,50377,Eastbound W 41 Ave @ Carnarvon St,R4,-123.172505,49.234677
+248,50378,Eastbound W 41 Ave @ Macdonald St,041,-123.166968,49.234665
+249,50379,Eastbound W 41 Ave @ Elm St,041,-123.16364,49.234632
+250,50380,Eastbound W 41 Ave @ Balsam St,041,-123.160946,49.234588
+251,50381,Eastbound W 41 Ave @ Yew St,041,-123.158131,49.234552
+252,50383,Eastbound W 41 Ave @ Maple St,041,-123.151616,49.234437
+253,50384,Eastbound W 41 Ave @ Cypress St,041,-123.148854,49.234394
+254,50385,Eastbound W 41 Ave @ Wiltshire St,041,-123.145952,49.234351
+255,50386,Eastbound W 41 Ave @ Adera St,041,-123.142893,49.2343
+256,50388,Eastbound W 41 Ave @ Granville St,041,-123.140768,49.234268
+257,50389,Eastbound W 4th Ave @ Collingwood St,004; 007,-123.181214,49.268471
+258,50393,Eastbound W 4th Ave @ Macdonald St,004; 007; 014; 044; 084,-123.167779,49.268274
+259,50394,Eastbound W 4th Ave @ Trafalgar St,004; 007; 014,-123.164123,49.268236
+260,50397,Eastbound W 4th Ave @ Vine St,004; 007; 014; 044; 084,-123.156884,49.268115
+261,50398,Eastbound W 4th Ave @ Arbutus St,004; 007; 014,-123.152371,49.268041
+262,50400,Eastbound W 4th Ave @ Burrard St,004; 007; 014; 084,-123.145082,49.26793
+263,50401,Eastbound W 4th Ave @ Fir St,004; 007; 014; 050; 084,-123.140145,49.267853
+264,50403,Westbound W 5th Ave @ Granville St,004; 007; 014; 050,-123.137905,49.266843
+265,50405,Burrard Station @ Bay 2,209; 210; 211; 214,-123.12037,49.286035
+266,50406,Eastbound W Pender St @ Thurlow St,019; 209; 210; 211; 214,-123.119204,49.287073
+267,50407,Northbound Homer St @ W Pender St,014; 209; 210; 211; 214,-123.111441,49.282981
+268,50408,Northbound Seymour St @ W Hastings St,044; R5,-123.112535,49.28481
+269,50410,Southbound Cambie St @ W Hastings St,004; 019; 050,-123.109799,49.282211
+270,50411,Eastbound Nelson St @ Cambie St,017; N15,-123.117719,49.275788
+271,50412,Southbound Cambie St @ W 7th Ave,015; 017; N15,-123.114982,49.264477
+272,50414,Southbound Cambie St @ W 12 Ave,015; N15,-123.115144,49.260113
+273,50415,Southbound Cambie St @ W 16 Ave,015; 033; N15,-123.115252,49.256555
+274,50416,Southbound Cambie St @ W 18 Ave,015; 033; N15,-123.115282,49.254674
+275,50417,Southbound Cambie St @ W 20 Ave,015; 033; N15,-123.115379,49.252766
+276,50418,Southbound Cambie St @ W 22 Ave,015; 033; N15,-123.115447,49.250985
+277,50419,King Edward Station @ Bay 4,015; 033; N15,-123.115722,49.248634
+278,50421,Southbound Cambie St @ W 31 Ave,015; N15,-123.118428,49.242949
+279,50422,Southbound Cambie St @ W 33 Ave,015; N15,-123.118651,49.24075
+280,50423,Southbound Cambie St @ W 35 Ave,015; N15,-123.116678,49.238762
+281,50424,Southbound Cambie St @ W 37 Ave,015; N15,-123.11629,49.237007
+282,50425,Eastbound E Cordova St @ Main St,004; 007; 209; 210; 211; 214,-123.098943,49.282203
+283,50426,Eastbound E Cordova St @ Dunlevy Ave,004; 007; 209,-123.094846,49.282136
+284,50427,Eastbound E Cordova St @ Princess Ave,004; 007; 209,-123.091063,49.282067
+285,50429,Eastbound Powell St @ Glen Dr,004; 007; 209,-123.081697,49.282672
+286,50431,Eastbound Powell St @ Clark Dr,004; 007; 209,-123.076625,49.283029
+287,50433,Eastbound Powell St @ Commercial Dr,004; 007; 209; 210; 211; 214,-123.069837,49.283885
+288,50435,Eastbound Powell St @ Victoria Dr,004; 007; 209,-123.065065,49.284771
+289,50436,Eastbound Dundas St @ Lakewood Dr,004; 007; 209,-123.061245,49.284754
+290,50437,Eastbound Dundas St @ Templeton Dr,004; 007; 209,-123.059274,49.284738
+291,50438,Northbound N Nanaimo St @ Dundas St,004; 209; 210; 211; 214,-123.05639,49.285176
+292,50440,Northbound N Nanaimo St @ Eton St,004; 209,-123.056367,49.288013
+293,50442,Eastbound McGill St @ N Penticton St,004; 209,-123.051421,49.288627
+294,50443,Eastbound McGill St @ N Slocan St,004; 209,-123.048823,49.288617
+295,50445,Westbound Eton St @ N Renfrew St,004,-123.044683,49.287774
+296,50446,Eastbound McGill St @ N Renfrew St,209; 210; 211; 214,-123.0434,49.288595
+297,50449,Westbound McGill St @ N Renfrew St,209; 210; 211; 214,-123.044601,49.288825
+298,50451,Northbound Oak St @ W 38 Ave,017,-123.12785,49.237021
+299,50453,Northbound Oak St @ W 33 Ave,017,-123.12769,49.241748
+300,50454,Northbound Oak St @ Devonshire Cres,017,-123.127493,49.244894
+301,50455,Northbound Oak St @ W 27 Ave,017,-123.12749,49.247506
+302,50456,Northbound Oak St @ W King Edward Ave,017,-123.127357,49.249632
+303,50457,Northbound Oak St @ W 22 Ave,017,-123.127311,49.251967
+304,50458,Northbound Oak St @ W 20 Ave,017,-123.127236,49.253935
+305,50459,Northbound Oak St @ W 17 Ave,017,-123.127109,49.256575
+306,50464,Westbound W Broadway @ Spruce St,009; 017; N9,-123.129369,49.26354
+307,50465,Westbound W Broadway @ Alder St,009; N9,-123.131742,49.263576
+308,50467,Oakridge-41st Ave Station @ Bay 6,015; N15,-123.115953,49.233905
+309,50469,Northbound Cambie St @ W 37 Ave,015; N15,-123.1158,49.237495
+310,50471,Northbound Cambie St @ W 33 Ave,015; N15,-123.11818,49.241409
+311,50475,King Edward Station @ Bay 2,015; 033; N15,-123.115245,49.249415
+312,50476,Northbound Cambie St @ W 22 Ave,015; 033; N15,-123.115164,49.251472
+313,50477,Northbound Cambie St @ W 20 Ave,015; 033; N15,-123.115102,49.253243
+314,50478,Northbound Cambie St @ W 18 Ave,015; 033; N15,-123.115019,49.255125
+315,50479,Northbound Cambie St @ W 16 Ave,015; N15,-123.114908,49.257158
+316,50480,Northbound Cambie St @ W 14 Ave,015; N15,-123.114893,49.258988
+317,50481,Northbound Cambie St @ W 12 Ave,015; 017; N15,-123.114831,49.260758
+318,50483,Northbound Cambie St @ W 7th Ave,015; 017; N15,-123.114622,49.264648
+319,50489,Westbound McGill St @ N Kaslo St,004; 209,-123.047415,49.28882
+320,50490,Westbound McGill St @ N Penticton St,004; 209,-123.052418,49.288801
+321,50491,Southbound N Nanaimo St @ McGill St,004; 209,-123.05666,49.288026
+322,50492,Southbound N Nanaimo St @ Cambridge St,004; 209,-123.056672,49.286276
+323,50493,Westbound Dundas St @ N Garden Dr,004; 007; 209; 210; 211; 214,-123.057411,49.284885
+324,50494,Westbound Dundas St @ N Templeton Dr,004; 007; 209,-123.060143,49.284871
+325,50495,Westbound Dundas St @ Wall St,004; 007; 209,-123.063271,49.284888
+326,50496,Westbound Powell St @ Victoria Dr,004; 007; 209,-123.065973,49.2848
+327,50499,Westbound E Hastings St @ Commercial Dr,014; 016; 020; N20; N35; R5,-123.071174,49.281362
+328,50500,Westbound E Hastings St @ McLean Dr,014; 016; 020; N20; N35,-123.074606,49.281378
+329,50501,Westbound E Hastings St @ Clark Dr,014; 016; 020; N20; N35,-123.077888,49.281445
+330,50502,Westbound E Hastings St @ Glen Dr,014; 016; 020; N20; N35,-123.081789,49.281111
+331,50503,Westbound E Hastings St @ Campbell Ave,014; 016; 020; N20; N35,-123.085249,49.281155
+332,50506,Westbound E Hastings St @ Jackson Ave,014; 016; 020; N20; N35,-123.093904,49.281321
+333,50507,Westbound E Hastings St @ Dunlevy Ave,014; 016; 020; N20; N35,-123.095847,49.281356
+334,50508,Westbound Powell St @ Commercial Dr,004; 007; 209; 210; 211; 214,-123.070862,49.283837
+335,50512,Westbound Powell St @ Glen Dr,004; 007; 209,-123.081659,49.282792
+336,50513,Westbound Powell St @ Hawks Ave,004; 007; 209,-123.087522,49.28303
+337,50514,Westbound Powell St @ Heatley Ave,004; 007; 209; 210; 211; 214,-123.089941,49.283076
+338,50515,Westbound Powell St @ Jackson Ave,004; 007; 209,-123.093725,49.283146
+339,50516,Westbound Powell St @ Gore Ave,004; 007; 209,-123.098134,49.283223
+340,50520,Eastbound E Pender St @ Main St,019; N19,-123.100047,49.280329
+341,50526,Southbound Granville St @ W Pender St,004; 007; 010; 014; 016; 050,-123.115939,49.284039
+342,50532,Southbound Granville St @ Nelson St,004; 007; 010; 014; 016; 050,-123.12295,49.27941
+343,50535,Southbound Granville St @ Davie St,004; 007; 010; 014; 016; 050,-123.126905,49.276786
+344,50536,Southbound Granville St @ Drake St,004; 007; 010; 014; 016; 050,-123.128375,49.275854
+345,50537,Westbound W Cloverleaf @ Granville St,004; 007; 014; 050,-123.139046,49.266837
+346,50539,Southbound Granville St @ W 7th Ave,016; N10; N17; N9,-123.138634,49.26511
+347,50540,Westbound W Broadway @ Granville St,009; N17,-123.140158,49.263732
+348,50542,Southbound Granville St @ W 11 Ave,010; 016; N10,-123.138768,49.261424
+349,50543,Southbound Granville St @ W 13 Ave,010; N10,-123.138834,49.259524
+350,50544,Southbound Granville St @ W 15 Ave,010; N10,-123.138899,49.257667
+351,50545,Southbound Granville St @ Angus Dr,010; N10,-123.13903,49.254178
+352,50546,Southbound Granville St @ Matthews Ave,010; N10,-123.139073,49.252781
+353,50547,Southbound Granville St @ Laurier Ave,010; N10,-123.139186,49.2505
+354,50550,Southbound Granville St @ N Connaught Dr,010; N10,-123.139357,49.244793
+355,50551,Southbound Granville St @ W 32 Ave,010; N10,-123.139408,49.243251
+356,50552,Southbound Granville St @ W 33 Ave,010; N10,-123.139454,49.241525
+357,50553,Southbound Granville St @ W 35 Ave,010; N10,-123.139528,49.239615
+358,50554,Southbound Granville St @ W 37 Ave,010; N10,-123.139593,49.237706
+359,50555,Southbound Granville St @ S Connaught Dr,010; N10,-123.139659,49.235947
+360,50556,Southbound Granville St @ W 40 Ave,010,-123.139751,49.235048
+361,50557,Westbound W Broadway @ Pine St,009; N17,-123.143781,49.263769
+362,50558,Westbound W Broadway @ Burrard St,009; N17,-123.146302,49.263829
+363,50561,Westbound W Broadway @ Yew St,009; N17,-123.155724,49.263962
+364,50562,Westbound W Broadway @ Balsam St,009; N17,-123.160487,49.264051
+365,50563,Westbound W Broadway @ Trafalgar St,009; N17,-123.165212,49.264113
+366,50564,Westbound W Broadway @ Macdonald St,009; 014; N17,-123.168896,49.264174
+367,50565,Westbound W Broadway @ Bayswater St,009; 014; N17,-123.171711,49.264221
+368,50566,Westbound W Broadway @ Balaclava St,009; 014; N17,-123.174408,49.264241
+369,50567,Westbound W Broadway @ Blenheim St,009; 014; N17,-123.178243,49.264311
+370,50568,Westbound W Broadway @ Collingwood St,009; 014; N17,-123.182257,49.264377
+371,50571,Westbound W 10 Ave @ Wallace St,009; 014; N17,-123.191417,49.263644
+372,50572,Westbound W 10 Ave @ Crown St,009; 014; N17,-123.194468,49.263683
+373,50573,Westbound W 10 Ave @ Camosun St,009; 014; N17,-123.197332,49.263725
+374,50574,Westbound W 10 Ave @ Courtenay St,009; 014; N17,-123.200725,49.263781
+375,50575,Westbound W 10 Ave @ Discovery St,009; 014; N17,-123.203438,49.263828
+376,50576,Westbound W 10 Ave @ Trimble St,009; 014; N17,-123.206461,49.263863
+377,50577,Westbound W 10 Ave @ Tolmie St,009; 014; N17,-123.212506,49.263966
+378,50578,Westbound W 4th Ave @ Fir St,004; 007; 014; 084,-123.141569,49.268039
+379,50579,Westbound W 4th Ave @ Burrard St,004; 007; 014; 084,-123.146085,49.268106
+380,50581,Westbound W 4th Ave @ Arbutus St,004; 007; 014,-123.153127,49.268224
+381,50583,Westbound W 4th Ave @ Balsam St,004; 007; 014,-123.160246,49.26833
+382,50584,Westbound W 4th Ave @ Trafalgar St,004; 007; 014,-123.164962,49.268401
+383,50585,Westbound W 4th Ave @ Macdonald St,004; 007; 044; 084,-123.168863,49.268459
+384,50587,Westbound W 4th Ave @ Balaclava St,004; 007,-123.174217,49.268528
+385,50588,Westbound W 4th Ave @ Blenheim St,004; 007,-123.178075,49.268578
+386,50589,Westbound W 4th Ave @ Collingwood St,004; 007,-123.182096,49.268649
+387,50590,Westbound W 4th Ave @ Alma St,004; 042; 044; 084,-123.186254,49.26871
+388,50591,Westbound W 4th Ave @ Wallace St,004; 042,-123.191056,49.268794
+389,50593,Westbound W 4th Ave @ 4100 Block,004; 042,-123.197836,49.268917
+390,50594,Westbound W 4th Ave @ NW Marine Dr,004; 044; 084,-123.200584,49.268604
+391,50595,Westbound W 4th Ave @ Trimble St,004,-123.206426,49.269028
+392,50596,Westbound W 4th Ave @ Sasamat St,004,-123.209399,49.269083
+393,50598,Southbound Blanca St @ W 4th Ave,004; 044; 084,-123.215183,49.268693
+394,50600,Blanca Loop @ Bay 2,004,-123.215302,49.265146
+395,50601,Westbound University Blvd @ Blanca St,004; 009; 014; N17,-123.215915,49.264016
+396,50602,Westbound University Blvd @ 5100 Block,004; 009; 014; N17,-123.229837,49.263693
+397,50603,Westbound University Blvd @ 5300 Block,004; 009; 014; N17,-123.235541,49.265815
+398,50604,Westbound University Blvd @ Acadia Rd,004; 009; 014; 044; 084; N17,-123.239311,49.267024
+399,50607,Westbound Davie St @ Denman St,005; 006,-123.141411,49.287084
+400,50610,Northbound Denman St @ Haro St,005,-123.136163,49.290911
+401,50611,Eastbound Robson St @ Bidwell St,005,-123.133644,49.29023
+402,50614,Eastbound Robson St @ Bute St,005,-123.126771,49.285774
+403,50621,Southbound Cambie St @ W 41 Ave,015; N15,-123.116425,49.234
+404,50622,Westbound Robson St @ Hamilton St,017; N15,-123.116259,49.279145
+405,50624,Westbound Robson St @ Burrard St,005,-123.123086,49.283556
+406,50626,Westbound Robson St @ Bute St,005,-123.127216,49.286249
+407,50627,Westbound Robson St @ Broughton St,005,-123.130152,49.288152
+408,50628,Westbound Robson St @ Cardero St,005,-123.132542,49.289693
+409,50629,Southbound Denman St @ Robson St,005,-123.135926,49.29124
+410,50630,Southbound Denman St @ Barclay St,005,-123.137908,49.289924
+411,50631,Southbound Denman St @ Comox St,005,-123.140021,49.288522
+412,50632,Southbound Denman St @ Pendrell St,005,-123.141166,49.287773
+413,50633,Eastbound Davie St @ Denman St,005; 006,-123.141124,49.286705
+414,50634,Eastbound Davie St @ Cardero St,006,-123.13847,49.285009
+415,50635,Eastbound Davie St @ Nicola St,006,-123.13726,49.284219
+416,50636,Eastbound Davie St @ Jervis St,006,-123.13477,49.282579
+417,50637,Eastbound Davie St @ Bute St,006,-123.132973,49.28144
+418,50638,Eastbound Davie St @ Thurlow St,006,-123.13096,49.280147
+419,50640,Dunbar Loop @ Bay 2,002; 007; 049; N22,-123.18575,49.234593
+420,50642,Eastbound E 41 Ave @ Sophia St,041,-123.098854,49.232934
+421,50643,Eastbound E 41 Ave @ St. George St,041,-123.094138,49.23287
+422,50644,Eastbound E 41 Ave @ Fraser St,041,-123.090022,49.232769
+423,50645,Eastbound E 41 Ave @ Prince Albert St,041,-123.087361,49.232764
+424,50646,Eastbound E 41 Ave @ Windsor St,041,-123.08434,49.232721
+425,50647,Eastbound E 41 Ave @ Sherbrooke St,041,-123.080668,49.232677
+426,50649,Eastbound E 41 Ave @ Knight St,041; R4,-123.076419,49.232598
+427,50650,Eastbound E 41 Ave @ Fleming St,041,-123.072487,49.23257
+428,50651,Eastbound E 41 Ave @ Bruce St,020; 041,-123.069616,49.232543
+429,50652,Northbound Victoria Dr @ E 41 Ave,020; N20,-123.065403,49.233152
+430,50653,Northbound Victoria Dr @ E 39 Ave,020; N20,-123.065348,49.234784
+431,50654,Northbound Victoria Dr @ E 38 Ave,020; N20,-123.065307,49.236203
+432,50655,Northbound Victoria Dr @ E 36 Ave,020; N20,-123.065288,49.237698
+433,50656,Northbound Victoria Dr @ E 33 Ave,020; N20,-123.065188,49.24032
+434,50657,Northbound Victoria Dr @ E 32 Ave,020; N20,-123.065138,49.241893
+435,50658,Northbound Victoria Dr @ Kingsway,020; N20,-123.065039,49.244828
+436,50659,Eastbound Kingsway @ Victoria Dr,019; 025; N19,-123.064604,49.244769
+437,50660,Eastbound Kingsway @ Nanaimo St,019; N19,-123.057829,49.241611
+438,50661,Eastbound Kingsway @ Slocan St,019; N19,-123.053631,49.23969
+439,50662,Northbound Slocan St @ Kingsway,029; 033,-123.053651,49.24028
+440,50663,Northbound Slocan St @ Ward St,029; 033,-123.052298,49.241686
+441,50664,Northbound Slocan St @ Euclid Ave,029; 033,-123.050495,49.243511
+442,50665,Westbound E 22 Ave @ Slocan St,025,-123.050472,49.250756
+443,50667,Northbound Alma St @ W Broadway,042,-123.185714,49.264644
+444,50668,Northbound Alma St @ W 7th Ave,007; 042,-123.185659,49.266385
+445,50669,Southbound Nanaimo St @ Dundas St,007,-123.05668,49.284388
+446,50671,Southbound Nanaimo St @ E Hastings St,007; 016,-123.056725,49.280782
+447,50673,Southbound Nanaimo St @ Adanac St,007,-123.056711,49.277149
+448,50675,Southbound Nanaimo St @ William St,007,-123.056724,49.27362
+449,50678,Southbound Nanaimo St @ E 1st Ave,007,-123.05673,49.269138
+450,50679,Southbound Nanaimo St @ E 3rd Ave,007,-123.056736,49.267411
+451,50680,Southbound Nanaimo St @ E 5th Ave,007,-123.056743,49.265535
+452,50682,Westbound E Broadway @ Nanaimo St,009; 099; N9,-123.057336,49.26234
+453,50683,Southbound Nanaimo St @ E Broadway,007,-123.056764,49.261831
+454,50685,Southbound Nanaimo St @ E 17 Ave,007,-123.056762,49.254756
+455,50686,Southbound Nanaimo St @ E 20 Ave,007,-123.056768,49.252026
+456,50687,Southbound Nanaimo St @ E 22 Ave,007; 025,-123.056774,49.250268
+457,50688,Nanaimo Station @ Bay 3,007,-123.055476,49.248412
+458,50689,Westbound E Pender St @ Main St,004; 007; 019; 022; 209; 210; 211; 214,-123.100688,49.280463
+459,50690,Eastbound E 22 Ave @ Nanaimo St,025,-123.055999,49.250547
+460,50692,Southbound Slocan St @ E 29 Ave,029; 033,-123.050004,49.24424
+461,50693,Southbound Slocan St @ Norquay St,029; 033,-123.052022,49.242186
+462,50694,Westbound Kingsway @ Slocan St,019; N19,-123.054367,49.240309
+463,50695,Westbound Kingsway @ Nanaimo St,019; 025; N19,-123.0585,49.242199
+464,50697,Southbound Victoria Dr @ Kingsway,020; N20,-123.0653,49.244809
+465,50698,Southbound Victoria Dr @ E 31 Ave,020; N20,-123.065373,49.24251
+466,50699,Southbound Victoria Dr @ E 33 Ave,020; N20,-123.065469,49.239661
+467,50700,Southbound Victoria Dr @ E 36 Ave,020; N20,-123.065531,49.237254
+468,50702,Westbound E 41 Ave @ Victoria Dr,R4,-123.06615,49.232771
+469,50703,Westbound E 41 Ave @ Commercial St,041,-123.069244,49.232719
+470,50706,Westbound E 41 Ave @ Knight St,041; R4,-123.077938,49.232845
+471,50707,Westbound E 41 Ave @ Inverness St,041,-123.080303,49.232846
+472,50708,Westbound E 41 Ave @ Windsor St,041,-123.085282,49.23291
+473,50709,Westbound E 41 Ave @ St. Catherines St,041,-123.087318,49.232938
+474,50710,Westbound E 41 Ave @ Chester St,041,-123.089838,49.232994
+475,50711,Westbound E 41 Ave @ Fraser St,R4,-123.091171,49.233019
+476,50712,Westbound E 41 Ave @ St. George St,041,-123.094859,49.233046
+477,50713,Westbound E 41 Ave @ Prince Edward St,041,-123.097712,49.233094
+478,50714,Westbound E 41st Ave @ Main St,R4,-123.101267,49.233193
+479,50715,Northbound Nanaimo St @ E 22 Ave,007,-123.056489,49.251051
+480,50716,Northbound Nanaimo St @ E 20 Ave,007,-123.056482,49.252691
+481,50717,Northbound Nanaimo St @ E 17 Ave,007,-123.056484,49.255356
+482,50718,Northbound Nanaimo St @ S Grandview Hwy,007,-123.056473,49.257382
+483,50720,Northbound Nanaimo St @ E 11 Ave,007,-123.056471,49.260339
+484,50721,Northbound Nanaimo St @ E Broadway,007,-123.056433,49.262477
+485,50722,Northbound Nanaimo St @ E 6th Ave,007,-123.056462,49.265123
+486,50723,Northbound Nanaimo St @ E 4th Ave,007,-123.056457,49.266968
+487,50724,Northbound Nanaimo St @ E 1st Ave,007,-123.05646,49.269899
+488,50726,Northbound Nanaimo St @ Charles St,007,-123.056442,49.273616
+489,50728,Northbound Nanaimo St @ Adanac St,007,-123.056428,49.277801
+490,50730,Westbound E Hastings St @ Nanaimo St,014; 016; N35; R5,-123.057254,49.281242
+491,50731,Westbound E Hastings St @ Templeton Dr,014; 016; N35,-123.060231,49.28126
+492,50733,Westbound E Hastings St @ Victoria Dr,014; 016; N35,-123.066124,49.281297
+493,50735,Northbound Nanaimo St @ E Hastings St,007,-123.056378,49.281413
+494,50737,Dunbar Loop @ Bay 1,007; 049,-123.185469,49.234424
+495,50738,Marpole Loop @ Bay 1,100,-123.133802,49.202789
+496,50739,Eastbound SW Marine Dr @ Oak St,010; 017; 100,-123.130671,49.204348
+497,50740,Northbound Oak Cloverleaf @ SW Marine Dr,017,-123.128497,49.205921
+498,50742,Northbound Oak St @ W 70 Ave,017,-123.13011,49.208777
+499,50743,Northbound Oak St @ W 67 Ave,017,-123.130033,49.211074
+500,50745,Northbound Oak St @ Park Dr,017,-123.129909,49.214711
+501,50746,Northbound Oak St @ W 59 Ave,017,-123.129005,49.217412
+502,50747,Northbound Oak St @ W 57 Ave,017,-123.128433,49.219518
+503,50748,Northbound Oak St @ W 54 Ave,017,-123.128353,49.221798
+504,50751,Northbound Oak St @ W 49 Ave,017,-123.128159,49.226867
+505,50752,Northbound Oak St @ W 46 Ave,017,-123.128098,49.229544
+506,50753,Northbound Oak St @ W 43 Ave,017,-123.128003,49.232346
+507,50754,Northbound Oak St @ W 41 Ave,017,-123.127934,49.23366
+508,50755,Westbound SW Marine Dr @ Montcalm St,010; 100,-123.137246,49.204167
+509,50756,Westbound SW Marine Dr @ Granville St,010; 100; N10,-123.139869,49.205047
+510,50757,Northbound Granville St @ W 71 Ave,010; 100; N10,-123.1404,49.207431
+511,50758,Northbound Granville St @ W 70 Ave,010; N10,-123.14035,49.208885
+512,50759,Northbound Granville St @ W 67 Ave,010; N10,-123.140317,49.211168
+513,50760,Northbound Granville St @ W 64 Ave,010,-123.140212,49.213646
+514,50761,Northbound Granville St @ W 62 Ave,010; N10,-123.140165,49.215299
+515,50763,Northbound Granville St @ W 57 Ave,010; N10,-123.14,49.219694
+516,50764,Northbound Granville St @ W 55 Ave,010; N10,-123.139943,49.221123
+517,50765,Northbound Granville St @ W 53 Ave,010; N10,-123.139886,49.222949
+518,50767,Northbound Granville St @ W 49 Ave,010; N10,-123.139703,49.227422
+519,50769,Northbound Granville St @ W 46 Ave,010; N10,-123.139609,49.229985
+520,50770,Northbound Granville St @ W 43 Ave,010; N10,-123.139507,49.232803
+521,50771,Eastbound Kingsway @ Main St,008; 019; N19; N8,-123.100514,49.263824
+522,50772,Eastbound E Broadway @ Kingsway,008; 009; N8; N9,-123.098055,49.262719
+523,50773,Eastbound E Broadway @ Prince Edward St,008; 009; N8; N9,-123.095524,49.262454
+524,50774,Eastbound E Broadway @ St. George St,008; 009; N8; N9,-123.092514,49.262402
+525,50775,Southbound Fraser St @ E Broadway,008; N8,-123.089232,49.262021
+526,50776,Southbound Fraser St @ E 11 Ave,008; N8,-123.089275,49.26032
+527,50777,Southbound Fraser St @ E 13 Ave,008; N8,-123.089284,49.258479
+528,50778,Southbound Fraser St @ E 16 Ave,008; N8,-123.090058,49.25611
+529,50779,Southbound Fraser St @ E 19 Ave,008; N8,-123.090123,49.25348
+530,50780,Southbound Fraser St @ E 21 Ave,008; N8,-123.090186,49.25162
+531,50781,Southbound Fraser St @ E 23 Ave,008; N8,-123.090246,49.249808
+532,50782,Southbound Fraser St @ E King Edward Ave,008; N8,-123.090273,49.248306
+533,50783,Southbound Fraser St @ E 27 Ave,008; N8,-123.090308,49.246305
+534,50784,Southbound Fraser St @ E 29 Ave,008; N8,-123.090388,49.244247
+535,50786,Southbound Fraser St @ E 33 Ave,008; N8,-123.090476,49.239976
+536,50787,Southbound Fraser St @ E 35 Ave,008; N8,-123.090514,49.238045
+537,50788,Southbound Fraser St @ E 37 Ave,008; N8,-123.090613,49.236049
+538,50789,Southbound Fraser St @ E 39 Ave,008; N8,-123.090651,49.234521
+539,50790,Southbound Fraser St @ E 41 Ave,008; N8,-123.090705,49.232478
+540,50791,Southbound Fraser St @ E 43 Ave,008; N8,-123.090713,49.230719
+541,50792,Southbound Fraser St @ E 45 Ave,008; N8,-123.090762,49.228897
+542,50793,Southbound Fraser St @ E 47 Ave,008; N8,-123.090813,49.227099
+543,50794,Southbound Fraser St @ E 49 Ave,008; N8,-123.090918,49.225133
+544,50795,Southbound Fraser St @ E 51 Ave,008; N8,-123.090958,49.223292
+545,50796,Southbound Fraser St @ E 53 Ave,008; N8,-123.091,49.22148
+546,50797,Southbound Fraser St @ E 55 Ave,008; N8,-123.091056,49.219642
+547,50798,Southbound Fraser St @ E 57 Ave,008; N8,-123.091092,49.217937
+548,50799,Southbound Fraser St @ E 59 Ave,008; N8,-123.091124,49.216234
+549,50800,Southbound Fraser St @ E 61 Ave,008; N8,-123.091155,49.214571
+550,50801,Southbound Fraser St @ E 63 Ave,008; N8,-123.091181,49.212749
+551,50802,Southbound Fraser St @ E 65 Ave,008; N8,-123.091218,49.211508
+552,50804,Eastbound W 41 Ave @ Oak St,R4,-123.126888,49.2338
+553,50805,Southbound Oak St @ W 41 Ave,017; 041,-123.128231,49.233541
+554,50806,Southbound Oak St @ W 43 Ave,017,-123.128278,49.231779
+555,50807,Southbound Oak St @ W 46 Ave,017,-123.128376,49.229046
+556,50808,Southbound Oak St @ W 49 Ave,017,-123.128478,49.22616
+557,50810,Southbound Oak St @ W 54 Ave,017,-123.128635,49.221231
+558,50811,Southbound Oak St @ W 57 Ave,017,-123.128765,49.218926
+559,50812,Southbound Oak St @ W 59 Ave,017,-123.129581,49.216857
+560,50813,Southbound Oak St @ Park Dr,017,-123.130177,49.214689
+561,50815,Southbound Oak St @ W 67 Ave,017,-123.130325,49.21048
+562,50816,Southbound Oak St @ W 70 Ave,017,-123.130386,49.208654
+563,50819,Westbound SW Marine Dr @ Oak St,010; 100,-123.131063,49.20453
+564,50820,Northbound Fraser St @ E 65 Ave,008; N8,-123.090933,49.212147
+565,50821,Northbound Fraser St @ E 62 Ave,008; N8,-123.090903,49.214241
+566,50822,Northbound Fraser St @ E 60 Ave,008; N8,-123.090881,49.215947
+567,50824,Northbound Fraser St @ E 54 Ave,008; N8,-123.090756,49.22126
+568,50825,Northbound Fraser St @ E 52 Ave,008; N8,-123.090707,49.223033
+569,50827,Northbound Fraser St @ E 49 Ave,008; N8,-123.090643,49.225766
+570,50828,Northbound Fraser St @ E 47 Ave,008; N8,-123.090596,49.227632
+571,50829,Northbound Fraser St @ E 45 Ave,008; N8,-123.090556,49.229442
+572,50830,Northbound Fraser St @ E 43 Ave,008; N8,-123.0905,49.231265
+573,50831,Northbound Fraser St @ E 41 Ave,008; N8,-123.090406,49.233627
+574,50832,Northbound Fraser St @ E 39 Ave,008; N8,-123.090364,49.235102
+575,50833,Northbound Fraser St @ E 37 Ave,008; N8,-123.090324,49.236772
+576,50834,Northbound Fraser St @ E 35 Ave,008; N8,-123.090274,49.23862
+577,50835,Northbound Fraser St @ E 33 Ave,008; N8,-123.09022,49.240627
+578,50838,Northbound Fraser St @ E 28 Ave,008; N8,-123.090107,49.245869
+579,50840,Northbound Fraser St @ E King Edward Ave,008; N8,-123.089998,49.248973
+580,50841,Northbound Fraser St @ E 22 Ave,008; N8,-123.089924,49.251282
+581,50843,Northbound Fraser St @ E 17 Ave,008; N8,-123.089737,49.255774
+582,50844,Northbound Fraser St @ E 14 Ave,008; N8,-123.089096,49.258292
+583,50845,Northbound Fraser St @ E 12 Ave,008; N8,-123.089055,49.260077
+584,50846,Northbound Fraser St @ E 10 Ave,008; N8,-123.08903,49.261837
+585,50848,Westbound E Broadway @ St. George St,008; 009; N8; N9,-123.093535,49.262598
+586,50849,Westbound E Broadway @ Prince Edward St,008; 009; N8; N9,-123.096513,49.262835
+587,50850,Westbound E Broadway @ Scotia St,008; 009; 099; N8; N9,-123.098697,49.262926
+588,50852,Westbound W Hastings St @ Richards St,003; 008; 014; 016; N20,-123.112367,49.284435
+589,50853,Southbound Granville St @ W 41 Ave,010; 041; N10,-123.139775,49.233799
+590,50854,Southbound Granville St @ W 43 Ave,010; N10,-123.139799,49.232098
+591,50855,Southbound Granville St @ W 47 Ave,010; N10,-123.139921,49.228469
+592,50856,Southbound Granville St @ W 49 Ave,010; 049; N10,-123.139991,49.226415
+593,50857,Southbound Granville St @ W 52 Ave,010; N10,-123.140097,49.223822
+594,50858,Southbound Granville St @ W 54 Ave,010; N10,-123.140195,49.221382
+595,50859,Southbound Granville St @ W 57 Ave,010; N10,-123.140294,49.218967
+596,50860,Southbound Granville St @ W 59 Ave,010; N10,-123.140361,49.217067
+597,50861,Southbound Granville St @ W 61 Ave,010; N10,-123.140408,49.215526
+598,50862,Southbound Granville St @ W 63 Ave,010; N10,-123.140485,49.213531
+599,50863,Southbound Granville St @ W 65 Ave,010; N10,-123.140547,49.211828
+600,50864,Southbound Granville St @ W 68 Ave,010; N10,-123.140672,49.209597
+601,50865,Southbound Granville St @ W 70 Ave,010; N10,-123.140711,49.20811
+602,50866,Southbound Granville St @ SW Marine Dr,010; N10,-123.140764,49.205733
+603,50871,Eastbound W Broadway @ Fir St,009; N17,-123.140516,49.263525
+604,50873,Eastbound W Broadway @ Willow St,009; N9,-123.121293,49.26323
+605,50878,Eastbound E Broadway @ Ontario St,009; N9,-123.104471,49.262911
+606,50880,Eastbound E Broadway @ Kingsway St,009; N9,-123.099816,49.262778
+607,50883,Eastbound E Broadway @ St. Catherines St,009; N9,-123.084744,49.262351
+608,50884,Eastbound E Broadway @ Glen Dr,009; N9,-123.080869,49.262322
+609,50885,Eastbound E Broadway @ Clark Dr,009; N9,-123.076797,49.262269
+610,50886,Eastbound E Broadway @ Woodland Dr,009; N9,-123.073194,49.262258
+611,50888,Eastbound E Broadway @ Victoria Dr,009; N9,-123.065398,49.262171
+612,50889,Eastbound E Broadway @ Lakewood Dr,009; N9,-123.061609,49.262171
+613,50890,Eastbound E Broadway @ Garden Dr,009; N9,-123.057623,49.26213
+614,50891,Eastbound E Broadway @ Nanaimo St,009; 099; N9,-123.055558,49.261889
+615,50892,Eastbound E Broadway @ Penticton St,009; 027; 099; N9,-123.051333,49.261916
+616,50893,Eastbound E Broadway @ Slocan St,009; 027; N9,-123.049151,49.261917
+617,50894,Eastbound E Broadway @ Kaslo St,009; 027; N9,-123.046541,49.261906
+618,50895,Eastbound E Broadway @ Renfrew St,009; 027; 099; N9,-123.043749,49.261812
+619,50897,Eastbound E Broadway @ Nootka St,009; 027; N9,-123.039755,49.261793
+620,50898,Eastbound E Broadway @ Lillooet St,009; 027; N9,-123.037407,49.261818
+621,50899,Eastbound E Broadway @ Rupert St,009; 099; N9,-123.033192,49.261781
+622,50900,Eastbound Lougheed Hwy @ Skeena St,009; N9,-123.027828,49.263759
+623,50901,Lougheed Hwy @ Boundary Loop,009,-123.024843,49.265467
+624,50902,Westbound Lougheed Hwy @ Skeena St,009; N9,-123.028889,49.263328
+625,50903,Westbound E Broadway @ Cassiar St,009; N9,-123.031548,49.262053
+626,50904,Westbound E Broadway @ Rupert St,009; 099; N9,-123.034312,49.262009
+627,50905,Westbound E Broadway @ Windermere St,009; N9,-123.037125,49.261989
+628,50907,Westbound E Broadway @ Renfrew St,009; 099; N9,-123.044962,49.262097
+629,50908,Westbound E Broadway @ Slocan St,009; N9,-123.050045,49.262111
+630,50909,Westbound E Broadway @ Penticton St,009; 099; N9,-123.051889,49.262111
+631,50910,Westbound E Broadway @ Kamloops St,009; N9,-123.055187,49.262127
+632,50911,Westbound E Broadway @ Lakewood Dr,009; N9,-123.062394,49.262356
+633,50912,Westbound E Broadway @ Semlin Dr,009; N9,-123.064374,49.262384
+634,50913,Commercial-Broadway Station @ Bay 5,099,-123.06875,49.262416
+635,50914,Westbound E Broadway @ Woodland Dr,009; N9,-123.074067,49.262447
+636,50915,Westbound E Broadway @ McLean Dr,009; N9,-123.07607,49.262487
+637,50916,Westbound E Broadway @ Clark Dr,009; 099; N9,-123.078554,49.262499
+638,50917,Westbound E Broadway @ Glen Dr,009; N9,-123.080761,49.262497
+639,50918,Westbound E Broadway @ Windsor St,009; N9,-123.083724,49.262532
+640,50919,Westbound E Broadway @ Prince Albert St,009; N9,-123.087643,49.262579
+641,50920,Westbound W Broadway @ Ontario St,009; N9,-123.105291,49.263101
+642,50921,Westbound W Broadway @ Columbia St,009; N9,-123.109868,49.263212
+643,50924,Westbound W Broadway @ Ash St,009; N9,-123.118098,49.26336
+644,50925,Westbound W Broadway @ Heather St,009; N9,-123.120227,49.263401
+645,50926,Westbound W Broadway @ Willow St,009; N9,-123.122318,49.263433
+646,50927,Westbound W 10 Ave @ Fir St,009,-123.14034,49.262724
+647,50930,Eastbound W Hastings St @ Seymour St,014; 016; 020; N20; N35,-123.112551,49.284334
+648,50931,Eastbound W Hastings St @ Homer St,014; 016; 020; N20; N35,-123.110546,49.283054
+649,50932,Eastbound W Hastings St @ Abbott St,014; 016; 020; N20; N35,-123.10758,49.281983
+650,50934,Eastbound E Hastings St @ Main St,014; 016; 020; N20; N35,-123.099034,49.281225
+651,50935,Eastbound E Hastings St @ Gore Ave,014; 016; 020; N20; N35,-123.096763,49.281207
+652,50936,Eastbound E Hastings St @ Jackson Ave,014; 016; 020; N20; N35,-123.092955,49.281112
+653,50937,Eastbound E Hastings St @ Princess Ave,014; 016; 020; N20; N35,-123.090971,49.281081
+654,50938,Eastbound E Hastings St @ Hawks Ave,014; 016; 020; N20; N35,-123.086654,49.281005
+655,50939,Eastbound E Hastings St @ Campbell Ave,014; 016; 020; N20; N35,-123.084231,49.280957
+656,50940,Eastbound E Hastings St @ Glen Dr,014; 016; 020; N20; N35,-123.08086,49.280904
+657,50941,Eastbound E Hastings St @ Clark Dr,014; 016; 020; N20; N35,-123.076457,49.281195
+658,50943,Eastbound E Hastings St @ Commercial Dr,014; 016; N35,-123.069698,49.28111
+659,50944,Eastbound E Hastings St @ Victoria Dr,014; 016; N35,-123.064979,49.28108
+660,50945,Eastbound E Hastings St @ Lakewood Dr,014; 016; N35,-123.061265,49.281063
+661,50946,Eastbound E Hastings St @ Templeton Dr,014; 016; N35,-123.059289,49.281098
+662,50947,Eastbound E Hastings St @ Nanaimo St,007; 014; 016; N35; R5,-123.055828,49.281059
+663,50948,Eastbound E Hastings St @ Kamloops St,014; 016; N35,-123.054098,49.281035
+664,50949,Eastbound E Hastings St @ Slocan St,014; 016; N35,-123.048668,49.281041
+665,50950,Eastbound E Hastings St @ Kaslo St,014; 016; N35,-123.046243,49.281035
+666,50951,Eastbound E Hastings St @ Renfrew St,014; N35; R5,-123.043299,49.281012
+667,50952,Eastbound E Hastings St @ Lillooet St,014; N35,-123.038301,49.281041
+668,50953,Eastbound E Hastings St @ Windermere St,014; N35,-123.035464,49.281027
+669,50954,Eastbound E Hastings St @ Cassiar St,014; 028; 130; N35,-123.029969,49.281014
+670,50955,Kootenay Loop @ Bay 5,014; R5,-123.026363,49.281385
+671,50956,Westbound E Hastings St @ Skeena St,014; 028; 130; N35,-123.028984,49.281215
+672,50957,Westbound E Hastings St @ Cassiar St,014; N35,-123.032823,49.281267
+673,50958,Westbound E Hastings St @ Windermere St,014; N35,-123.036936,49.281219
+674,50959,Westbound E Hastings St @ Renfrew St,N35; R5,-123.044631,49.281229
+675,50960,Westbound E Hastings St @ Kaslo St,014; 016; N35,-123.047423,49.281226
+676,50961,Westbound E Hastings St @ Penticton St,014; 016; N35,-123.052402,49.281228
+677,50963,Commercial-Broadway Station @ Bay 2,020; N20,-123.069913,49.261929
+678,50967,Southbound Victoria Diversion @ Commercial St,020; N20,-123.067594,49.253864
+679,50968,Southbound Victoria Dr @ Victoria Diversion,020; N20,-123.066107,49.252727
+680,50970,Southbound Victoria Dr @ E 22 Ave,020; N20,-123.065127,49.249893
+681,50971,Southbound Victoria Dr @ E 26 Ave,020; N20,-123.065204,49.247318
+682,50972,Eastbound W Georgia St @ Denman St,019; 240; 241; 246; 247; 250; 253; 254; 257; N24,-123.133397,49.292217
+683,50973,Eastbound W Georgia St @ Broughton St,240; 241; 246; 247; 250; 253; 254; N24,-123.127919,49.288694
+684,50974,Eastbound W Georgia St @ Bute St,240; 241; 246; 247; 250; 253; 254; N24,-123.124885,49.286717
+685,50976,Eastbound W Georgia St @ Granville St,240; 241; 246; 247; 250; 253; 254; 257; N15; N19; N20; N22; N24; N35; N8,-123.118529,49.28264
+686,50978,Westbound W Hastings St @ Granville St,R5,-123.113584,49.285242
+687,50981,Oakridge-41st Ave Station @ Bay 1,015; N15,-123.116479,49.233099
+688,50983,Southbound Cambie St @ W 45 Ave,015; N15,-123.116588,49.229514
+689,50985,Langara-49th Station @ Bay 4,015; N15,-123.116731,49.225846
+690,50986,Southbound Cambie St @ W 54 Ave,015; N15,-123.116906,49.221502
+691,50987,Southbound Cambie St @ W 57 Ave,015; N15,-123.117011,49.218787
+692,50988,Southbound Cambie St @ W 59 Ave,015; N15,-123.117102,49.216483
+693,50990,Southbound Cambie St @ W 62 Ave,015; N15,-123.117204,49.213825
+694,50992,Northbound Cambie St @ W 64 Ave,015; N15,-123.116832,49.212634
+695,50994,Northbound Cambie St @ W 61 Ave,015; N15,-123.116683,49.215412
+696,50995,Northbound Cambie St @ W 59 Ave,015; N15,-123.116608,49.217289
+697,50996,Northbound Cambie St @ W 57 Ave,015; N15,-123.116528,49.219328
+698,50997,Northbound Cambie St @ W 54 Ave,015; N15,-123.116425,49.22204
+699,50999,Langara-49th Station @ Bay 1,015; N15,-123.116241,49.226473
+700,51003,Northbound Cambie St @ W 42 Ave,015; N15,-123.115999,49.232875
+701,51004,Northbound Seymour St @ Davie St,004; 007; 010; 014; 016; 050; N10; N17; N9,-123.124629,49.276811
+702,51006,Northbound Seymour St @ Nelson St,004; 007; 010; 014; 016; 050; N10; N17; N9,-123.121579,49.278835
+703,51008,Southbound Granville St @ W 45 Ave,010; N10,-123.139857,49.230342
+704,51010,Westbound W 64 Ave @ Adera St,016,-123.144003,49.213261
+705,51011,Northbound Angus Dr @ W 64 Ave,016,-123.148376,49.21358
+706,51012,Northbound Angus Dr @ W 61 Ave,016,-123.148305,49.215648
+707,51013,Northbound West Blvd @ W 60 Ave,016,-123.14921,49.217447
+708,51014,Northbound West Blvd @ W 57 Ave,016,-123.150612,49.219817
+709,51015,Northbound West Blvd @ W 54 Ave,016,-123.151884,49.221951
+710,51016,Northbound West Blvd @ W 51 Ave,016,-123.15354,49.224765
+711,51017,Northbound Arbutus St @ W 51 Ave,016,-123.155125,49.225393
+712,51018,Northbound West Blvd @ W 49 Ave,016,-123.155196,49.227498
+713,51019,Northbound West Blvd @ W 46 Ave,016,-123.155632,49.230145
+714,51020,Northbound West Blvd @ W 45 Ave,016,-123.155603,49.231163
+715,51021,Northbound West Blvd @ W 43 Ave,016,-123.155537,49.232961
+716,51022,Northbound West Blvd @ W 41 Ave,016,-123.155429,49.2349
+717,51023,Northbound West Blvd @ W 39 Ave,016,-123.155392,49.236779
+718,51024,Northbound West Blvd @ W 37 Ave,016,-123.155335,49.238609
+719,51026,Northbound Arbutus St @ Quilchena Cres,016,-123.153894,49.241393
+720,51027,Northbound Arbutus St @ W 33 Ave,016,-123.153359,49.242436
+721,51028,Northbound Arbutus St @ Valley Dr,016,-123.153186,49.245478
+722,51029,Northbound Arbutus St @ Nanton Ave,016,-123.153085,49.247961
+723,51030,Northbound Arbutus St @ W King Edward Ave,016,-123.152909,49.251937
+724,51032,Northbound Arbutus St @ W 20 Ave,016,-123.15286,49.254791
+725,51034,Northbound Arbutus St @ W 15 Ave,016,-123.152972,49.258543
+726,51037,Southbound Renfrew St @ E Hastings St,016,-123.044219,49.280776
+727,51038,Southbound Renfrew St @ E Georgia St,016,-123.044227,49.277967
+728,51039,Southbound Renfrew St @ Venables St,016,-123.044245,49.276141
+729,51040,Southbound Renfrew St @ William St,016,-123.044287,49.273888
+730,51041,Southbound Renfrew St @ Kitchener St,016,-123.04431,49.271997
+731,51042,Southbound Renfrew St @ E 1st Ave,016,-123.044397,49.269159
+732,51043,Southbound Renfrew St @ E 4th Ave,016,-123.044405,49.266425
+733,51044,Southbound Renfrew St @ E 5th Ave,016,-123.044419,49.265468
+734,51045,Southbound Renfrew St @ E 8th Ave,016,-123.044459,49.262644
+735,51046,Southbound Renfrew St @ E Broadway,016,-123.04446,49.261461
+736,51048,Southbound Renfrew St @ Grandview Hwy,016,-123.044471,49.257863
+737,51049,Southbound Renfrew St @ E 15 Ave,016,-123.044447,49.255993
+738,51050,Southbound Renfrew St @ E 17 Ave,016,-123.044433,49.254177
+739,51051,Southbound Renfrew St @ E 20 Ave,016,-123.044456,49.252041
+740,51052,Southbound Boyd Diversion @ E 22 Ave,016,-123.044011,49.250326
+741,51053,Southbound Nootka St @ E 25 Ave,016,-123.041717,49.247621
+742,51054,Southbound Nootka St @ E 27 Ave,016,-123.041725,49.245935
+743,51055,Westbound E 29 Ave @ Nootka St,016; 026,-123.042759,49.244625
+744,51056,29th Avenue Station @ Bay 3,016,-123.044757,49.244134
+745,51057,Southbound Earles St @ E 29 Ave,016; 026,-123.042637,49.244188
+746,51058,Southbound Earles St @ Vanness Ave,016; 026,-123.043935,49.242853
+747,51059,Southbound Earles St @ Euclid Ave,016; 026,-123.045765,49.240939
+748,51060,Southbound Earles St @ Horley St,026,-123.047123,49.239532
+749,51061,Northbound Earles St @ Kingsway,016; 026,-123.048391,49.238002
+750,51062,Westbound Kingsway @ Earles St,016; 019; N19,-123.049127,49.237873
+751,51065,Southbound Clarendon St @ E 38 Ave,029,-123.05558,49.235635
+752,51066,Southbound Clarendon St @ E 40 Ave,029,-123.055616,49.233499
+753,51067,Westbound E 41 Ave @ Clarendon St,041; R4,-123.055955,49.232902
+754,51068,Westbound E 41 Ave @ Nanaimo St,041,-123.059252,49.232926
+755,51069,Westbound E 41 Ave @ Gladstone St,041,-123.062675,49.232961
+756,51070,Eastbound E 41 Ave @ Victoria Dr,041,-123.065972,49.232565
+757,51071,Eastbound Kingsway @ Wales St,019; N19,-123.051416,49.238656
+758,51072,Northbound Earles St @ Horley St,016; 026,-123.046457,49.23999
+759,51073,Northbound Earles St @ Euclid Ave,016; 026,-123.045131,49.241376
+760,51074,Northbound Earles St @ Kings Ave,016; 026,-123.043266,49.243327
+761,51075,Northbound Nootka St @ E 26 Ave,016,-123.041531,49.247362
+762,51076,Northbound Boyd Diversion @ Nootka St,016,-123.042078,49.249584
+763,51077,Northbound Boyd Diversion @ E 22 Ave,016,-123.043622,49.250252
+764,51078,Northbound Renfrew St @ E 21 Ave,016,-123.044204,49.251833
+765,51079,Northbound Renfrew St @ E 17 Ave,016,-123.044228,49.254646
+766,51080,Northbound Renfrew St @ E 16 Ave,016,-123.044185,49.255753
+767,51081,Northbound Renfrew St @ Grandview Hwy,016,-123.044132,49.257532
+768,51082,Renfrew Station @ Bay 3,016,-123.0441,49.259529
+769,51083,Northbound Renfrew St @ E Broadway,016,-123.044105,49.262253
+770,51084,Northbound Renfrew St @ E 7th Ave,016,-123.04414,49.264174
+771,51085,Northbound Renfrew St @ E 5th Ave,016,-123.044136,49.266066
+772,51086,Northbound Renfrew St @ E 3rd Ave,016,-123.044107,49.26794
+773,51087,Northbound Renfrew St @ E 1st Ave,016,-123.044037,49.269832
+774,51088,Northbound Renfrew St @ Grant St,016,-123.044039,49.271682
+775,51089,Northbound Renfrew St @ Charles St,016,-123.044011,49.273636
+776,51090,Northbound Renfrew St @ Venables St,016,-123.043972,49.276287
+777,51091,Northbound Renfrew St @ E Georgia St,016,-123.043931,49.278605
+778,51092,Northbound Renfrew St @ E Pender St,016,-123.043939,49.280484
+779,51094,Southbound Arbutus St @ W 12 Ave,016,-123.153185,49.260673
+780,51095,Southbound Arbutus St @ W 14 Ave,016,-123.153203,49.258823
+781,51096,Southbound Arbutus St @ W 16 Ave,016,-123.153045,49.256894
+782,51097,Southbound Arbutus St @ W 19 Ave,016,-123.153065,49.255057
+783,51098,Southbound Arbutus St @ W 21 Ave,016,-123.153131,49.253174
+784,51099,Southbound Arbutus St @ W King Edward Ave,016,-123.153214,49.251137
+785,51102,Southbound Arbutus St @ Valley Dr,016,-123.153466,49.244919
+786,51103,Southbound Arbutus St @ W 32 Ave,016,-123.15359,49.242695
+787,51104,Southbound Arbutus St @ W 35 Ave,016,-123.155467,49.239992
+788,51105,Southbound West Blvd @ W 37 Ave,016,-123.155552,49.23803
+789,51106,Southbound West Blvd @ W 39 Ave,016,-123.155609,49.236097
+790,51107,Southbound West Blvd @ W 41 Ave,016,-123.155677,49.234303
+791,51108,Southbound West Blvd @ W 43 Ave,016,-123.155746,49.232443
+792,51111,Southbound Arbutus St @ W 49 Ave,016,-123.155273,49.226773
+793,51112,Eastbound W 51 Ave @ Arbutus St,016,-123.154675,49.224918
+794,51113,Southbound West Blvd @ W 53 Ave,016,-123.1524,49.222481
+795,51114,Southbound West Blvd @ W 57 Ave,016,-123.150433,49.219164
+796,51115,Southbound West Blvd @ W 60 Ave,016,-123.149023,49.216794
+797,51117,Southbound Angus Dr @ W 63 Ave,016,-123.148557,49.2139
+798,51118,Eastbound W 64 Ave @ East Blvd,016,-123.146293,49.213182
+799,51119,Northbound Adera St @ W 64 Ave,016,-123.143433,49.213522
+800,51120,Marpole Loop @ Bay 2,010,-123.132871,49.20325
+801,51121,Eastbound E 41 Ave @ Victoria Dr,R4,-123.06505,49.232713
+802,51122,Eastbound E 41 Ave @ Gladstone St,041,-123.06167,49.232817
+803,51123,Eastbound E 41 Ave @ Nanaimo St,041,-123.058373,49.232788
+804,51124,Eastbound E 41 Ave @ Clarendon St,041; R4,-123.054813,49.232754
+805,51125,Eastbound E 41 Ave @ Wales St,041,-123.051214,49.232722
+806,51126,Eastbound E 41 Ave @ Earles St,041,-123.04831,49.232715
+807,51127,Eastbound E 41 Ave @ Killarney St,041,-123.045427,49.232892
+808,51128,Eastbound E 41 Ave @ Rupert St,041; R4,-123.042556,49.23288
+809,51129,Eastbound E 41 Ave @ Kerr St,041,-123.039828,49.232892
+810,51130,Eastbound E 41 Ave @ School Ave,041,-123.036985,49.233197
+811,51133,Westbound Keefer St @ Columbia St,023,-123.102946,49.279267
+812,51134,Eastbound Kingsway @ E Broadway,019; N19,-123.099412,49.262551
+813,51135,Eastbound Kingsway @ E 12 Ave,019; N19,-123.097102,49.260192
+814,51136,Eastbound Kingsway @ E 13 Ave,019; N19,-123.095429,49.258948
+815,51137,Eastbound Kingsway @ Carolina St,019; N19,-123.092371,49.257418
+816,51138,Eastbound Kingsway @ Fraser St,019; N19,-123.089018,49.256214
+817,51139,Eastbound Kingsway @ St. Catherines St,019; N19,-123.085052,49.254367
+818,51140,Eastbound Kingsway @ Glen Dr,019; N19,-123.081356,49.252628
+819,51141,Eastbound Kingsway @ Clark Dr,019; N19,-123.077633,49.250834
+820,51142,Eastbound Kingsway @ Knight St,019; N19,-123.075484,49.249736
+821,51143,Eastbound Kingsway @ Dumfries St,019; N19,-123.072988,49.24866
+822,51144,Eastbound Kingsway @ Perry St,019; 025; N19,-123.070924,49.247719
+823,51145,Eastbound Kingsway @ Miller St,019; 025; N19,-123.06866,49.246687
+824,51147,Eastbound Kingsway @ Earles St,019; 026; N19,-123.048397,49.23728
+825,51148,Eastbound Kingsway @ Killarney St,019; 026; N19,-123.045333,49.236159
+826,51149,Eastbound Kingsway @ Rupert St,019; N19,-123.041963,49.235786
+827,51150,Eastbound Kingsway @ McKinnon St,019; N19,-123.037515,49.234792
+828,51151,Eastbound Kingsway @ Joyce St,019; 027; N19,-123.03553,49.233834
+829,51152,Eastbound Kingsway @ Wessex St,019; N19,-123.033767,49.232943
+830,51153,Eastbound Kingsway @ Tyne St,019; N19,-123.031656,49.231987
+831,51154,Eastbound Kingsway @ Melbourne St,019; N19,-123.028846,49.231961
+832,51155,Eastbound Kingsway @ Lincoln St,019; N19,-123.026055,49.232088
+833,51156,Eastbound Kingsway @ Boundary Rd,019; N19,-123.022286,49.232257
+834,51157,Eastbound Kingsway @ Smith Ave,019; N19,-123.018383,49.232578
+835,51158,Eastbound Kingsway @ Inman Ave,019; N19,-123.015229,49.232758
+836,51159,Eastbound Kingsway @ Patterson Ave,019; N19,-123.012252,49.232443
+837,51160,Eastbound Kingsway @ Olive Ave,019; N19,-123.00953,49.231667
+838,51161,Eastbound Kingsway @ Wilson Ave,019; N19,-123.007485,49.230995
+839,51162,Southbound Willingdon Ave @ Kemp St,019; 130,-123.005715,49.229565
+840,51163,Eastbound Central Blvd @ Willingdon Ave,019; 031; 049; 116; 130,-123.006974,49.227271
+841,51164,Metrotown Station @ Bay 2,019,-123.002888,49.226085
+842,51165,Northbound Willingdon Ave @ Central Blvd,019; 130,-123.007012,49.228005
+843,51166,Westbound Kingsway @ Willingdon Ave,019; N19,-123.00553,49.230542
+844,51167,Westbound Kingsway @ Wilson Ave,019; N19,-123.008159,49.231423
+845,51168,Westbound Kingsway @ Barker Ave,019; N19,-123.010599,49.232216
+846,51169,Westbound Kingsway @ Inman Ave,019; N19,-123.016178,49.232908
+847,51170,Westbound Kingsway @ Smith Ave,019; N19,-123.019689,49.23266
+848,51171,Westbound Kingsway @ Boundary Rd,019; N19,-123.022197,49.232527
+849,51172,Westbound Kingsway @ Boundary Rd,019; 027; N19,-123.024096,49.232402
+850,51173,Westbound Kingsway @ Lincoln St,019; N19,-123.026273,49.232284
+851,51174,Westbound Kingsway @ Melbourne St,019; 027; N19,-123.029643,49.232118
+852,51176,Westbound Kingsway @ Wessex St,019; 027; N19,-123.033761,49.233186
+853,51177,Westbound Kingsway @ Joyce St,019; N19,-123.036193,49.234462
+854,51178,Southbound Joyce St @ Kingsway,R4,-123.036343,49.233838
+855,51179,Westbound E 41 Ave @ School Ave,041,-123.03794,49.233084
+856,51180,Westbound E 41 Ave @ Kerr St,041,-123.040741,49.233031
+857,51181,Westbound E 41 Ave @ Rupert St,041; R4,-123.043713,49.233057
+858,51182,Westbound E 41 Ave @ Killarney St,041,-123.046378,49.23303
+859,51183,Westbound E 41 Ave @ Earles St,041,-123.049155,49.232858
+860,51184,Westbound Kingsway @ McKinnon St,019; N19,-123.038053,49.235237
+861,51185,Westbound Kingsway @ Spencer St,019; N19,-123.041047,49.235933
+862,51186,Westbound Kingsway @ Rupert St,019; 026; N19,-123.04296,49.236114
+863,51187,Westbound Kingsway @ Fairmont St,019; 026; N19,-123.046942,49.236931
+864,51189,Westbound Kingsway @ Victoria Dr,019; 025; N19,-123.065671,49.245543
+865,51190,Westbound Kingsway @ Miller St,019; 025; N19,-123.06911,49.247137
+866,51193,Westbound Kingsway @ Knight St,019; N19,-123.076585,49.25051
+867,51194,Westbound Kingsway @ Inverness St,019; N19,-123.080257,49.252366
+868,51195,Westbound Kingsway @ Windsor St,019; N19,-123.084079,49.254147
+869,51197,Westbound Kingsway @ Fraser St,019; N19,-123.090227,49.257027
+870,51198,Westbound Kingsway @ St. George St,019; N19,-123.093585,49.25817
+871,51199,Westbound Kingsway @ E 12 Ave,019; N19,-123.096663,49.260171
+872,51202,Westbound Harrison Dr @ Victoria Dr,020,-123.065781,49.210673
+873,51203,Northbound Victoria Dr @ Fraserview Dr,020; N20,-123.065964,49.212765
+874,51204,Northbound Victoria Dr @ E 61 Ave,020; N20,-123.065913,49.214832
+875,51205,Northbound Victoria Dr @ Brigadoon Ave,020; N20,-123.065874,49.21691
+876,51206,Northbound Victoria Dr @ Upland Dr,020; N20,-123.065832,49.218398
+877,51207,Northbound Victoria Dr @ E 54 Ave,020; N20,-123.065738,49.220662
+878,51208,Northbound Victoria Dr @ E 51 Ave,020; N20,-123.065653,49.223425
+879,51209,Northbound Victoria Dr @ E 49 Ave,020; N20,-123.065603,49.225458
+880,51210,Northbound Victoria Dr @ Waverley Ave,020; N20,-123.065556,49.227465
+881,51211,Northbound Victoria Dr @ E 45 Ave,020; N20,-123.065483,49.229847
+882,51212,Northbound Victoria Dr @ E 43 Ave,020; N20,-123.065432,49.231503
+883,51213,Northbound Victoria Dr @ E 26 Ave,020; N20,-123.064952,49.247959
+884,51215,Northbound Victoria Dr @ E 22 Ave,020; N20,-123.064898,49.250596
+885,51216,Northbound Victoria Diversion @ Victoria Dr,020; N20,-123.066572,49.253274
+886,51217,Northbound Commercial Dr @ Findlay St,020; N20,-123.068394,49.254682
+887,51219,Northbound Commercial Dr @ E 14 Ave,020; N20,-123.069745,49.258015
+888,51220,Northbound Commercial Dr @ E 12 Ave,020; N20,-123.069673,49.259948
+889,51225,Northbound Commercial Dr @ E 3rd Ave,020; N20,-123.06953,49.268043
+890,51226,Northbound Commercial Dr @ E 1st Ave,020; N20,-123.069518,49.269918
+891,51227,Northbound Commercial Dr @ Grant St,020; N20,-123.069481,49.271608
+892,51228,Northbound Commercial Dr @ Charles St,020; N20,-123.06943,49.273323
+893,51229,Northbound Commercial Dr @ Napier St,020; N20,-123.069418,49.275134
+894,51231,Northbound Commercial Diversion @ Venables St,020; N20,-123.069433,49.277014
+895,51232,Northbound Commercial Dr @ E Georgia St,020; N20,-123.070346,49.278704
+896,51233,Northbound Commercial Dr @ E Pender St,020; N20,-123.070272,49.280571
+897,51234,Southbound Commercial Dr @ E Hastings St,020; N20,-123.070549,49.280806
+898,51235,Southbound Commercial Dr @ Frances St,020; N20,-123.070545,49.279104
+899,51236,Southbound Commercial Diversion @ Adanac St,020; N20,-123.069881,49.277328
+900,51237,Southbound Commercial Dr @ Parker St,020; N20,-123.06961,49.275512
+901,51238,Southbound Commercial Dr @ William St,020; N20,-123.069647,49.273685
+902,51239,Southbound Commercial Dr @ Kitchener St,020; N20,-123.069692,49.271878
+903,51240,Southbound Commercial Dr @ Graveley St,020; N20,-123.069755,49.270207
+904,51241,Southbound Commercial Dr @ E 2nd Ave,020; N20,-123.069776,49.268438
+905,51242,Southbound Commercial Dr @ E 4th Ave,020; N20,-123.069808,49.266576
+906,51243,Southbound Commercial Dr @ E 6th Ave,020; N20,-123.069842,49.264806
+907,51244,Southbound Victoria Dr @ E 41 Ave,020; N20,-123.065682,49.232253
+908,51245,Southbound Victoria Dr @ E 43 Ave,020; N20,-123.065727,49.230264
+909,51246,Southbound Victoria Dr @ Waverley Ave,020; N20,-123.065819,49.226693
+910,51248,Southbound Victoria Dr @ E 49 Ave,020; N20,-123.065873,49.224857
+911,51249,Southbound Victoria Dr @ E 51 Ave,020; N20,-123.065922,49.223127
+912,51250,Southbound Victoria Dr @ E 53 Ave,020; N20,-123.065964,49.221481
+913,51251,Southbound Victoria Dr @ Argyle Dr,020; N20,-123.065976,49.219611
+914,51252,Southbound Victoria Dr @ Upland Dr,020; N20,-123.066039,49.217768
+915,51254,Southbound Victoria Dr @ Newport Ave,020; N20,-123.066092,49.215036
+916,51255,Southbound Victoria Dr @ Thornhill Dr,020; N20,-123.066138,49.213015
+917,51256,Southbound Victoria Dr @ E 64 Ave,020; N20,-123.066167,49.21118
+918,51259,Northbound Mackenzie St @ W 38 Ave,002; N22,-123.170182,49.237919
+919,51261,Northbound Mackenzie St @ W 34 Ave,002; N22,-123.170144,49.241595
+920,51263,Northbound Mackenzie St @ W 30 Ave,002; N22,-123.17011,49.245547
+921,51265,Northbound Quesnel Dr @ W King Edward Ave,002; N22,-123.1717,49.249571
+922,51266,Northbound Macdonald St @ W King Edward Ave,002; N22,-123.167771,49.248517
+923,51267,Northbound Macdonald St @ Oliver Cres,002; N22,-123.167732,49.249455
+924,51269,Northbound Macdonald St @ W 22 Ave,002; N22,-123.167687,49.253089
+925,51272,Eastbound E Pender St @ Main St,022,-123.099245,49.280323
+926,51273,Southbound Gore Ave @ Keefer St,022,-123.097251,49.279105
+927,51274,Southbound Gore Ave @ Union St,022,-123.09702,49.27736
+928,51275,Eastbound Terminal Ave @ Western St,022,-123.098889,49.272477
+929,51276,Eastbound Terminal Ave @ Thornton St,022,-123.093947,49.271619
+930,51277,Eastbound Terminal Ave @ Begg St,022,-123.087037,49.270461
+931,51278,Eastbound Prior St @ Dunlevy Ave,022,-123.095194,49.276624
+932,51279,Eastbound Prior St @ Princess Ave,022,-123.091207,49.276551
+933,51280,Eastbound Prior St @ Hawks Ave,022,-123.087659,49.276481
+934,51281,Eastbound Prior St @ Campbell Ave,022,-123.084506,49.276442
+935,51282,Eastbound Venables St @ Glen Dr,022,-123.080955,49.276727
+936,51283,Eastbound Venables St @ Vernon Dr,022,-123.07825,49.276697
+937,51284,Southbound Clark Dr @ Parker St,022,-123.077375,49.275523
+938,51285,Southbound Clark Dr @ William St,022,-123.07742,49.27378
+939,51286,Southbound Clark Dr @ Grant St,022,-123.077466,49.271208
+940,51287,Southbound Clark Dr @ E 1st Ave,022,-123.077555,49.268967
+941,51288,Southbound Clark Dr @ E 3rd Ave,022,-123.077527,49.267558
+942,51289,Southbound Clark Dr @ E 6th Ave,022,-123.07763,49.264806
+943,51290,Southbound Clark Dr @ E Broadway,022,-123.07773,49.262018
+944,51291,Southbound Clark Dr @ E 12 Ave,022,-123.077691,49.259354
+945,51296,Southbound Knight St @ E 23 Ave,022,-123.076243,49.249651
+946,51297,Southbound Knight St @ E King Edward Ave,022,-123.076298,49.248155
+947,51298,Southbound Knight St @ E 27 Ave,022,-123.076373,49.24614
+948,51299,Southbound Knight St @ E 29 Ave,022,-123.076425,49.244204
+949,51300,Southbound Knight St @ E 31 Ave,022,-123.076486,49.242149
+950,51301,Southbound Knight St @ E 33 Ave,022,-123.07656,49.23988
+951,51302,Southbound Knight St @ E 35 Ave,022,-123.076911,49.238186
+952,51303,Southbound Knight St @ E 37 Ave,022,-123.07705,49.236514
+953,51304,Southbound Knight St @ E 39 Ave,022,-123.077104,49.234472
+954,51305,Southbound Knight St @ E 41 Ave,022,-123.077224,49.232305
+955,51306,Southbound Knight St @ E 43 Ave,022,-123.077253,49.230318
+956,51307,Southbound Knight St @ E 45 Ave,022,-123.077321,49.228692
+957,51308,Southbound Knight St @ E 47 Ave,022,-123.077362,49.227344
+958,51309,Southbound Knight St @ E 49 Ave,022; 430,-123.077479,49.224925
+959,51310,Southbound Knight St @ E 51 Ave,022,-123.077505,49.223084
+960,51311,Southbound Knight St @ E 53 Ave,022,-123.077568,49.221522
+961,51313,Southbound Knight St @ E 57 Ave,022; 430,-123.077162,49.218344
+962,51314,Southbound Knight St @ E 58 Ave,022,-123.077184,49.216969
+963,51315,Southbound Knight St @ E 60 Ave,022,-123.077208,49.215154
+964,51316,Southbound Knight St @ E 62 Ave,022; 430,-123.077228,49.213443
+965,51317,Southbound Knight St @ E 63 Ave,022,-123.077238,49.212389
+966,51318,Knight St Underpass @ SE Marine Dr,022,-123.076921,49.21125
+967,51319,Southbound Knight St @ Mitchell Rd,022; 405; 407; 430,-123.077678,49.206054
+968,51325,Northbound Knight St @ Mitchell Rd,022; 405; 407; 430,-123.077182,49.206873
+969,51326,Northbound Knight St @ E 63 Ave,022; 430,-123.076965,49.213213
+970,51327,Northbound Knight St @ E 61 Ave,022,-123.076944,49.214995
+971,51328,Northbound Knight St @ E 59 Ave,022,-123.076922,49.216763
+972,51329,Northbound Knight St @ E 57 Ave,022; 430,-123.076884,49.218444
+973,51330,Northbound Knight St @ E 53 Ave,022,-123.077282,49.221998
+974,51331,Northbound Knight St @ E 51 Ave,022,-123.077214,49.223765
+975,51332,Northbound Knight St @ E 49 Ave,022,-123.077098,49.225701
+976,51333,Northbound Knight St @ E 47 Ave,022,-123.077067,49.227974
+977,51334,Northbound Knight St @ E 45 Ave,022,-123.077025,49.229335
+978,51335,Northbound Knight St @ E 43 Ave,022,-123.076961,49.230966
+979,51336,Northbound Knight St @ E 41 Ave,022,-123.076848,49.233088
+980,51337,Northbound Knight St @ E 39 Ave,022,-123.07681,49.235113
+981,51338,Northbound Knight St @ E 37 Ave,022,-123.076748,49.237188
+982,51339,Northbound Knight St @ E 33 Ave,022,-123.076257,49.240543
+983,51340,Northbound Knight St @ E 32 Ave,022,-123.076223,49.24199
+984,51341,Northbound Knight St @ E 30 Ave,022,-123.076163,49.244049
+985,51342,Northbound Knight St @ E 28 Ave,022,-123.076103,49.245776
+986,51343,Northbound Knight St @ E King Edward Ave,022,-123.075932,49.248848
+987,51344,Northbound Knight St @ Kingsway,022,-123.075903,49.249685
+988,51345,Northbound Knight St @ E 20 Ave,022,-123.075894,49.252354
+989,51346,Northbound Knight St @ E 19 Ave,022,-123.075837,49.253818
+990,51347,Northbound Knight St @ E 17 Ave,022,-123.075773,49.255554
+991,51349,Northbound Clark Dr @ E 11 Ave,022,-123.077343,49.260268
+992,51350,Northbound Clark Dr @ E Broadway,022,-123.077367,49.262754
+993,51351,Northbound Clark Dr @ E 6th Ave,022,-123.077316,49.264845
+994,51352,Northbound Clark Dr @ E 3rd Ave,022,-123.077256,49.268147
+995,51353,Westbound Terminal Ave @ Begg St,022,-123.087153,49.270771
+996,51354,Westbound Terminal Ave @ Thornton St,022,-123.093108,49.271779
+997,51356,Northbound Clark Dr @ E 1st Ave,022,-123.077215,49.269991
+998,51357,Northbound Clark Dr @ Grant St,022,-123.077197,49.271749
+999,51358,Northbound Clark Dr @ William St,022,-123.077153,49.274264
+1000,51359,Westbound Venables St @ Clark Dr,022,-123.077921,49.276842
+1001,51360,Westbound Venables St @ Vernon Dr,022,-123.079737,49.276868
+1002,51361,Westbound Venables St @ Raymur Ave,022,-123.083149,49.276876
+1003,51362,Westbound Prior St @ Hawks Ave,022,-123.087839,49.27661
+1004,51363,Westbound Prior St @ Heatley Ave,022,-123.09021,49.276651
+1005,51364,Westbound Prior St @ Jackson Ave,022,-123.094157,49.276725
+1006,51366,Northbound Gore Ave @ E Georgia St,022,-123.097008,49.278838
+1007,51367,Westbound E Pender St @ Gore Ave,022,-123.097706,49.280427
+1008,51368,Southbound Macdonald St @ W 4th Ave,002; 014; N22,-123.168411,49.268064
+1009,51370,Eastbound W Pender St @ Nicola St,019,-123.128771,49.289898
+1010,51371,Eastbound W Pender St @ Broughton St,019,-123.127117,49.289364
+1011,51372,Eastbound W Pender St @ Jervis St,019,-123.125208,49.288846
+1012,51373,Eastbound W Pender St @ Bute St,019,-123.123062,49.288213
+1013,51374,Eastbound W Hastings St @ Granville St,R5,-123.11425,49.285445
+1014,51377,Eastbound Hastings St @ Ingleton Ave,130; 160; N35,-123.018168,49.280991
+1015,51378,Eastbound Hastings St @ MacDonald Ave,130; 160; N35,-123.015771,49.280966
+1016,51380,Eastbound Hastings St @ Madison Ave,129; 130; 131; 132; 160; N35,-123.008143,49.280948
+1017,51381,Eastbound Hastings St @ Willingdon Ave,129; 130; 131; 132; 160; 222; N35; R5,-123.005171,49.280927
+1018,51382,Southbound Willingdon Ave @ Pender St,130,-123.003234,49.280274
+1019,51383,Southbound Willingdon Ave @ Frances St,130,-123.003254,49.278815
+1020,51384,Southbound Willingdon Ave @ Union St,130,-123.003279,49.277102
+1021,51385,Southbound Willingdon Ave @ Parker St,130,-123.00331,49.275223
+1022,51386,Southbound Willingdon Ave @ William St,130,-123.003294,49.273455
+1023,51389,Brentwood Station @ Bay 7,130; 222,-123.003347,49.266007
+1024,51390,Southbound Willingdon Ave @ Dawson St,025; 123; 130,-123.003368,49.264033
+1025,51392,Eastbound Canada Way @ Willingdon Ave,123,-123.003569,49.254507
+1026,51393,Eastbound Canada Way @ Beta Ave,123,-122.997559,49.254571
+1027,51394,Eastbound Canada Way @ Wayburne Dr,123,-122.992775,49.254305
+1028,51395,Southbound Canada Way @ Hardwick St,123,-122.989142,49.252217
+1029,51396,Eastbound Canada Way @ 4800 Block,123,-122.985898,49.249929
+1030,51451,Westbound Canada Way @ Douglas Rd,123,-122.981263,49.249555
+1031,51452,Westbound Canada Way @ 4800 Block,123,-122.985846,49.250067
+1032,51453,Northbound Canada Way @ Hardwick St,123,-122.988923,49.252334
+1033,51454,Westbound Canada Way @ Royal Oak Ave,123,-122.989318,49.253824
+1034,51455,Westbound Canada Way @ Wayburne Dr,123,-122.995127,49.254779
+1035,51456,Westbound Canada Way @ Beta Ave,123,-122.9987,49.254765
+1036,51457,Westbound Canada Way @ Willingdon Ave,123,-123.002423,49.254741
+1037,51458,Northbound Willingdon Ave @ Juneau St,130,-123.003062,49.263385
+1038,51460,Northbound Willingdon Ave @ Midlawn Dr,130,-123.003117,49.271387
+1039,51462,Northbound Willingdon Ave @ William St,130,-123.003095,49.2741
+1040,51463,Northbound Willingdon Ave @ Parker St,130,-123.003113,49.275944
+1041,51464,Northbound Willingdon Ave @ Georgia St,130,-123.003062,49.278616
+1042,51466,Westbound Hastings St @ Madison Ave,129; 130; 131; 132; 160; N35,-123.009258,49.281127
+1043,51467,Westbound Hastings St @ Gilmore Ave,130; 131; 132; 160; N35; R5,-123.014877,49.281147
+1044,51468,Westbound Hastings St @ Ingleton Ave,130; 160; N35,-123.01911,49.281179
+1045,51469,Westbound Hastings St @ Esmond Ave,130; 160; N35,-123.021845,49.281222
+1046,51470,Kootenay Loop @ Bay 6,028; 130; 222,-123.026407,49.281212
+1047,51471,Westbound W Pender St @ Thurlow St,019,-123.120865,49.287731
+1048,51472,Westbound W Pender St @ Bute St,019,-123.123694,49.288565
+1049,51473,Westbound W Pender St @ Broughton St,019,-123.12775,49.289741
+1050,51474,Westbound W Georgia St @ Cardero St,019; 240; 241; 246; 247; 250; 253; 254; N24,-123.130883,49.290935
+1051,51475,Westbound W Georgia St @ Denman St,019; 240; 241; 246; 247; 250; 253; 254; 257; N24,-123.134018,49.292951
+1052,51476,Westbound W Georgia St @ Gilford St,019,-123.13563,49.294006
+1053,51477,Westbound Stanley Park Dr @ Pipeline Rd,019,-123.136104,49.297003
+1054,51479,Southbound Wesbrook Mall @ Agronomy Rd,025; 033; 049,-123.243748,49.264
+1055,51480,Southbound Wesbrook Mall @ Thunderbird Blvd,025; 033; 049,-123.240994,49.260754
+1056,51483,Southbound Wesbrook Mall @ Hampton Place,025; 033; 049,-123.237949,49.257295
+1057,51484,Eastbound W 16 Ave @ Wesbrook Mall,025; 033,-123.235156,49.256014
+1058,51485,Eastbound W 16 Ave @ Pacific Spirit Park,025; 033,-123.221642,49.258318
+1059,51486,Eastbound W 16 Ave @ Blanca St,025; 033,-123.214903,49.258259
+1060,51487,Eastbound W 16 Ave @ Tolmie St,025; 033,-123.21185,49.25819
+1061,51488,Eastbound W 16 Ave @ Trimble St,025; 033,-123.205776,49.258107
+1062,51490,Eastbound W 16 Ave @ Camosun St,025; 033,-123.197494,49.257986
+1063,51491,Eastbound W 16 Ave @ Crown St,025; 033,-123.193063,49.257917
+1064,51492,Eastbound W 16 Ave @ Highbury St,025; 033,-123.187544,49.257833
+1065,51493,Eastbound W King Edward Ave @ Dunbar St,025,-123.184491,49.249918
+1066,51495,Eastbound W King Edward Ave @ Blenheim St,025,-123.178128,49.249892
+1067,51497,Eastbound W King Edward Ave @ Quesnel Dr,025,-123.172403,49.250075
+1068,51498,Eastbound W King Edward Ave @ Puget Dr,025,-123.167306,49.247954
+1069,51499,Eastbound W King Edward Ave @ Brakenridge St,025,-123.162016,49.248553
+1070,51500,Eastbound W King Edward Ave @ Valley Dr,025,-123.158783,49.249818
+1071,51501,Eastbound W King Edward Ave @ Yew St,025,-123.155187,49.251217
+1072,51502,Eastbound W King Edward Ave @ Arbutus St,025,-123.153365,49.251448
+1073,51503,Eastbound W King Edward Ave @ Maple Cres,025,-123.151127,49.250503
+1074,51504,Eastbound W King Edward Ave @ Cypress St,025,-123.148494,49.249462
+1075,51505,Eastbound W King Edward Ave @ Marguerite St,025,-123.144254,49.249352
+1076,51507,Eastbound W King Edward Ave @ Granville St,025,-123.138678,49.249267
+1077,51508,Eastbound W King Edward Ave @ Hudson St,025,-123.133894,49.249192
+1078,51510,Eastbound W King Edward Ave @ Oak St,025,-123.127001,49.24909
+1079,51511,Eastbound W King Edward Ave @ Willow St,025,-123.121932,49.248988
+1080,51513,King Edward Station @ Bay 3,025,-123.114707,49.248866
+1081,51518,Eastbound E King Edward Ave @ Main St,025,-123.100559,49.248697
+1082,51519,Eastbound E King Edward Ave @ Prince Edward St,025,-123.096185,49.248638
+1083,51520,Eastbound E King Edward Ave @ St. George St,025,-123.093688,49.248609
+1084,51521,Eastbound E King Edward Ave @ Fraser St,025,-123.08963,49.24856
+1085,51522,Eastbound E King Edward Ave @ St. Catherines St,025,-123.085285,49.248521
+1086,51523,Eastbound E King Edward Ave @ Glen Dr,025,-123.081441,49.248473
+1087,51525,Eastbound E King Edward Ave @ Knight St,025,-123.075675,49.248429
+1088,51526,Northbound Nanaimo St @ Kingsway,025,-123.057651,49.242099
+1089,51527,Northbound Nanaimo St @ Brock St,025,-123.056503,49.244157
+1090,51530,Eastbound E 22 Ave @ Slocan St,025,-123.049111,49.250567
+1091,51532,Eastbound E 22 Ave @ Boyd Diversion,025,-123.043474,49.250553
+1092,51533,Eastbound E 22 Ave @ Lillooet St,025,-123.038654,49.250535
+1093,51534,Eastbound E 22 Ave @ Rupert St,025,-123.033251,49.250529
+1094,51535,Eastbound E 22 Ave @ Cassiar St,025,-123.030547,49.250536
+1095,51536,Eastbound E 22 Ave @ Kootenay St,025,-123.025808,49.250584
+1096,51537,Eastbound Kincaid St @ Boundary Rd,025,-123.023043,49.24878
+1097,51538,Eastbound Kincaid St @ Smith Ave,025; 028; 129,-123.019355,49.248763
+1098,51539,Eastbound Kincaid St @ MacDonald Ave,025; 129,-123.01485,49.248871
+1099,51541,Eastbound Sanderson Way @ Mathissi Place,025,-123.005459,49.247462
+1100,51542,Northbound Willingdon Ave @ Goard Way,025; 130; 222,-123.004148,49.251498
+1101,51543,Northbound Willingdon Ave @ Canada Way,025; 130,-123.004109,49.254192
+1102,51545,Southbound Willingdon Ave @ Canada Way,025; 130,-123.004529,49.254039
+1103,51546,Southbound Willingdon Ave @ Goard Way,025; 130; 222,-123.004474,49.251436
+1104,51547,Southbound Willingdon Ave @ Sanderson Way,025; 130,-123.004458,49.247982
+1105,51548,Westbound Sanderson Way @ Gilmore Way,025,-123.008823,49.248583
+1106,51549,Westbound Kincaid St @ Gilmore Way,025; 129,-123.011149,49.249351
+1107,51551,Westbound Kincaid St @ Smith Ave,025,-123.020199,49.24887
+1108,51552,Westbound Kincaid St @ Boundary Rd,025,-123.023167,49.248883
+1109,51553,Westbound E 22 Ave @ Boundary Rd,025,-123.024281,49.250709
+1110,51554,Westbound E 22 Ave @ Anzio Dr,025,-123.028964,49.250701
+1111,51555,Westbound E 22 Ave @ Rupert St,025,-123.034851,49.250678
+1112,51556,Westbound E 22 Ave @ Windermere St,025,-123.036911,49.250669
+1113,51558,Westbound E 22 Ave @ Renfrew St,025,-123.043612,49.250692
+1114,51560,Nanaimo Station @ Bay 2,025,-123.055976,49.248591
+1115,51561,Southbound Nanaimo St @ E 28 Ave,025,-123.056785,49.24547
+1116,51562,Southbound Nanaimo St @ Brock St,025,-123.056787,49.243673
+1117,51563,Westbound E King Edward Ave @ Kingsway,025,-123.073107,49.24854
+1118,51564,Westbound E King Edward Ave @ Knight St,025,-123.076586,49.248608
+1119,51565,Westbound E King Edward Ave @ Inverness St,025,-123.080402,49.248594
+1120,51566,Westbound E King Edward Ave @ Windsor St,025,-123.084376,49.248642
+1121,51568,Westbound E King Edward Ave @ Fraser St,025,-123.090591,49.248724
+1122,51569,Westbound E King Edward Ave @ St. George St,025,-123.094411,49.248752
+1123,51570,Westbound E King Edward Ave @ Prince Edward St,025,-123.097125,49.248783
+1124,51571,Westbound E King Edward Ave @ Main St,025,-123.101632,49.248868
+1125,51572,Westbound W King Edward Ave @ Ontario St,025,-123.105388,49.248922
+1126,51573,Westbound W King Edward Ave @ Columbia St,025,-123.110516,49.249023
+1127,51574,King Edward Station @ Bay 1,025,-123.116003,49.249121
+1128,51575,Westbound W King Edward Ave @ Heather St,025,-123.120844,49.249205
+1129,51576,Westbound W King Edward Ave @ Laurel St,025,-123.125107,49.249302
+1130,51577,Westbound W King Edward Ave @ Oak St,025,-123.128078,49.249375
+1131,51578,Westbound W King Edward Ave @ Selkirk St,025,-123.132497,49.249452
+1132,51580,Westbound W King Edward Ave @ Granville St,025,-123.139586,49.24956
+1133,51581,Westbound W King Edward Ave @ Marguerite St,025,-123.145097,49.249651
+1134,51582,Westbound W King Edward Ave @ Pine Cres,025,-123.14792,49.249695
+1135,51583,Westbound W King Edward Ave @ Maple Cres,025,-123.151677,49.251211
+1136,51584,Westbound W King Edward Ave @ Arbutus St,025,-123.153726,49.251741
+1137,51585,Westbound W King Edward Ave @ Yew St,025,-123.156163,49.251149
+1138,51586,Westbound W King Edward Ave @ Valley Dr,025,-123.159848,49.249723
+1139,51588,Westbound W King Edward Ave @ Trafalgar St,025,-123.165826,49.248213
+1140,51589,Westbound W King Edward Ave @ Balaclava St,025,-123.176132,49.250163
+1141,51590,Westbound W King Edward Ave @ Blenheim St,025,-123.179077,49.250183
+1142,51592,Westbound W 16 Ave @ Alma St,025; 033,-123.18653,49.258091
+1143,51593,Westbound W 16 Ave @ Wallace St,025; 033,-123.191535,49.258162
+1144,51594,Westbound W 16 Ave @ Camosun St,025; 033,-123.197604,49.258254
+1145,51595,Westbound W 16 Ave @ Discovery St,025; 033,-123.203675,49.258337
+1146,51596,Westbound W 16 Ave @ Sasamat St,025; 033,-123.20978,49.258432
+1147,51597,Westbound W 16 Ave @ Blanca St,025; 033,-123.21457,49.258508
+1148,51598,Westbound W 16 Ave @ Pacific Spirit Park,025; 033,-123.222569,49.258662
+1149,51600,Northbound Wesbrook Mall @ 2900 Block,025; 033; 049,-123.238774,49.258778
+1150,51603,29th Avenue Station @ Bay 2,029,-123.045328,49.244186
+1151,51604,Southbound Rupert St @ School Ave,026,-123.04321,49.234833
+1152,51605,Southbound Rupert St @ E 41 Ave,026,-123.043201,49.232545
+1153,51606,Southbound Rupert St @ E 43 Ave,026,-123.043216,49.230767
+1154,51607,Southbound Rupert St @ E 45 Ave,026,-123.043214,49.228961
+1155,51608,Southbound Rupert St @ Kerr St,026,-123.041563,49.227481
+1156,51610,Southbound Kerr St @ E 49 Ave,026,-123.041185,49.224314
+1157,51611,Southbound Kerr St @ E 52 Ave,026,-123.041297,49.221906
+1158,51612,Southbound Kerr St @ E 54 Ave,026,-123.041405,49.219855
+1159,51613,Southbound Kerr St @ E 56 Ave,026,-123.041467,49.218403
+1160,51614,Southbound Kerr St @ E 59 Ave,026,-123.041587,49.216248
+1161,51615,Eastbound Rosemont Dr @ Kerr St,026,-123.040483,49.21544
+1162,51616,Eastbound Rosemont Dr @ 3200 Block,026,-123.036746,49.215571
+1163,51617,Southbound Butler St @ Rosemont Dr,026,-123.034529,49.216166
+1164,51618,Eastbound Maquinna Dr @ Stikine Place,026,-123.031682,49.215458
+1165,51619,Southbound Champlain Cres @ Langford Ave,026,-123.02994,49.214195
+1166,51620,Southbound Champlain Cres @ Marquette Cres,026,-123.029816,49.212376
+1167,51621,Northbound Matheson Cres @ Champlain Cres,026; 031,-123.026965,49.21096
+1168,51622,Northbound Matheson Cres @ Limewood Place,026; 031,-123.025326,49.211972
+1169,51623,Northbound Matheson Cres @ Raintree Court,026; 031,-123.025462,49.21425
+1170,51624,Northbound Matheson Cres @ Rumble Ave,026; 031,-123.025453,49.215154
+1171,51625,Northbound Matheson Cres @ Borham Cres,026; 031,-123.025012,49.21648
+1172,51626,Eastbound Arbor Ave @ Matheson Cres,026; 031,-123.024627,49.217418
+1173,51627,Northbound Boundary Rd @ Arbor Ave,026; 031,-123.023539,49.217909
+1174,51628,Northbound Boundary Rd @ Hurst Ave,026; 031,-123.023547,49.220212
+1175,51629,Westbound E 49 Ave @ Boundary Rd,026; 049,-123.024529,49.222065
+1176,51630,Westbound E 49 Ave @ Arlington St,049,-123.028307,49.223442
+1177,51631,Northbound Tyne St @ E 49 Ave,026,-123.032151,49.225083
+1178,51632,Northbound Tyne St @ E 47 Ave,026,-123.032071,49.226688
+1179,51633,Northbound Tyne St @ E 45 Ave,026,-123.031961,49.228978
+1180,51634,Northbound Joyce St @ E 45 Ave,026,-123.037333,49.229581
+1181,51635,Northbound Joyce St @ Marmion Ave,026,-123.03734,49.231836
+1182,51636,Northbound Joyce St @ Kingsway,R4,-123.03552,49.234391
+1183,51638,Northbound Joyce St @ Euclid Ave,026; 027; 041,-123.033326,49.236629
+1184,51640,Southbound Joyce St @ Euclid Ave,026; 027; 041,-123.033907,49.236266
+1185,51641,Southbound Joyce St @ Cherry St,026; 027; 041,-123.034898,49.235265
+1186,51642,Southbound Joyce St @ E 41 Ave,026,-123.037497,49.232718
+1187,51644,Eastbound E 45 Ave @ Doman St,026,-123.036047,49.229218
+1188,51645,Southbound Tyne St @ E 46 Ave,026,-123.032177,49.228174
+1189,51646,Southbound Tyne St @ E 47 Ave,026,-123.032301,49.226166
+1190,51647,Eastbound E 49 Ave @ Tyne St,049; 430,-123.03149,49.22453
+1191,51648,Eastbound E 49 Ave @ Arlington St,026; 049,-123.027926,49.223027
+1192,51649,Southbound Frontenac St @ Hennepin Ave,026,-123.026506,49.221872
+1193,51650,Southbound Frontenac St @ Hurst Ave,026,-123.026594,49.220252
+1194,51651,Eastbound Hurst Ave @ Boundary Rd,026,-123.024161,49.22009
+1195,51652,Westbound Arbor Ave @ Boundary Rd,026; 031,-123.024331,49.217523
+1196,51653,Southbound Matheson Cres @ Borham Cres,026; 031,-123.025247,49.216164
+1197,51654,Southbound Matheson Cres @ Chickadee Place,026; 031,-123.025161,49.212728
+1198,51655,Southbound Matheson Cres @ Raintree Court,026; 031,-123.025642,49.214374
+1199,51656,Westbound Champlain Cres @ Matheson Cres,026,-123.027827,49.210765
+1200,51658,Northbound Champlain Cres @ Langford Ave,026,-123.029741,49.214103
+1201,51659,Westbound Maquinna Dr @ Stikine Place,026,-123.031944,49.215603
+1202,51660,Westbound Rosemont Dr @ Butler St,026,-123.035466,49.216141
+1203,51661,Westbound Rosemont Dr @ 3200 Block,026,-123.037361,49.215611
+1204,51662,Westbound Rosemont Dr @ Kerr St,026,-123.041111,49.215575
+1205,51663,Northbound Kerr St @ E 58 Ave,026,-123.041311,49.217555
+1206,51665,Northbound Kerr St @ E 51 Ave,026,-123.041021,49.223331
+1207,51666,Northbound Kerr St @ E 49 Ave,026,-123.040907,49.22509
+1208,51667,Northbound Rupert St @ Kerr St,026,-123.041348,49.227532
+1209,51668,Northbound Rupert St @ E 45 Ave,026,-123.043009,49.229625
+1210,51669,Northbound Rupert St @ E 43 Ave,026,-123.042993,49.231367
+1211,51670,Northbound Rupert St @ E 41 Ave,026,-123.042996,49.233276
+1212,51671,Joyce Station @ Bay 2,028,-123.032702,49.238709
+1213,51672,Westbound Wellington Ave @ Joyce St,027,-123.030526,49.240302
+1214,51673,Westbound Wellington Ave @ McHardy St,027,-123.033186,49.241397
+1215,51674,Northbound Rupert St @ Wellington Ave,027,-123.035635,49.242748
+1216,51675,Northbound Rupert St @ E 29 Ave,027,-123.033756,49.244846
+1217,51676,Northbound Rupert St @ E 27 Ave,027,-123.033689,49.246536
+1218,51677,Northbound Rupert St @ E 25 Ave,027,-123.033674,49.248137
+1219,51678,Northbound Rupert St @ E 22 Ave,027,-123.033666,49.250951
+1220,51679,Northbound Rupert St @ Seaforth Dr,027,-123.033663,49.253435
+1221,51680,Northbound Rupert St @ E 17 Ave,027,-123.033652,49.255039
+1222,51681,Northbound Rupert St @ Worthington Dr,027,-123.033644,49.25681
+1223,51682,Northbound Rupert St @ Grandview Hwy,027,-123.033603,49.258529
+1224,51683,Northbound Rupert St @ E Broadway,027,-123.033587,49.262245
+1225,51684,Northbound Rupert St @ E 7th Ave,027,-123.033609,49.264088
+1226,51685,Northbound Rupert St @ E 5th Ave,027,-123.033605,49.265981
+1227,51686,Northbound Rupert St @ E 3rd Ave,027,-123.033576,49.267805
+1228,51687,Northbound Rupert St @ Graveley St,027,-123.033606,49.270822
+1229,51688,Northbound Rupert St @ Kitchener St,027,-123.033591,49.272547
+1230,51689,Northbound Rupert St @ William St,027,-123.03354,49.274384
+1231,51690,Northbound Rupert St @ Parker St,027,-123.03352,49.27613
+1232,51691,Eastbound Adanac St @ Rupert St,027,-123.03308,49.277386
+1233,51692,Eastbound Adanac St @ Skeena St,027,-123.029097,49.277384
+1234,51693,Eastbound Adanac St @ Kootenay St,027,-123.024867,49.277369
+1235,51694,Northbound Boundary Rd @ Georgia St,027; 028,-123.023311,49.278725
+1236,51695,Kootenay Loop @ Bay 3,027,-123.026254,49.281408
+1237,51696,Southbound Boundary Rd @ E Pender St,027; 028,-123.023768,49.279904
+1238,51697,Southbound Boundary Rd @ E Georgia St,027; 028,-123.023773,49.277916
+1239,51698,Westbound Adanac St @ Skeena St,027,-123.028787,49.277492
+1240,51699,Southbound Rupert St @ Adanac St,027,-123.033686,49.277105
+1241,51700,Southbound Rupert St @ Parker St,027,-123.033703,49.275459
+1242,51701,Southbound Rupert St @ Charles St,027,-123.033718,49.272956
+1243,51702,Southbound Rupert St @ Grant St,027,-123.033737,49.27109
+1244,51703,Southbound Rupert St @ E 1st Ave,027,-123.033883,49.269052
+1245,51704,Southbound Rupert St @ E 3rd Ave,027,-123.033871,49.267232
+1246,51705,Southbound Rupert St @ E 5th Ave,027,-123.03388,49.265956
+1247,51706,Southbound Rupert St @ E 7th Ave,027,-123.033894,49.263542
+1248,51707,Southbound Rupert St @ E Broadway,027,-123.03393,49.262185
+1249,51710,Southbound Rupert St @ Grandview Hwy,027,-123.033953,49.257755
+1250,51711,Southbound Rupert St @ E 16 Ave,027,-123.03393,49.255276
+1251,51712,Southbound Rupert St @ E 18 Ave,027,-123.033945,49.253698
+1252,51713,Southbound Rupert St @ E 20 Ave,027,-123.033936,49.252011
+1253,51714,Southbound Rupert St @ E 22 Ave,027,-123.033942,49.25033
+1254,51715,Southbound Rupert St @ E 24 Ave,027,-123.033956,49.248502
+1255,51716,Southbound Rupert St @ E 26 Ave,027,-123.033962,49.246798
+1256,51717,Southbound Rupert St @ E 28 Ave,027,-123.033981,49.245072
+1257,51718,Southbound Rupert St @ Price St,027,-123.034741,49.243917
+1258,51719,Eastbound Wellington Ave @ Rupert St,027,-123.035603,49.242237
+1259,51720,Eastbound Wellington Ave @ McHardy St,027,-123.032729,49.241059
+1260,51721,Southbound Joyce St @ Wellington Ave,027,-123.030473,49.2398
+1261,51722,Joyce Station @ Bay 1 Unload Only,026; 027; 028; 041; R4,-123.032425,49.238592
+1262,51723,Eastbound Vanness Ave @ Melbourne St,028,-123.027853,49.236321
+1263,51724,Northbound Boundary Rd @ Vanness Ave,028,-123.023292,49.235076
+1264,51725,Eastbound Burke St @ Boundary Rd,028,-123.022912,49.236949
+1265,51726,Northbound Smith Ave @ Burke St,028,-123.019798,49.237291
+1266,51727,Northbound Smith Ave @ Brandon St,028,-123.019776,49.23903
+1267,51728,Northbound Smith Ave @ Price St,028,-123.019753,49.240426
+1268,51729,Northbound Smith Ave @ Moscrop St,028; 129,-123.01973,49.243373
+1269,51730,Northbound Smith Ave @ Fir St,028; 129,-123.019724,49.24545
+1270,51731,Northbound Smith Ave @ Spruce St,028; 129,-123.019726,49.247336
+1271,51732,Northbound Ingleton Ave @ Sunset St,028,-123.017354,49.249639
+1272,51733,Northbound Smith Ave @ Avondale St,028,-123.019698,49.25222
+1273,51736,Northbound Boundary Rd @ Dominion St,028,-123.023409,49.256757
+1274,51737,Northbound Boundary Rd @ Grandview Hwy,028,-123.023406,49.258575
+1275,51740,Northbound Boundary Rd @ Lougheed Hwy,028; 099,-123.023373,49.26604
+1276,51741,Northbound Boundary Rd @ 2nd Ave,028,-123.023347,49.268791
+1277,51742,Northbound Boundary Rd @ 1st Ave,028,-123.023355,49.269895
+1278,51743,Northbound Boundary Rd @ Kitchener St,028; R5,-123.02333,49.272518
+1279,51744,Northbound Boundary Rd @ William St,028,-123.023314,49.274253
+1280,51745,Northbound Boundary Rd @ Venables St,028,-123.023311,49.276981
+1281,51746,Northbound Cassiar Connector @ 100 Block,028; 130,-123.031278,49.283253
+1282,51762,Southbound Boundary Rd @ Douglas Rd,028,-123.02375,49.27654
+1283,51763,Southbound Boundary Rd @ Napier St,028,-123.023771,49.274644
+1284,51764,Southbound Boundary Rd @ Kitchener St,028,-123.023795,49.271739
+1285,51765,Southbound Boundary Rd @ E 1st Ave,028,-123.023801,49.26913
+1286,51768,Southbound Boundary Rd @ Henning Dr,028,-123.023842,49.263322
+1287,51769,Southbound Boundary Rd @ Regent St,028,-123.023869,49.259136
+1288,51771,Southbound Boundary Rd @ Grandview Hwy,028,-123.023879,49.257666
+1289,51773,Eastbound Laurel St @ Boundary Rd,028,-123.022894,49.254148
+1290,51774,Southbound Smith Ave @ Laurel St,028,-123.019847,49.253862
+1291,51775,Southbound Smith Ave @ Avondale St,028,-123.019844,49.25269
+1292,51776,Southbound Smith Ave @ Nithsdale St,028,-123.019879,49.251237
+1293,51777,Southbound Smith Ave @ Sunset St,028,-123.019899,49.25
+1294,51778,Southbound Ingleton Ave @ Sunset St,028,-123.017521,49.249331
+1295,51779,Southbound Smith Ave @ Kincaid St,028; 129,-123.019893,49.24847
+1296,51780,Southbound Smith Ave @ Spruce St,028; 129,-123.019897,49.24677
+1297,51784,Southbound Boundary Rd @ Burke St,028,-123.023676,49.236626
+1298,51785,Westbound Vanness Ave @ Boundary Rd,028,-123.024194,49.234733
+1299,51786,Westbound Vanness Ave @ Melbourne St,028,-123.028401,49.236726
+1300,51787,Joyce Station @ Bay 4,R4,-123.031047,49.237907
+1301,51793,Southbound Matheson Cres @ Champlain Cres,031,-123.027535,49.210359
+1302,51794,Westbound SE Marine Dr @ Matheson Cres,031; 100,-123.031482,49.208224
+1303,51795,Westbound SE Marine Dr @ Fieldstone Ave,031; 100,-123.03581,49.208441
+1304,51796,Westbound SE Marine Dr @ Kerr St,100,-123.042926,49.208162
+1305,51797,Westbound SE Marine Dr @ Jellicoe St,100,-123.048165,49.207743
+1306,51798,Westbound SE Marine Dr @ Elliott St,100,-123.057208,49.207187
+1307,51800,Westbound SE Marine Dr @ Gladstone St,100,-123.062381,49.208533
+1308,51803,Northbound Nanaimo St @ Fraserview Dr,029,-123.059294,49.212049
+1309,51804,Northbound Muirfield Dr @ Scarboro Ave,029,-123.057069,49.213192
+1310,51805,Northbound Muirfield Dr @ Bobolink Ave,029,-123.055961,49.214723
+1311,51806,Northbound Muirfield Dr @ Lynbrook Dr,029,-123.055257,49.217274
+1312,51807,Eastbound Ashburn St @ Elliott St,029,-123.054997,49.218226
+1313,51808,Northbound Elliott St @ E 54 Ave,029,-123.0548,49.220497
+1314,51809,Northbound Elliott St @ E 52 Ave,029,-123.054709,49.222238
+1315,51810,Northbound Elliott St @ E 49 Ave,029,-123.054616,49.225178
+1316,51811,Northbound Elliott St @ E 46 Ave,029,-123.054556,49.228739
+1317,51812,Northbound Elliott St @ Waverley Ave,029,-123.054592,49.227113
+1318,51813,Northbound Clarendon St @ E 43 Ave,029,-123.055124,49.231191
+1319,51814,Northbound Clarendon St @ E 41 Ave,029,-123.055335,49.23319
+1320,51815,Northbound Clarendon St @ E 39 Ave,029,-123.055396,49.235129
+1321,51816,Northbound Clarendon St @ E 37 Ave,029,-123.055365,49.237621
+1322,51818,29th Avenue Station @ Bay 1,026; 029; 033,-123.045608,49.244269
+1323,51819,Southbound Clarendon St @ E 41 Ave,029,-123.055437,49.232504
+1324,51821,Southbound Elliott St @ E 45 Ave,029,-123.054924,49.229145
+1325,51822,Southbound Elliott St @ E 47 Ave,029,-123.054776,49.227337
+1326,51824,Southbound Elliott St @ E 49 Ave,029,-123.054884,49.224553
+1327,51825,Southbound Elliott St @ E 51 Ave,029,-123.054911,49.222288
+1328,51827,Southbound Elliott St @ E 56 Ave,029,-123.055039,49.218817
+1329,51828,Southbound Muirfield Dr @ Ashburn St,029,-123.055499,49.217307
+1330,51829,Southbound Muirfield Dr @ Hoylake Ave,029,-123.055616,49.215481
+1331,51830,Southbound Muirfield Dr @ Bobolink Ave,029,-123.056564,49.214167
+1332,51831,Southbound Muirfield Dr @ Scarboro Ave,029,-123.05788,49.212549
+1333,51832,Eastbound SE Marine Dr @ Victoria Dr,100,-123.065395,49.209318
+1334,51833,Eastbound SE Marine Dr @ Gladstone St,100,-123.061681,49.208087
+1335,51834,Eastbound SE Marine Dr @ Nanaimo St,100,-123.059043,49.207215
+1336,51835,Eastbound SE Marine Dr @ Elliott St,100,-123.056143,49.207019
+1337,51836,Eastbound SE Marine Dr @ Jellicoe St,100,-123.047214,49.207592
+1338,51837,Eastbound SE Marine Dr @ Kerr St,100,-123.044803,49.207748
+1339,51838,Eastbound SE Marine Dr @ Fieldstone Ave,031; 100,-123.035248,49.208333
+1340,51839,Northbound Matheson Cres @ SE Marine Dr,031,-123.030733,49.208301
+1341,51842,Burrard Station @ Bay 4,002,-123.12119,49.286899
+1342,51843,Burrard Station @ Bay 3,022,-123.121757,49.286391
+1343,51844,Eastbound Hastings St @ Alpha,129; 132; 160; N35,-123.00183,49.2809
+1344,51845,Eastbound Hastings St @ Beta Ave,129; 160; N35,-122.996968,49.280896
+1345,51846,Eastbound Hastings St @ Hythe Ave,129; 160; N35; R5,-122.989776,49.280184
+1346,51847,Eastbound Hastings St @ Springer Ave,129; 160; N35,-122.987294,49.280252
+1347,51848,Eastbound Hastings St @ Howard Ave,129; 160; N35,-122.983238,49.280242
+1348,51874,Westbound Hastings St @ Holdom Ave,160; N35; R5,-122.98142,49.280436
+1349,51875,Westbound Hastings St @ Howard Ave,129; 160; N35,-122.984501,49.28043
+1350,51876,Westbound Hastings St @ Springer Ave,129; 160; N35,-122.988354,49.280441
+1351,51877,Westbound Hastings St @ Hythe Ave,129; 160; N35; R5,-122.991013,49.28024
+1352,51878,Westbound Hastings St @ Gamma Ave,129; 132; 160; N35,-122.995896,49.281077
+1353,51879,Westbound Hastings St @ Alpha Ave,129; 132; 160; N35,-123.000747,49.281099
+1354,51881,Northbound Wesbrook Mall @ Triumf Centre,049,-123.231681,49.247687
+1355,51882,Westbound W 16 Ave @ Wesbrook Mall,R4,-123.238457,49.255191
+1356,51887,Eastbound SW Marine Dr @ Kullahun Dr,049,-123.204972,49.236996
+1357,51888,Eastbound W 41 Ave @ Crown St,041; 049,-123.194154,49.234685
+1358,51889,Eastbound W 41 Ave @ Wallace St,041; 049,-123.190529,49.234701
+1359,51890,Eastbound W 41 Ave @ Highbury St,041; 049,-123.187956,49.234704
+1360,51892,Westbound E 41 Ave @ Wales St,041,-123.05213,49.232871
+1361,51893,Dunbar Loop @ Bay 5,041; R4,-123.185966,49.234831
+1362,51894,Westbound W 41 Ave @ Olympic St,041; 049,-123.190048,49.234831
+1363,51895,Westbound W 41 Ave @ Holland St,041; 049,-123.19284,49.234836
+1364,51896,Southbound Crown St @ SW Marine Dr,041,-123.193856,49.234042
+1365,51897,Westbound SW Marine Dr @ Camosun St,049,-123.197663,49.235286
+1366,51898,Westbound SW Marine Dr @ Kullahun Dr,049,-123.205607,49.237441
+1367,51906,Eastbound NW Marine Dr @ Tolmie St,042,-123.211352,49.274742
+1368,51910,Eastbound NW Marine Dr @ Discovery St,042,-123.203426,49.271953
+1369,51912,Eastbound NW Marine Dr @ Locarno Cres,042,-123.200827,49.268799
+1370,51913,Westbound W 4th Ave @ Blanca St,044; 084,-123.215565,49.269195
+1371,51916,Westbound Chancellor Blvd @ Hamber Rd,044; 084,-123.239004,49.273342
+1372,51917,Westbound Chancellor Blvd @ Allison Rd,044; 084,-123.246195,49.273563
+1373,51919,Westbound NW Marine Dr @ Cecil Green Park Rd,068,-123.255442,49.270517
+1374,51925,Eastbound NW Marine Dr @ West Mall,068,-123.258526,49.268769
+1375,51928,Eastbound Chancellor Blvd @ Western Parkway,044; 084,-123.246837,49.273301
+1376,51930,Eastbound Chancellor Blvd @ Hamber Rd,044; 084,-123.237649,49.272894
+1377,51934,Westbound NW Marine Dr @ Discovery St,042,-123.203022,49.271904
+1378,51935,Northbound NW Marine Dr @ Belmont Ave,042,-123.205593,49.274065
+1379,51937,Westbound NW Marine Dr @ Sasamat St,042,-123.209135,49.274502
+1380,51938,Westbound NW Marine Dr @ Tolmie St,042,-123.212054,49.275093
+1381,51941,Northbound Burrard St @ W 3rd Ave,044,-123.145428,49.269179
+1382,51942,Southbound Burrard St @ W 3rd Ave,044,-123.145798,49.268549
+1383,51944,Southbound Dunbar St @ W 43 Ave,049,-123.18547,49.232611
+1384,51945,Southbound Dunbar St @ SW Marine Dr,049,-123.185505,49.231131
+1385,51946,Eastbound SW Marine Dr @ Blenheim St,049,-123.179685,49.23008
+1386,51947,Eastbound SW Marine Dr @ Balaclava St,049,-123.175122,49.228712
+1387,51948,Westbound SW Marine Dr @ Heather St,010; 017; 100,-123.123941,49.207414
+1388,51950,Eastbound W 49 Ave @ McCleery St,049,-123.168448,49.227269
+1389,51951,Eastbound W 49 Ave @ Marine Cres,049,-123.164688,49.227223
+1390,51952,Eastbound W 49 Ave @ Balsam St,049,-123.160812,49.227171
+1391,51953,Eastbound W 49 Ave @ Yew St,049,-123.15842,49.227149
+1392,51954,Eastbound W 49 Ave @ Arbutus St,049,-123.15547,49.227103
+1393,51955,Eastbound W 49 Ave @ East Blvd,049,-123.153974,49.227085
+1394,51957,Eastbound W 49 Ave @ Angus Dr,049,-123.147554,49.22701
+1395,51958,Eastbound W 49 Ave @ Marguerite St,049,-123.144546,49.226972
+1396,51959,Eastbound W 49 Ave @ Churchill St,049,-123.141217,49.22692
+1397,51960,Eastbound W 49 Ave @ Granville St,049,-123.139329,49.226886
+1398,51961,Eastbound W 49 Ave @ Hudson St,049,-123.134675,49.226708
+1399,51962,Eastbound W 49 Ave @ Montgomery St,049,-123.131458,49.226598
+1400,51963,Eastbound W 49 Ave @ Oak St,049,-123.12776,49.22645
+1401,51965,Eastbound W 49 Ave @ Heather St,049,-123.123158,49.226275
+1402,51966,Eastbound W 49 Ave @ Tisdall St,049,-123.120295,49.226174
+1403,51967,Langara-49th Station @ Bay 3,049,-123.11584,49.226003
+1404,51968,Eastbound W 49 Ave @ Alberta St,049,-123.112498,49.225896
+1405,51969,Eastbound W 49 Ave @ Manitoba St,049,-123.107863,49.22573
+1406,51970,Eastbound E 49 Ave @ Quebec St,049,-123.103335,49.225636
+1407,51971,Eastbound E 49 Ave @ Main St,049,-123.101045,49.225593
+1408,51972,Eastbound E 49 Ave @ Prince Edward St,049,-123.097041,49.225514
+1409,51973,Eastbound E 49 Ave @ St. George St,049,-123.093656,49.225455
+1410,51975,Eastbound E 49 Ave @ Fraser St,049,-123.090264,49.225406
+1411,51976,Eastbound E 49 Ave @ Prince Albert St,049,-123.08761,49.225373
+1412,51977,Eastbound E 49 Ave @ Windsor St,049,-123.084766,49.225337
+1413,51978,Eastbound E 49 Ave @ Sherbrooke St,049,-123.080946,49.225278
+1414,51979,Eastbound E 49 Ave @ Knight St,049; 430,-123.076725,49.225208
+1415,51980,Eastbound E 49 Ave @ Dumfries St,049,-123.074083,49.225193
+1416,51981,Eastbound E 49 Ave @ Argyle St,049,-123.071276,49.225164
+1417,51982,Eastbound E 49 Ave @ Commercial St,049,-123.068504,49.22514
+1418,51983,Eastbound E 49 Ave @ Victoria Dr,049; 430,-123.065263,49.225106
+1419,51984,Eastbound E 49 Ave @ Gladstone St,049,-123.061875,49.225035
+1420,51985,Eastbound E 49 Ave @ Nanaimo St,049,-123.058733,49.224949
+1421,51987,Eastbound E 49 Ave @ Elliott St,049; 430,-123.054297,49.224744
+1422,51988,Eastbound E 49 Ave @ Vivian St,049,-123.049761,49.22471
+1423,51989,Eastbound E 49 Ave @ Killarney St,049,-123.045214,49.224673
+1424,51990,Northbound Tyne St @ E 53 Ave,026,-123.032245,49.221556
+1425,51991,Northbound Tyne St @ E 50 Ave,026,-123.032195,49.223484
+1426,51992,Eastbound E 49 Ave @ Frontenac St,049,-123.025794,49.222096
+1427,51993,Eastbound Imperial St @ Boundary Rd,031; 049,-123.022768,49.221875
+1428,51994,Eastbound Imperial St @ Mandy Ave,031; 049,-123.017609,49.221886
+1429,51998,Northbound Willingdon Ave @ Maywood St,031; 049; 116; 146; 147,-123.010415,49.224864
+1430,51999,Metrotown Station @ Bay 3,430,-123.002615,49.226002
+1431,52003,Westbound Imperial St @ McKay Ave,049; 116,-123.00948,49.222002
+1432,52005,Westbound Imperial St @ Mandy Ave,031; 049,-123.018511,49.22201
+1433,52006,Southbound Tyne St @ E 49 Ave,026,-123.032353,49.224305
+1434,52007,Southbound Tyne St @ E 52 Ave,026,-123.032422,49.221997
+1435,52011,Westbound E 49 Ave @ Kerr St,049; 430,-123.041573,49.224818
+1436,52012,Westbound E 49 Ave @ Killarney St,049,-123.045365,49.224808
+1437,52015,Westbound E 49 Ave @ Elliott St,049; 430,-123.05517,49.224889
+1438,52016,Westbound E 49 Ave @ Nanaimo St,049,-123.05961,49.225118
+1439,52017,Westbound E 49 Ave @ Gladstone St,049,-123.06295,49.225187
+1440,52018,Westbound E 49 Ave @ Victoria Dr,049; 430,-123.065364,49.225238
+1441,52019,Westbound E 49 Ave @ Beatrice St,049,-123.067538,49.225263
+1442,52020,Westbound E 49 Ave @ Bruce St,049,-123.070409,49.225286
+1443,52021,Westbound E 49 Ave @ Fleming St,049,-123.073579,49.225316
+1444,52022,Westbound E 49 Ave @ Knight St,049,-123.077939,49.225388
+1445,52023,Westbound E 49 Ave @ Inverness St,049,-123.080565,49.225407
+1446,52024,Westbound E 49 Ave @ Elgin St,049,-123.083275,49.225453
+1447,52025,Westbound E 49 Ave @ St. Catherines St,049,-123.087115,49.225497
+1448,52027,Westbound E 49 Ave @ Fraser St,049,-123.091289,49.225535
+1449,52028,Westbound E 49 Ave @ St. George St,049,-123.094471,49.225593
+1450,52029,Westbound E 49 Ave @ Prince Edward St,049,-123.098055,49.22566
+1451,52030,Westbound E 49 Ave @ Main St,049,-123.102131,49.225733
+1452,52032,Westbound W 49 Ave @ Manitoba St,049,-123.109025,49.225913
+1453,52033,Westbound W 49 Ave @ Alberta St,049,-123.113387,49.226074
+1454,52035,Westbound W 49 Ave @ Tisdall St,049,-123.121438,49.226382
+1455,52036,Westbound W 49 Ave @ Laurel St,049,-123.125587,49.226538
+1456,52037,Westbound W 49 Ave @ Oak St,049,-123.128988,49.226658
+1457,52038,Westbound W 49 Ave @ Montgomery St,049,-123.13243,49.226761
+1458,52039,Westbound W 49 Ave @ Hudson St,049,-123.135533,49.22688
+1459,52041,Westbound W 49 Ave @ Granville St,049,-123.140335,49.227032
+1460,52042,Westbound W 49 Ave @ Adera St,049,-123.144091,49.227081
+1461,52043,Westbound W 49 Ave @ Wiltshire St,049,-123.147056,49.227122
+1462,52045,Westbound W 49 Ave @ West Blvd,049,-123.155682,49.227224
+1463,52047,Westbound W 49 Ave @ Larch St,049,-123.163563,49.227329
+1464,52048,Westbound W 49 Ave @ Macdonald St,049,-123.167912,49.227377
+1465,52050,Westbound SW Marine Dr @ Carnarvon St,049,-123.17401,49.228416
+1466,52051,Westbound SW Marine Dr @ Blenheim St,049,-123.179318,49.230206
+1467,52053,Northbound Dunbar St @ SW Marine Dr,049,-123.185323,49.231041
+1468,52054,Northbound Dunbar St @ W 43 Ave,049,-123.18528,49.233182
+1469,52057,Heather Square @ Bay 1,050,-123.120109,49.266191
+1470,52058,Westbound Lameys Mill Rd @ Sitka Square,050,-123.129345,49.266459
+1471,52059,Westbound Lameys Mill Rd @ Alder Crossing,050,-123.132521,49.266831
+1472,52060,Westbound Lameys Mill Rd @ 1300 Block,050,-123.134423,49.267336
+1473,52061,Westbound W 2nd Ave @ Anderson St,050,-123.138092,49.26952
+1474,52062,Southbound Fir St @ W 2nd Ave,050,-123.140897,49.269373
+1475,52065,Eastbound W 2nd Ave @ Fir St,050,-123.140065,49.269638
+1476,52067,Eastbound Lameys Mill Rd @ Fountain Way Court,050,-123.135141,49.267431
+1477,52068,Eastbound Lameys Mill Rd @ Alder Crossing,050,-123.131643,49.266544
+1478,52069,Eastbound Lameys Mill Rd @ Sitka Square,050,-123.128703,49.26632
+1479,52087,Northbound Fir St @ W 4th Ave,050,-123.140709,49.268248
+1480,52092,Westbound Lougheed Hwy @ Boundary Loop,099; N9,-123.02541,49.265243
+1481,52094,Commercial-Broadway Station @ Bay 4,009; N9,-123.069432,49.262426
+1482,52095,Westbound W Broadway @ Macdonald St,099,-123.167544,49.264156
+1483,52099,Eastbound W Broadway @ Heather St,099,-123.120173,49.263212
+1484,52101,Eastbound E Broadway @ Main St,099,-123.10042,49.262801
+1485,52102,Commercial-Broadway Station @ Bay 1,009; 099; N9,-123.068963,49.262213
+1486,52103,Eastbound Lougheed Hwy @ Boundary Rd,028,-123.022312,49.265602
+1487,52117,Northbound Granville St @ W 71 Ave,100,-123.140464,49.206713
+1488,52118,Eastbound W 70 Ave @ French St,100,-123.138831,49.208535
+1489,52119,Southbound Hudson St @ W 70 Ave,100,-123.1347,49.208213
+1490,52120,Southbound Hudson St @ W 72 Ave,100,-123.134764,49.2063
+1491,52123,Marpole Loop @ Bay 5,100,-123.133071,49.203203
+1492,52126,Eastbound SW Marine Dr @ Heather St,010; 017; 100,-123.123861,49.207179
+1493,52127,Eastbound SW Marine Dr @ W 70 Ave,010; 017; 100,-123.120741,49.208502
+1494,52131,Eastbound SW Marine Dr @ Manitoba St,003; 100; N20; N8,-123.109277,49.212198
+1495,52132,Eastbound SE Marine Dr @ Ontario St,003; 100; N20; N8,-123.106006,49.21214
+1496,52133,Eastbound SE Marine Dr @ Main St,100; N20; N8,-123.101511,49.210807
+1497,52134,Eastbound SE Marine Dr @ Prince Edward St,100; N20; N8,-123.097945,49.210767
+1498,52135,Eastbound SE Marine Dr @ St. George St,100; N20; N8,-123.093606,49.210918
+1499,52136,Eastbound SE Marine Dr @ Fraser St,100; N20,-123.090507,49.210909
+1500,52138,Eastbound SE Marine Dr @ Ross St,100; N20,-123.083514,49.211036
+1501,52140,Eastbound SE Marine Dr @ Knight St,100; N20,-123.075122,49.210925
+1502,52141,Eastbound SE Marine Dr @ Argyle St,100; N20,-123.071659,49.210911
+1503,52142,Eastbound SE Marine Dr @ Beatrice St,100; N20,-123.067396,49.209995
+1504,52143,Eastbound SE Marine Dr @ Matheson Cres,100,-123.030512,49.207971
+1505,52144,Eastbound SE Marine Dr @ City Edge Place,100,-123.025837,49.207927
+1506,52145,Eastbound Marine Dr @ Joffre Ave,100,-123.019656,49.208059
+1507,52146,Eastbound Marine Dr @ Greenall Ave,100,-123.017485,49.208273
+1508,52147,Eastbound Marine Dr @ Patterson Ave,100,-123.011806,49.209174
+1509,52148,Eastbound Marine Dr @ Sussex Ave,100,-123.005664,49.209147
+1510,52149,Eastbound Marine Dr @ Strathearn Ave,100,-123.000545,49.208071
+1511,52150,Eastbound Marine Dr @ Nelson Ave,100; 148,-122.99743,49.207616
+1512,52152,Eastbound Marine Dr @ Royal Oak Ave,100; 148,-122.988226,49.206681
+1513,52195,Westbound Marine Dr @ Macpherson Ave,100; 148,-122.982724,49.206271
+1514,52196,Westbound Marine Dr @ Royal Oak Ave,100; 148,-122.988159,49.206806
+1515,52197,Westbound Marine Dr @ 4900 Block,100; 148,-122.993856,49.207331
+1516,52198,Westbound Marine Dr @ Nelson Ave,100,-122.998827,49.207893
+1517,52199,Westbound Marine Dr @ Sussex Ave,100,-123.005464,49.209233
+1518,52200,Westbound Marine Dr @ Patterson Ave,100; 116; 146,-123.013786,49.209131
+1519,52201,Westbound Marine Dr @ Greenall Ave,100; 116; 146,-123.017358,49.208399
+1520,52202,Westbound SE Marine Dr @ City Edge Place,100,-123.026647,49.207979
+1521,52203,Westbound SE Marine Dr @ Victoria Dr,100; N20,-123.066581,49.209974
+1522,52204,Westbound SE Marine Dr @ Argyle St,100; N20,-123.072699,49.211151
+1523,52205,Westbound SE Marine Dr @ Knight St,100; N20,-123.076755,49.21122
+1524,52206,Westbound SE Marine Dr @ Inverness St,100; N20,-123.08071,49.211201
+1525,52207,Westbound SE Marine Dr @ Ross St,100; N20,-123.083635,49.211217
+1526,52209,Westbound SE Marine Dr @ Chester St,100; N20,-123.089925,49.211147
+1527,52210,Westbound SE Marine Dr @ Buscombe St,100; N20; N8,-123.095708,49.211151
+1528,52212,Westbound SE Marine Dr @ Main St,003; 100; N20; N8,-123.103214,49.211554
+1529,52213,Westbound SW Marine Dr @ Ontario St,003; 100; N20; N8,-123.107012,49.212459
+1530,52214,Westbound SW Marine Dr @ Manitoba St,003; 100; N20; N8,-123.110409,49.212212
+1531,52217,Westbound SW Marine Dr @ Ash St,010; 017; 100,-123.119749,49.209141
+1532,52219,Westbound SW Marine Dr @ Laurel St,010; 017; 100,-123.126813,49.206184
+1533,52228,Westbound North Service Rd @ Air Canada Operations Centre,N10,-123.160097,49.193291
+1534,52229,Southbound Aviation Ave @ North Service Rd,N10,-123.166984,49.193297
+1535,52390,Metrotown Station @ Bay 7,031,-123.003117,49.226075
+1536,52393,Eastbound Kingsway @ Sussex Ave,119; N19,-122.998248,49.227881
+1537,52394,Eastbound Kingsway @ Nelson Ave,119; N19,-122.993821,49.226457
+1538,52395,Eastbound Kingsway @ Marlborough Ave,119; N19,-122.991139,49.225628
+1539,52396,Eastbound Kingsway @ Royal Oak Ave,119; N19,-122.988392,49.224712
+1540,52397,Eastbound Kingsway @ Grimmer St,119; N19,-122.984101,49.223354
+1541,52462,Westbound Kingsway @ Elgin Ave,119; N19,-122.983473,49.223353
+1542,52463,Westbound Kingsway @ Denbigh Ave,119; N19,-122.985508,49.224004
+1543,52464,Westbound Kingsway @ Royal Oak Ave,119; N19,-122.989612,49.22532
+1544,52466,Westbound Kingsway @ McMurray Ave,119; 144; N19,-122.996794,49.227685
+1545,52467,Westbound Kingsway @ Sussex Ave,119; 144; N19,-122.999701,49.228641
+1546,52468,Southbound McKay Ave @ Kingsway,119; 144,-123.003381,49.229088
+1547,52469,Southbound McKay Ave @ Kingsborough St,119; 144,-123.005015,49.227578
+1548,52499,Metrotown Station @ Bay 8,146; 147,-123.003354,49.226172
+1549,52500,Eastbound Central Blvd @ 4500 Block,049; 110; 116; 144,-123.000304,49.224203
+1550,52501,Northbound Bonsor Ave @ Central Blvd,110; 144,-122.997738,49.224103
+1551,52502,Northbound Nelson Ave @ Bennett St,110; 144,-122.994051,49.225569
+1552,52503,Northbound Nelson Ave @ Newton St,110; 144,-122.994102,49.227326
+1553,52504,Northbound Nelson Ave @ Dover St,110,-122.99412,49.230297
+1554,52505,Northbound Nelson Ave @ Grafton St,110,-122.994135,49.232104
+1555,52506,Northbound Nelson Ave @ Sardis Cres,110,-122.994145,49.233648
+1556,52507,Westbound Bond St @ Nelson Ave,110,-122.994807,49.235465
+1557,52508,Westbound Bond St @ Sussex Ave,110,-122.998207,49.235452
+1558,52509,Westbound Bond St @ Elsom Ave,110,-123.001547,49.235444
+1559,52510,Northbound Willingdon Ave @ Bond St,110; 130,-123.003266,49.235911
+1560,52511,Northbound Willingdon Ave @ Burke St,110; 130,-123.003261,49.237319
+1561,52512,Northbound Willingdon Ave @ Grassmere St,110; 130,-123.003286,49.238854
+1562,52513,Northbound Willingdon Ave @ Price St,110; 130,-123.003294,49.240537
+1563,52514,Westbound Beresford St @ Willingdon Ave,129,-123.00874,49.227715
+1564,52515,Patterson Station @ Bay 1,129,-123.012448,49.229426
+1565,52516,Northbound Patterson Ave @ Kingsway,129,-123.01255,49.232043
+1566,52517,Northbound Barker Ave @ Grange St,129,-123.01101,49.233208
+1567,52518,Northbound Patterson Ave @ Sardis St,129,-123.013418,49.234332
+1568,52519,Northbound Patterson Ave @ Bond St,129,-123.013422,49.235727
+1569,52520,Northbound Patterson Ave @ Burke St,129,-123.013422,49.237267
+1570,52521,Northbound Patterson Ave @ Hazelwood Cres,129,-123.013426,49.239064
+1571,52522,Northbound Patterson Ave @ Castlewood Cres,129,-123.013407,49.240744
+1572,52523,Northbound Patterson Ave @ Moscrop St,129,-123.013419,49.242679
+1573,52524,Eastbound Deer Lake Parkway @ Wayburne Dr,110,-122.997353,49.241548
+1574,52525,Eastbound Gilpin St @ Royal Oak Ave,110,-122.988389,49.241815
+1575,52526,Eastbound Gilpin St @ Chapple Cres,110,-122.98231,49.241779
+1576,52575,Westbound Gilpin St @ Mahon Ave,110,-122.982127,49.241892
+1577,52576,Westbound Gilpin St @ Gatenby Ave,110,-122.987939,49.241916
+1578,52577,Westbound Deer Lake Parkway @ Garden Grove Dr,110,-122.995717,49.241534
+1579,52578,Westbound Deer Lake Parkway @ Wayburne Dr,110,-122.998659,49.241748
+1580,52579,Southbound Patterson Ave @ Moscrop St,110; 129,-123.013599,49.24261
+1581,52580,Southbound Patterson Ave @ Castlewood Cres,110; 129,-123.013564,49.240457
+1582,52581,Southbound Patterson Ave @ Brandon St,110; 129,-123.013573,49.238079
+1583,52582,Southbound Patterson Ave @ Burke St,110; 129,-123.013568,49.236624
+1584,52583,Southbound Patterson Ave @ Bond St,110; 129,-123.013571,49.235217
+1585,52584,Southbound Patterson Ave @ Sardis St,110; 129,-123.013572,49.234071
+1586,52585,Southbound Patterson Ave @ Kingsway,110; 129,-123.012742,49.232183
+1587,52586,Patterson Station @ Bay 2,110; 129,-123.011509,49.229312
+1588,52587,Eastbound Kemp St @ Kathleen Ave,110; 129,-123.007414,49.229939
+1589,52588,Southbound Willingdon Ave @ Moscrop St,110; 130,-123.003491,49.242583
+1590,52589,Southbound Willingdon Ave @ Wildwood Cres,110; 130,-123.003479,49.239901
+1591,52590,Southbound Willingdon Ave @ Price Cres,110; 130,-123.003467,49.238369
+1592,52591,Southbound Willingdon Ave @ Burke St,130,-123.003467,49.236702
+1593,52592,Eastbound Bond St @ Willingdon Ave,110,-123.002807,49.235328
+1594,52593,Eastbound Bond St @ Elsom Ave,110,-123.000601,49.235346
+1595,52594,Eastbound Bond St @ Sussex Ave,110,-122.997427,49.235351
+1596,52595,Southbound Nelson Ave @ Buxton St,110,-122.994314,49.234098
+1597,52596,Southbound Nelson Ave @ Shepherd St,110,-122.994302,49.232189
+1598,52597,Southbound Nelson Ave @ Grange St,110; 144,-122.994316,49.2291
+1599,52598,Southbound Nelson Ave @ Hazel St,110; 144,-122.994345,49.227594
+1600,52599,Westbound Bennett St @ Nelson Ave,110; 144,-122.995659,49.225276
+1601,52600,Southbound Bonsor Ave @ Bennett St,110; 144,-122.997189,49.224817
+1602,52601,Westbound Central Blvd @ Bonsor Ave,110; 144,-122.99906,49.223785
+1603,52602,Westbound Central Blvd @ 4500 Block,110; 144,-123.000438,49.224507
+1604,52635,Northbound Nelson Ave @ Carson Place,148,-122.994325,49.209736
+1605,52636,Northbound Nelson Ave @ McKee Place,148,-122.993842,49.211114
+1606,52637,Northbound Nelson Ave @ Portland St,148,-122.993814,49.212432
+1607,52638,Eastbound Rumble St @ Nelson Ave,147; 148,-122.993362,49.214773
+1608,52639,Eastbound Rumble St @ Arthur Ave,147; 148,-122.991604,49.214787
+1609,52640,Northbound Royal Oak Ave @ Rumble St,148,-122.988376,49.215162
+1610,52641,Northbound Royal Oak Ave @ Sidley St,148,-122.988378,49.217755
+1611,52646,Metrotown Station @ Bay 5,222,-123.002755,49.225917
+1612,52651,Southbound Royal Oak Ave @ Sidley St,148,-122.988525,49.217247
+1613,52652,Southbound Royal Oak Ave @ Rumble St,147,-122.988572,49.214361
+1614,52653,Eastbound Clinton St @ Royal Oak Ave,147,-122.987978,49.21297
+1615,52654,Eastbound Clinton St @ Roslyn Ave,147,-122.985365,49.212987
+1616,52655,Eastbound Clinton St @ Macpherson Ave,147,-122.982684,49.212958
+1617,52675,Westbound Clinton St @ Macpherson Ave,147,-122.98278,49.213068
+1618,52676,Westbound Clinton St @ Roslyn Ave,147,-122.986069,49.213071
+1619,52677,Northbound Royal Oak Ave @ Neville St,147,-122.988381,49.21371
+1620,52678,Northbound Joffre Ave @ Maple Tree Lane,116; 146,-123.019766,49.209345
+1621,52680,Northbound Joffre Ave @ Clinton St,116; 146,-123.02068,49.213088
+1622,52681,Eastbound Rumble St @ Joffre Ave,116; 146,-123.020308,49.214742
+1623,52682,Eastbound Rumble St @ Greenall Ave,116; 146,-123.017582,49.214764
+1624,52683,Eastbound Rumble St @ Patterson Ave,116; 147,-123.011839,49.214786
+1625,52684,Eastbound Rumble St @ McKay Ave,116; 147,-123.008307,49.214779
+1626,52685,Northbound Sussex Ave @ Rumble St,116,-123.004858,49.215135
+1627,52686,Northbound Sussex Ave @ Watling St,116,-123.004891,49.216898
+1628,52687,Northbound Sussex Ave @ Victory St,116,-123.004916,49.218708
+1629,52688,Northbound Sussex Ave @ Hurst St,116,-123.004945,49.220512
+1630,52692,Metrotown Station @ Bay 1,031; 110; 116; 119; 130; 144; 146; 147; 222; 430,-123.003299,49.226277
+1631,52693,Westbound Imperial St @ Waverley Ave,049; 116,-122.998195,49.222
+1632,52694,Westbound Imperial St @ Frederick Ave,049; 116,-123.001621,49.222
+1633,52695,Westbound Imperial St @ Dow Ave,049; 116,-123.003694,49.222001
+1634,52696,Southbound Sussex Ave @ Imperial St,116,-123.005145,49.221363
+1635,52697,Southbound Sussex Ave @ Hurst St,116,-123.005099,49.220021
+1636,52698,Southbound Sussex Ave @ Victory St,116,-123.005074,49.218151
+1637,52699,Southbound Sussex Ave @ Irmin St,116,-123.005029,49.216133
+1638,52700,Southbound Sussex Ave @ Rumble St,116,-123.004999,49.21459
+1639,52701,Westbound Portland St @ Sussex Ave,116,-123.005792,49.212239
+1640,52702,Westbound Portland St @ McKay Ave,116,-123.009009,49.212271
+1641,52703,Southbound Patterson Ave @ Winnifred St,116; 146,-123.012496,49.21108
+1642,52704,Southbound Roseberry Ave @ Keith St,116,-123.015277,49.206391
+1643,52705,Southbound Boundary Rd @ E Kent Ave,116,-123.023457,49.20373
+1644,52706,Eastbound North Fraser Way @ Fraserwood Court,116,-123.017666,49.201108
+1645,52707,Eastbound North Fraser Way @ 3700 Block,116,-123.021851,49.20204
+1646,52708,Eastbound North Fraser Way @ Fraserton Court,116,-123.0139,49.200272
+1647,52712,Eastbound W Hastings St @ Abbott St,R5,-123.108834,49.282214
+1648,52713,Eastbound E Hastings St @ Main St,R5,-123.098307,49.28122
+1649,52714,Eastbound E Hastings St @ Commercial Dr,R5,-123.07086,49.281131
+1650,52717,Kootenay Loop @ Bay 7,160; N35; R5,-123.025393,49.281204
+1651,52718,Westbound E Hastings St @ Renfrew St,014,-123.043342,49.281222
+1652,52719,Westbound Moscrop St @ Inman Ave,129,-123.017349,49.243026
+1653,52720,Northbound Gilmore Way @ Sanderson Way,129,-123.010288,49.250056
+1654,52721,Northbound Gilmore Way @ Canada Way,129,-123.010616,49.253243
+1655,52722,Northbound Gilmore Diversion @ Canada Way,129,-123.01105,49.255589
+1656,52723,Northbound Gilmore Diversion @ Myrtle St,129,-123.013819,49.260509
+1657,52728,Westbound Dawson St @ Willingdon Ave,025; 123,-123.004065,49.26451
+1658,52731,Southbound Gilmore Diversion @ Myrtle St,129,-123.014128,49.260495
+1659,52732,Southbound Gilmore Diversion @ Manor St,129,-123.012026,49.25662
+1660,52733,Southbound Gilmore Way @ Canada Way,129,-123.010837,49.254132
+1661,52735,Eastbound Moscrop St @ Smith Ave,129,-123.019292,49.242913
+1662,52736,Metrotown Station @ Bay 4,130,-123.002518,49.225794
+1663,52738,Northbound Willingdon Ave @ Grafton St,130,-123.003238,49.232393
+1664,52739,Northbound Willingdon Ave @ Deer Lake Parkway,130,-123.003169,49.243312
+1665,52740,Northbound Willingdon Ave @ Sanderson Way,130,-123.003869,49.247628
+1666,52741,Southbound Willingdon Ave @ Sardis St,130,-123.003443,49.233488
+1667,52742,Southbound Gilmore Ave @ Hastings St,129,-123.014293,49.280694
+1668,52743,Southbound Gilmore Ave @ Georgia St,129,-123.01431,49.278057
+1669,52744,Southbound Gilmore Ave @ Venables St,129,-123.014344,49.276367
+1670,52745,Southbound Gilmore Ave @ William St,129,-123.014338,49.273628
+1671,52746,Southbound Gilmore Ave @ Kitchener St,129,-123.014355,49.271857
+1672,52754,Southbound Douglas Rd @ Still Creek Ave,133,-122.984344,49.260445
+1673,52755,Southbound Douglas Rd @ Norland Ave,133,-122.983303,49.258915
+1674,52756,Southbound Douglas Rd @ Dominion St,133,-122.982634,49.256304
+1675,52757,Southbound Douglas Rd @ Laurel St,133,-122.982039,49.25327
+1676,52758,Southbound Douglas Rd @ Hardwick St,133,-122.981855,49.252094
+1677,52759,Southbound Douglas Rd @ Sprott St,133,-122.981035,49.249671
+1678,52784,Northbound Douglas Rd @ Hardwick St,133,-122.98165,49.251964
+1679,52785,Northbound Douglas Rd @ Laurel St,133,-122.981866,49.253402
+1680,52786,Northbound Douglas Rd @ Norfolk St,133,-122.982097,49.255423
+1681,52787,Northbound Douglas Rd @ Hwy One Overpass,133,-122.982623,49.256983
+1682,52788,Northbound Douglas Rd @ Norland Ave,133,-122.983586,49.259866
+1683,52792,Westbound Lougheed Hwy @ Beta Ave,136; N9,-122.998687,49.266442
+1684,52798,Northbound Gilmore Ave @ 1st Ave,129,-123.01408,49.269681
+1685,52799,Northbound Gilmore Ave @ Kitchener St,129,-123.014164,49.272367
+1686,52800,Northbound Gilmore Ave @ William St,129,-123.014169,49.274137
+1687,52801,Northbound Gilmore Ave @ Parker St,129,-123.01418,49.275977
+1688,52802,Northbound Gilmore Ave @ Union St,129,-123.014142,49.277749
+1689,52803,Northbound Gilmore Ave @ Frances St,129,-123.014114,49.279524
+1690,52804,Metrotown Station @ Bay 6,119; 129,-123.002908,49.225986
+1691,52809,Eastbound Midlawn Dr @ Willingdon Ave,134,-123.002468,49.270995
+1692,52810,Southbound Fairlawn Dr @ Midlawn Dr,134,-122.99969,49.270723
+1693,52811,Eastbound Brentlawn Dr @ Beta Ave,134,-122.996667,49.268274
+1694,52812,Northbound Delta Ave @ Brentlawn Dr,134,-122.992115,49.26865
+1695,52813,Northbound Delta Ave @ Southlawn Dr,134,-122.992114,49.270477
+1696,52814,Northbound Delta Ave @ Northlawn Dr,134,-122.992095,49.272871
+1697,52815,Northbound Delta Ave @ Eastlawn Dr,134,-122.992077,49.274832
+1698,52816,Eastbound Parker St @ Delta Ave,134,-122.991581,49.275471
+1699,52817,Eastbound Parker St @ Springer Ave,134,-122.987355,49.275455
+1700,52818,Eastbound Parker St @ Holdom Ave,134,-122.981221,49.275429
+1701,52897,Westbound Parker St @ Holdom Ave,134,-122.981672,49.275531
+1702,52898,Westbound Parker St @ Springer Ave,134,-122.988246,49.275557
+1703,52899,Southbound Delta Ave @ Parker St,134,-122.992251,49.27518
+1704,52900,Southbound Delta Ave @ Northlawn Dr,134,-122.992254,49.272496
+1705,52901,Southbound Delta Ave @ Southlawn Dr,134,-122.992268,49.269784
+1706,52902,Southbound Delta Ave @ Brentlawn Dr,134,-122.992305,49.268504
+1707,52903,Westbound Brentlawn Dr @ Beta Ave,134,-122.997503,49.268596
+1708,52904,Westbound Brentlawn Dr @ Fairlawn Dr,134,-123.000223,49.270171
+1709,52905,Eastbound W Hastings St @ Carrall St,014; 016; 020; N20; N35,-123.104795,49.281469
+1710,52908,Southbound Holdom Ave @ Hastings St,129,-122.981029,49.279971
+1711,52909,Southbound Holdom Ave @ Georgia St,129,-122.981038,49.277852
+1712,52910,Southbound Holdom Ave @ Parker St,129,-122.981168,49.275162
+1713,52911,Southbound Holdom Ave @ Charles St,129,-122.981223,49.272526
+1714,52936,Northbound Holdom Ave @ Sumas St,129; 136,-122.981093,49.266541
+1715,52937,Northbound Holdom Ave @ Halifax St,129,-122.981077,49.268316
+1716,52938,Northbound Holdom Ave @ Winch St,129,-122.98107,49.270142
+1717,52939,Northbound Holdom Ave @ Kitchener St,129,-122.981061,49.271944
+1718,52943,Westbound Pender St @ Willingdon Ave,130,-123.004372,49.280153
+1719,52945,Northbound Gamma Ave @ Pandora St,132,-122.994624,49.283114
+1720,52946,Northbound N Gamma Ave @ Empire Dr,132,-122.994536,49.285877
+1721,52947,Eastbound Empire Dr @ Delta Ave,132,-122.991608,49.283521
+1722,52948,Northbound Hythe Ave @ Empire Dr,132,-122.990457,49.283312
+1723,52949,Eastbound Dundas St @ Hythe Ave,132,-122.989844,49.28445
+1724,52950,Northbound N Glynde Ave @ Dundas St,132,-122.989013,49.284756
+1725,52951,Eastbound Cambridge St @ N Glynde Ave,132,-122.988457,49.286326
+1726,52952,Eastbound Cambridge St @ N Springer Ave,132,-122.987186,49.286306
+1727,52953,Eastbound Cambridge St @ N Ranelagh Ave,132,-122.985645,49.286264
+1728,52954,Eastbound Cambridge St @ N Grosvenor Ave,132,-122.984345,49.286257
+1729,52955,Westbound Dundas St @ N Howard Ave,132,-122.984177,49.284462
+1730,52956,Westbound Dundas St @ N Springer Ave,132,-122.988122,49.284493
+1731,52957,Westbound Dundas St @ N Hythe Ave,132,-122.990254,49.284554
+1732,52958,Westbound Empire Dr @ Hythe Ave,132,-122.990956,49.283244
+1733,52959,Westbound Empire Dr @ Delta Ave,132,-122.992289,49.284197
+1734,52960,Southbound N Gamma Ave @ Cambridge St,132,-122.994722,49.285732
+1735,52961,Southbound Gamma Ave @ Pandora St,132,-122.994724,49.282511
+1736,52963,Southbound Willingdon Ave @ Kitchener St,130,-123.003302,49.271623
+1737,52964,Northbound Boundary Rd @ Albert St,131,-123.02331,49.28231
+1738,52965,Northbound Boundary Rd @ Triumph St,131,-123.023268,49.284094
+1739,52966,Northbound N Boundary Rd @ Oxford St,131,-123.023238,49.285924
+1740,52967,Southbound N Esmond Ave @ McGill St,131,-123.020951,49.287961
+1741,52968,Eastbound Eton St @ N Ingleton Ave,131,-123.018147,49.287392
+1742,52969,Eastbound Eton St @ N MacDonald Ave,131,-123.015799,49.287379
+1743,52970,Eastbound Eton St @ N Gilmore Ave,131,-123.013693,49.287363
+1744,52971,Eastbound Eton St @ N Carleton Ave,131,-123.010734,49.287342
+1745,52972,Eastbound Eton St @ N Madison Ave,131,-123.008078,49.287303
+1746,52975,Southbound N Willingdon Ave @ Cambridge St,131,-123.003094,49.286146
+1747,52976,Southbound Willingdon Ave @ Dundas St,131,-123.00312,49.284404
+1748,52977,Southbound Willingdon Ave @ Pandora St,131,-123.003151,49.282482
+1749,52978,Northbound Willingdon Ave @ Albert St,131,-123.003044,49.282191
+1750,52979,Northbound Willingdon Ave @ Triumph St,131,-123.003012,49.283992
+1751,52980,Northbound N Willingdon Ave @ Penzance Dr,131,-123.002948,49.2858
+1752,52983,Westbound Eton St @ N Madison Ave,131,-123.008917,49.287403
+1753,52984,Westbound Eton St @ N Carleton Ave,131,-123.011609,49.287419
+1754,52985,Westbound Eton St @ N Gilmore Ave,131,-123.014389,49.287444
+1755,52986,Westbound Eton St @ N MacDonald Ave,131,-123.016452,49.287464
+1756,52988,Southbound N Boundary Rd @ Eton St,131,-123.02361,49.287261
+1757,52989,Southbound N Boundary Rd @ Cambridge St,131,-123.023627,49.286231
+1758,52990,Southbound Boundary Rd @ Dundas St,131,-123.023659,49.284524
+1759,52991,Southbound Boundary Rd @ Pandora St,131,-123.023697,49.282683
+1760,53061,Eastbound Dover St @ Nelson Ave,144,-122.993592,49.229848
+1761,53062,Eastbound Oakland St @ Royal Oak Ave,144,-122.988023,49.229774
+1762,53063,Eastbound Oakland St @ Denbigh Ave,144,-122.9837,49.229538
+1763,53094,Westbound Oakland St @ Oakdale Rd,144,-122.986269,49.229706
+1764,53095,Westbound Dover St @ Royal Oak Ave,144,-122.989632,49.229977
+1765,53301,Eastbound Lougheed Hwy @ Douglas Rd,136; N9,-122.991151,49.264976
+1766,53309,Westbound Lougheed Hwy @ Holdom Ave,129; 133; 136; N9,-122.982086,49.265095
+1767,53312,Burrard Station @ Bay 6,R5,-123.118293,49.28616
+1768,53391,Westbound E Hastings St @ Main St,014; 016; 020; R5,-123.099363,49.281426
+1769,53392,Westbound W Hastings St @ Abbott St,R5,-123.10684,49.282004
+1770,54444,Westbound W Georgia St @ Homer St,240; 241; 246; 247; N24,-123.115491,49.280921
+1771,54445,Westbound W Georgia St @ Seymour St,257,-123.117372,49.28214
+1772,54446,Westbound W Georgia St @ Burrard St,240; 241; 246; 247; N24,-123.121449,49.284777
+1773,54447,Westbound W Georgia St @ Bute St,240; 241; 246; 247; N24,-123.125567,49.287432
+1774,54448,Westbound W Georgia St @ Broughton St,240; 241; 246; 247; 250; 253; 254; N24,-123.128526,49.289356
+1775,54473,Eastbound W Georgia St @ Richards St,240; 241; 246; 247; N24,-123.115989,49.280989
+1776,54824,Marpole Loop @ Bay 4,010; 100,-123.135845,49.20366
+1777,54826,Northbound Granville St @ W 10 Ave,010; 014; 016; N10,-123.138458,49.2631
+1778,54828,Southbound Howe St @ W Pender St,209; 210; 211; 214,-123.116768,49.284791
+1779,54830,Southbound Howe St @ W Georgia St,004; 007; 010; 014; 016; 050; N10; N17; N9,-123.119595,49.282906
+1780,54831,Southbound Howe St @ Robson St,004; 007; 010; 014; 016; 050; N10; N17; N9,-123.121239,49.281831
+1781,54832,Southbound Howe St @ Nelson St,004; 007; 010; 014; 016; 050; N10; N17; N9,-123.124449,49.279698
+1782,54835,Southbound Granville St @ W Cloverleaf,010; 016; N10; N17; N9,-123.138572,49.266704
+1783,56125,Northbound Granville St @ W 41 Ave,010; N10,-123.139463,49.234888
+1784,56952,Northbound No. 5 Rd @ Bridgeport Rd,407,-123.091401,49.192475
+1785,56953,Eastbound Vulcan Way @ 12200 Block,407,-123.087685,49.193791
+1786,56954,Eastbound Vulcan Way @ Sweden Way,407,-123.082255,49.194847
+1787,56955,Eastbound Vulcan Way @ Viscount Way,407,-123.07839,49.196014
+1788,56956,Southbound Viking Way @ Vulcan Way,407,-123.073397,49.197093
+1789,56957,Southbound Viking Way @ Viking Place,407,-123.073409,49.194182
+1790,56958,Northbound Knight St Bridge Offramp @ SE Marine Dr,405; 407,-123.075497,49.210846
+1791,56962,Northbound Viking Way @ Bridgeport Rd,405; 407,-123.073233,49.192477
+1792,56963,Northbound Viking Way @ Viking Place,405; 407,-123.073224,49.194844
+1793,56964,Westbound Vulcan Way @ Viking Way,407,-123.073845,49.197551
+1794,56965,Westbound Vulcan Way @ Viscount Way,407,-123.079335,49.195881
+1795,56966,Westbound Vulcan Way @ Sweden Way,407,-123.082141,49.195023
+1796,56967,Westbound Vulcan Way @ 12200 Block,407,-123.088263,49.193935
+1797,56968,Southbound No. 5 Rd @ Vulcan Way,407,-123.091588,49.193513
+1798,57893,Waterfront Station @ West Coast Express,WCE,-123.110998,49.286502
+1799,57938,Eastbound University Blvd @ Acadia Rd,004; 009; 014; 044; 084; N17,-123.237822,49.266503
+1800,57944,Waterfront Station Eastbound,WCE,-123.11158,49.286053
+1801,57959,Waterfront Station Unload Only,WCE,-123.111512,49.286116
+1802,57960,Waterfront Station Northbound,SB,-123.111306,49.286063
+1803,57963,Waterfront Station Southbound,SB,-123.111403,49.286137
+1804,57964,Waterfront Station @ Platform 2,EL,-123.111578,49.285907
+1805,57966,Granville Station @ Platform 2,EL,-123.115744,49.283136
+1806,57967,Stadium-Chinatown Station @ Platform 2,EL,-123.109213,49.279178
+1807,57968,Main Street-Science World Station @ Platform 2,EL,-123.100399,49.273099
+1808,57969,Commercial-Broadway Station @ Platform 4,EL,-123.069179,49.262317
+1809,57970,Nanaimo Station @ Platform 2,EL,-123.055904,49.248283
+1810,57971,29th Avenue Station @ Platform 2,EL,-123.046136,49.244236
+1811,57972,Joyce-Collingwood Station @ Platform 2,EL,-123.031827,49.238353
+1812,57973,Patterson Station @ Platform 2,EL,-123.012678,49.229712
+1813,57974,Metrotown Station @ Platform 2,EL,-123.00394,49.225781
+1814,57975,Royal Oak Station @ Platform 2,EL,-122.988475,49.220013
+1815,57992,Royal Oak Station @ Platform 1,EL,-122.98844,49.22011
+1816,57993,Metrotown Station @ Platform 1,EL,-123.003876,49.225852
+1817,57994,Patterson Station @ Platform 1,EL,-123.012613,49.229798
+1818,57995,Joyce-Collingwood Station @ Platform 1,EL,-123.031759,49.23843
+1819,57996,29th Avenue Station @ Platform 1,EL,-123.04608,49.24431
+1820,57997,Nanaimo Station @ Platform 1,EL,-123.055868,49.248334
+1821,57998,Commercial-Broadway Station @ Platform 3,EL,-123.069077,49.262311
+1822,57999,Main Street-Science World Station @ Platform 1,EL,-123.10035,49.273172
+1823,58000,Stadium-Chinatown Station @ Platform 1,EL,-123.109109,49.279271
+1824,58001,Granville Station @ Platform 1,EL,-123.115674,49.283193
+1825,58002,Burrard Station @ Platform 1,EL,-123.119598,49.28558
+1826,58003,Waterfront Station @ Platform 1,EL,-123.111516,49.285962
+1827,58008,Southbound Lost Lagoon Rd @ Stanley Park Causeway,019,-123.136713,49.296637
+1828,58023,Westbound W 10 Ave @ Sasamat St,009; 014; 099; N17,-123.209694,49.263905
+1829,58030,Bus Stop @ Pne Coliseum Loop,016,-123.043632,49.285674
+1830,58037,Eastbound W Broadway @ Alma St,099,-123.184623,49.264263
+1831,58042,Kootenay Loop @ Bay 2,160,-123.026062,49.281495
+1832,58043,Kootenay Loop @ Bay 4,028; 130,-123.025918,49.281365
+1833,58044,Westbound E Broadway @ Lillooet St,009; N9,-123.039504,49.262004
+1834,58051,Eastbound Keefer Place @ Taylor St,050,-123.105515,49.279294
+1835,58054,Heather Square @ Bay 2,050,-123.120135,49.266296
+1836,58065,Northbound Seymour St @ W Georgia St,N10; N9,-123.117549,49.281477
+1837,58087,Northbound Commercial Dr @ E 6th Ave,020; N20,-123.069596,49.265331
+1838,58088,Southbound Smith Ave @ Moscrop St,028,-123.019874,49.242674
+1839,58089,Westbound Burke St @ Smith Ave,028,-123.020478,49.23703
+1840,58090,Southbound Smith Ave @ Belleville Ave,028,-123.019922,49.239663
+1841,58092,Southbound Commercial Dr @ E 12 Ave,020; N20,-123.06995,49.259177
+1842,58093,Southbound Commercial Dr @ E 14 Ave,020; N20,-123.069954,49.257485
+1843,58099,Burrard Station @ Bay 5,022; 044,-123.118965,49.285975
+1844,58109,Eastbound Deer Lake Parkway @ Willingdon Ave,110,-123.002605,49.242827
+1845,58129,Rupert Station @ Bay 2,027,-123.033896,49.26049
+1846,58130,Rupert Station @ Bay 1,027,-123.033608,49.260804
+1847,58133,Northbound Granville St @ W 64 Ave,010; N10,-123.140233,49.213461
+1848,58135,Southbound Granville St @ W Broadway,009; 010; 016; N10,-123.138707,49.263073
+1849,58136,Southbound Granville St @ W King Edward Ave,010; 025; N10,-123.139224,49.248838
+1850,58143,Kootenay Loop @ Bay 8,028; 130; 222; N35; R5,-123.024952,49.281026
+1851,58144,Northbound Granville St @ Smithe St,004; 007; 010; 014; 016; 050,-123.120537,49.280784
+1852,58145,Westbound Kingsway @ E Broadway,008; 019; N19; N8,-123.099681,49.263296
+1853,58160,Northbound Smith Ave @ Sunset St,028,-123.019709,49.250063
+1854,58169,Eastbound Keefer Place @ Taylor St,023,-123.105758,49.279326
+1855,58183,Eastbound SE Marine Dr @ 2600 Block,100,-123.053335,49.207204
+1856,58202,Waterfront Station @ Bay 1,044; R5,-123.112372,49.285803
+1857,58211,Eastbound Vulcan Way @ No. 5 Rd,407,-123.09077,49.193788
+1858,58214,Eastbound Vulcan Way @ Viking Way,405,-123.072392,49.197842
+1859,58218,Southbound No. 6 Rd @ 2500 Block,405,-123.069288,49.19409
+1860,58228,Southbound No. 6 Rd @ Vulcan Way,405,-123.069313,49.198222
+1861,58235,Southbound Abbott St @ W Pender St,050,-123.107725,49.28074
+1862,58239,Westbound W Broadway @ Granville St,099,-123.139771,49.26373
+1863,58249,Joyce Station @ Bay 6,026; 027,-123.032261,49.237996
+1864,58254,Eastbound W Georgia St @ Bidwell St,240; 241; 246; 247; 250; 253; 254; N24,-123.131834,49.291212
+1865,58268,Eastbound W 41 Ave @ Oak St,041,-123.127728,49.233818
+1866,58280,Westbound Terminal Ave @ 300 Block,022,-123.096638,49.272363
+1867,58281,Westbound E 49 Ave @ Frontenac St,026; 049,-123.026533,49.222475
+1868,58283,Eastbound E Hastings St @ McLean Dr,014; 016; 020; N20; N35,-123.073421,49.281191
+1869,58284,Northbound Kerr St @ E 54 Ave,026,-123.041215,49.219585
+1870,58286,Southbound Cambie St @ W 29 Ave,015; N15,-123.115868,49.245383
+1871,58290,Southbound Nanaimo St @ Grandview Hwy,007,-123.056751,49.257321
+1872,58299,Westbound W 4th Ave @ Vine St,004; 007; 014; 044; 084,-123.158111,49.268301
+1873,58302,Southbound Victoria Dr @ E 38 Ave,020; N20,-123.065593,49.235445
+1874,58307,Southbound Main St @ E 18 Ave,003,-123.100959,49.254339
+1875,58312,Northbound Nootka St @ E 29 Ave,016,-123.041719,49.244934
+1876,58313,Northbound Granville St @ W Pender St,004; 007; 010; 014; 016; 017; 020; 050,-123.114994,49.284493
+1877,58321,Southbound Howe St @ Dunsmuir St,004; 007; 010; 014; 016; 050,-123.11788,49.284055
+1878,58327,Commercial-Broadway Station @ Bay 3,020; N20,-123.069636,49.262699
+1879,58337,Westbound Hastings St @ Holdom Ave,129,-122.981804,49.280431
+1880,58342,Northbound Holdom Ave @ Lougheed Hwy,129; 133; 136,-122.981032,49.264688
+1881,58343,Southbound Holdom Ave @ Lougheed Hwy,129; 133; 136,-122.981313,49.264489
+1882,58344,Gilmore Station @ Bay 1,028; 129; N9,-123.014187,49.264851
+1883,58345,Gilmore Station @ Bay 3,028,-123.015179,49.26457
+1884,58346,Gilmore Station @ Bay 2,129,-123.014452,49.264143
+1885,58381,Southbound Holdom Ave @ Halifax St,129,-122.981243,49.267723
+1886,58384,Westbound Goring St @ Douglas Rd,133,-122.98604,49.263133
+1887,58385,Eastbound Goring St @ Douglas Rd,133,-122.986025,49.262985
+1888,58386,Westbound Lougheed Hwy @ Gilmore Ave,028; N9,-123.014957,49.266208
+1889,58387,Southbound Gilmore Ave @ 2nd Ave,129,-123.014362,49.267781
+1890,58388,Northbound Gilmore Ave @ Halifax St,129,-123.014167,49.268646
+1891,58390,Westbound Henning Dr @ 3800 Block,028,-123.019214,49.264012
+1892,58391,Eastbound Henning Dr @ 3800 Block,028; N9,-123.018496,49.263862
+1893,58392,Eastbound Henning Dr @ Boundary Rd,028; N9,-123.022725,49.263596
+1894,58401,Renfrew Station @ Bay 1,016,-123.044439,49.25903
+1895,58402,Southbound Commercial Dr @ N Grandview Hwy,020; N20,-123.069903,49.263232
+1896,58428,Eastbound Hastings St @ Gilmore Ave,129; 130; 131; 132; 160; N35; R5,-123.013446,49.280953
+1897,58491,Northbound Commercial Dr @ N Grandview Hwy,009; 099,-123.069582,49.26342
+1898,58499,Eastbound E Broadway @ Clark Dr,099,-123.076191,49.262263
+1899,58501,Broadway-City Hall Station @ Bay 4,099; N9,-123.116526,49.263349
+1900,58502,Westbound W Broadway @ Willow St,099,-123.12286,49.263437
+1901,58504,Westbound W Georgia St @ Granville St,250; 253; 254,-123.117661,49.28232
+1902,58510,Southbound Main St @ E 5th Ave,008; 019; N19; N8,-123.100973,49.266106
+1903,58529,Eastbound W Pender St @ Abbott St,019; 022; N19,-123.106976,49.280892
+1904,58588,Southbound Granville St @ Nanton Ave,010; N10,-123.139289,49.247111
+1905,58593,Northbound Granville St @ Drake St,004; 007; 010; 014; 016; 050,-123.127092,49.276487
+1906,58598,Southbound Gilmore Ave @ Douglas Rd,129,-123.014355,49.269887
+1907,58599,Northbound Gamma Ave @ Albert St,132,-122.99465,49.282099
+1908,58605,Eastbound Sanderson Way @ Gilmore Way,025,-123.008625,49.248286
+1909,58606,Northbound Wesbrook Mall @ 2100 Block,025; 033; 049,-123.243949,49.264762
+1910,58611,Eastbound Marine Dr @ 5500 Block,100; 148,-122.983643,49.206193
+1911,58613,Westbound E Broadway @ Fraser St,008; 009; 099; N8; N9,-123.09009,49.262593
+1912,58614,Eastbound E Broadway St @ Fraser St,009; 099; N9,-123.088379,49.26236
+1913,58620,Eastbound N Grandview Hwy @ Commercial Dr,099,-123.068542,49.263172
+1914,58621,Southbound N Grandview Hwy @ E 8th Ave,009,-123.067725,49.262833
+1915,58647,Westbound SE Marine Dr @ Poplar St,008; N8,-123.092844,49.211133
+1916,58650,Eastbound W 41 Ave @ Crown St,041,-123.194664,49.23468
+1917,58652,Westbound E Hastings St @ Lakewood Dr,014; 016; N35,-123.062205,49.28127
+1918,58661,Eastbound W 2nd Ave @ Anderson St,050,-123.138366,49.269468
+1919,58704,Westbound W Georgia St @ Bute St,250; 253; 254,-123.125666,49.287499
+1920,58705,Westbound W Georgia St @ Burrard St,250; 253; 254; 257,-123.121726,49.284954
+1921,58706,Westbound McGill St @ N Esmond Ave,131,-123.022039,49.288414
+1922,58707,Northbound MacDonald Ave @ Albert St,131; 132,-123.016137,49.281716
+1923,58721,Southbound Burrard St @ Burnaby St,044,-123.130164,49.278573
+1924,58722,Eastbound W Georgia St @ Gilford St,019; 240; 241; 246; 247; 250; 253; 254; N24,-123.135601,49.293655
+1925,58723,Northbound Arbutus St @ W 16 Ave,016,-123.152846,49.257604
+1926,58727,Stanley Park Loop @ Bay 1,019,-123.133742,49.300494
+1927,58728,Stanley Park Loop @ Bay 2,019,-123.13403,49.300672
+1928,58735,Westbound Marine Dr @ Hollis Place,148,-122.997213,49.207683
+1929,58762,Southbound Fraser St @ SE Marine Dr,008,-123.091221,49.211303
+1930,58893,Westbound W Pender St @ Burrard St,019,-123.118031,49.286833
+1931,58895,UBC Exchange @ Bay 9,009,-123.248724,49.265726
+1932,58953,Westbound E 10 Ave @ Kingsway,009,-123.099601,49.26203
+1933,58954,Southbound Fraser St @ E 31 Ave,008; N8,-123.090417,49.242261
+1934,58955,Northbound Fraser St @ E 31 Ave,008; N8,-123.090196,49.242872
+1935,58962,Northbound Joffre Ave @ Carson St,116; 146,-123.019815,49.210668
+1936,58988,Westbound Kingsway @ Nelson Ave,119; 144; N19,-122.995118,49.227163
+1937,59040,Westbound Robson St @ Granville St,017; 020,-123.119551,49.28128
+1938,59041,Southbound Main St @ E 41 Ave,003,-123.101636,49.232735
+1939,59042,63 Ave Loop @ Granville St,010; 016,-123.140853,49.21392
+1940,59094,Westbound E 41 Ave @ Fleming St,041,-123.07324,49.232762
+1941,59102,Westbound W 49 Ave @ Maple St,049,-123.152702,49.227195
+1942,59103,Eastbound W 49 Ave @ Maple St,049,-123.151905,49.227063
+1943,59128,Westbound Canada Way @ Smith Ave,028,-123.021521,49.254781
+1944,59129,Northbound Smith Ave @ Linwood St,028,-123.019687,49.253539
+1945,59133,Westbound Kincaid St @ Ingleton Ave,025; 129,-123.01717,49.248874
+1946,59299,Eastbound North Fraser Way @ 5000 Block,116,-123.004741,49.200111
+1947,59300,Eastbound North Fraser Way @ Glenlyon Parkway West,116,-123.009524,49.200053
+1948,59317,Eastbound E 49 Ave @ Kerr St,049; 430,-123.040479,49.224659
+1949,59318,Westbound E 49 Ave @ Tyne St,049; 430,-123.032636,49.224736
+1950,59390,Westbound Pacific St @ Jervis St,023,-123.138406,49.280964
+1951,59391,Westbound Beach Ave @ Bute St,023,-123.137338,49.279589
+1952,59392,Westbound Beach Ave @ Thurlow St,023,-123.135648,49.277896
+1953,59393,Westbound Beach Ave @ Hornby St,023,-123.132974,49.275543
+1954,59396,Westbound Beach Ave @ Howe St,023,-123.132056,49.274962
+1955,59402,Southbound Smith Ave @ Fir St,028; 129,-123.019856,49.244604
+1956,59420,Eastbound Davie St @ Broughton St,006,-123.136106,49.283478
+1957,59431,Eastbound W Broadway @ Spruce St,009; N9,-123.128317,49.263296
+1958,59434,Westbound E 49 Ave @ Vivian St,049,-123.050858,49.224856
+1959,59489,Eastbound SW Marine Dr @ Wesbrook Mall,049,-123.233387,49.244611
+1960,59513,Eastbound W Georgia St @ Hamilton St,250; 253; 254,-123.114489,49.280019
+1961,59525,Westbound Water St @ Abbott St,050,-123.107364,49.28411
+1962,59536,Southbound Main St @ E 28 Ave,003,-123.101378,49.245403
+1963,59538,Southbound Main St @ E 59 Ave,003,-123.102076,49.216491
+1964,59558,Westbound Dunsmuir St @ Cambie St,257,-123.112004,49.280837
+1965,59560,Eastbound Marine Dr @ 4900 Block,100; 148,-122.993675,49.207204
+1966,59576,Northbound N Boundary Rd @ Eton St,131,-123.023214,49.287718
+1967,59580,Southbound Main St @ E 2nd Ave,003; 008; 019; N19; N8,-123.100898,49.268688
+1968,59581,Northbound Main St @ E 16 Ave,003,-123.101068,49.256943
+1969,59582,Northbound Main St @ E 14 Ave,003,-123.100989,49.258782
+1970,59583,Southbound Main St @ E 49 Ave,003,-123.10178,49.225333
+1971,59587,Northbound Lower Mall @ University Blvd,068,-123.256083,49.263181
+1972,59606,Southbound Willingdon Ave @ Maywood St,031; 146; 147; 430,-123.011162,49.224417
+1973,59607,Northbound Willingdon Extension @ Imperial St,031; 049; 116; 146; 147,-123.012456,49.222365
+1974,59664,Joyce Station @ Bay 7,027,-123.031266,49.238723
+1975,59668,Southbound Nelson Ave @ Patrick Place,148,-122.996792,49.208615
+1976,59669,Southbound Nelson Ave @ McKee Place,148,-122.994011,49.210732
+1977,59670,Southbound Nelson Ave @ Clinton St,148,-122.994004,49.212593
+1978,59671,Southbound Nelson Ave @ Rumble St,148,-122.993973,49.214497
+1979,59673,Westbound Rumble St @ Royal Oak Ave,147; 148,-122.989193,49.214922
+1980,59674,Northbound Antrim Ave @ Victory St,148,-122.984964,49.21882
+1981,59675,Southbound Patterson Ave @ Imperial St,146; 147,-123.012703,49.221627
+1982,59676,Northbound Patterson Ave @ Victory St,146; 147,-123.01236,49.218594
+1983,59677,Southbound Patterson Ave @ Victory St,146; 147,-123.012508,49.218127
+1984,59678,Northbound Patterson Ave @ Rumble St,146; 147,-123.0123,49.215171
+1985,59679,Southbound Patterson Ave @ Rumble St,146,-123.012488,49.214602
+1986,59680,Westbound Rumble St @ McKay Ave,147,-123.009187,49.214873
+1987,59681,Westbound Rumble St @ Sussex Ave,147,-123.005284,49.214867
+1988,59682,Eastbound Rumble St @ Sussex Ave,147,-123.004608,49.214778
+1989,59683,Westbound Rumble St @ Gray Ave,147,-122.999848,49.214862
+1990,59684,Eastbound Rumble St @ Gray Ave,147,-122.999097,49.214781
+1991,59685,Westbound Rumble St @ Nelson Ave,147,-122.994317,49.214888
+1992,59687,Northbound Greenall Ave @ Marine Way,116,-123.017836,49.206144
+1993,59701,Westbound Lougheed Hwy @ Madison Ave,N9,-123.009458,49.266542
+1994,59702,Eastbound Lougheed Hwy @ Madison Ave,N9,-123.008094,49.266312
+1995,59715,Northbound Wesbrook Mall @ Thunderbird Blvd,025; 033; 049,-123.241873,49.262267
+1996,59721,Westbound North Fraser Way @ Glenlyon Parkway West,116,-123.010666,49.200252
+1997,59751,Westbound W 6th Ave @ Alder Crossing,084,-123.132576,49.266199
+1998,59754,Eastbound W 6th Ave @ Heather St,084,-123.120144,49.265832
+1999,59758,Eastbound W 2nd Ave @ Columbia St,084,-123.109733,49.269029
+2000,59760,Eastbound E 2nd Ave @ Ontario St,084,-123.104153,49.269125
+2001,59761,Westbound E 2nd Ave @ Main St,084,-123.101217,49.269283
+2002,59763,Eastbound Great Northern Way @ Brunswick St,084,-123.095812,49.266743
+2003,59765,Westbound Great Northern Way @ Foley St,084,-123.087137,49.266404
+2004,59766,Eastbound Great Northern Way @ Foley St,084,-123.086122,49.266021
+2005,59767,VCC-Clark Station @ Unloading Only,084,-123.079842,49.265975
+2006,59780,Southbound Patterson Ave @ Clinton St,146,-123.012493,49.212629
+2007,59781,Westbound Beresford St @ Royal Oak Ave,148,-122.98817,49.219859
+2008,59783,Northbound Boundary Rd @ E Kent Ave North,116,-123.023178,49.203898
+2009,59803,VCC-Clark Station @ Bay 1,084,-123.079447,49.265476
+2010,59814,Northbound Roseberry Ave @ Keith St,116,-123.015048,49.207207
+2011,59831,Southbound Howe St @ W Pender St,014; 016; 050,-123.116344,49.285048
+2012,59832,Southbound Howe St @ Dunsmuir St,N15; N19; N20; N24,-123.117067,49.284576
+2013,59835,Northbound Main St @ E 18 Ave,003,-123.100984,49.255006
+2014,59836,Northbound Main St @ E 20 Ave,003,-123.100763,49.253226
+2015,59837,Northbound Main St @ E 22 Ave,003,-123.100866,49.251452
+2016,59838,Southbound Main St @ E 39 Ave,003,-123.101698,49.235131
+2017,59842,Northbound Main St @ E 46 Ave,003,-123.101386,49.228719
+2018,59843,Northbound Main St @ 54 Ave,003,-123.101649,49.22134
+2019,59844,Northbound Main St @ E 62 Ave,003,-123.101909,49.214623
+2020,59860,Eastbound Davie St @ Richards St,006,-123.124529,49.275982
+2021,59889,Kootenay Loop @ Bay 1,131,-123.025625,49.281403
+2022,59914,Westbound Pacific Blvd @ Cambie St,023,-123.119683,49.274606
+2023,59916,Eastbound Pacific Blvd @ Boathouse Mews,023,-123.117633,49.27421
+2024,59918,Eastbound Pacific Blvd @ Marinaside Cres,023,-123.114446,49.274212
+2025,59919,Northbound Pat Quinn Way @ Pacific Blvd,023,-123.107546,49.277432
+2026,59923,Westbound Keefer Place @ Taylor St,023,-123.106439,49.279581
+2027,59924,Southbound Quebec St @ Keefer St,023,-123.102218,49.279008
+2028,59925,Northbound Quebec St @ Terminal Ave,023,-123.101534,49.273368
+2029,59926,Eastbound National Ave @ Quebec St,023,-123.101464,49.27487
+2030,59927,Northbound Quebec St @ National Ave,023,-123.101804,49.275246
+2031,59928,Eastbound National Ave @ Main St,019,-123.099334,49.274846
+2032,59930,Southbound Hudson St @ SW Marine Dr,010,-123.134919,49.202765
+2033,59940,Westbound Stadium Rd @ West Mall,068,-123.24893,49.25498
+2034,59941,Southbound West Mall @ Hawthorn Lane,068,-123.249997,49.257665
+2035,59942,Westbound Thunderbird Blvd @ Larkin Dr,068,-123.249148,49.259061
+2036,59946,Southbound Wesbrook Mall @ Iona Dr,068,-123.248276,49.271678
+2037,59957,Eastbound NW Marine Dr @ East Mall,068,-123.254576,49.270734
+2038,59964,Northbound NW Marine Dr @ Agronomy Rd,068,-123.254983,49.259575
+2039,59974,Northbound Great Canadian Way @ Beckwith Rd,N10,-123.124243,49.193077
+2040,59991,Westbound Expo Blvd @ Abbott St,023,-123.108015,49.278791
+2041,59992,Northbound Pat Quinn Way @ Expo Blvd,023,-123.107518,49.278392
+2042,60006,Eastbound W Broadway @ Columbia St,009; N9,-123.10905,49.26302
+2043,60014,Westbound Expo Blvd @ Nelson St,023,-123.116234,49.274765
+2044,60020,Eastbound E 49 Ave @ Doman St,049,-123.036296,49.224634
+2045,60022,Westbound E 49 Ave @ Doman St,049,-123.036952,49.224782
+2046,60023,Southbound Arlington St @ E 49 Ave,026,-123.028887,49.222808
+2047,60024,Southbound Champlain Cres @ E 54 Ave,026,-123.032506,49.219811
+2048,60025,Northbound Champlain Cres @ E 54 Ave,026,-123.032299,49.219894
+2049,60102,Southbound Cambie St @ Nelson St,006,-123.118424,49.275952
+2050,60103,Northbound Cambie St @ Nelson St,006,-123.117748,49.276256
+2051,60104,Northbound Cambie St @ Robson St,006,-123.114655,49.278318
+2052,60116,Eastbound Davie St @ Granville St,006,-123.125976,49.276918
+2053,60158,UBC Exchange @ Bay 1,033; 068,-123.247954,49.267415
+2054,60159,UBC Exchange @ Bay 2,084,-123.24828,49.2673
+2055,60160,UBC Exchange @ Bay 3,044,-123.24863,49.267177
+2056,60162,UBC Exchange @ Bay 4,R4,-123.247902,49.26704
+2057,60163,UBC Exchange @ Bay 5,049,-123.247589,49.26715
+2058,60164,UBC Exchange @ Bay 6,025,-123.247155,49.267304
+2059,60195,Metrotown Station @ Bay 10,031; 049; 116; 119; 130; 146; 147; 222; 430,-123.004928,49.22639
+2060,60197,Southbound Burrard St @ Harwood St,002; N22,-123.131265,49.277837
+2061,60208,29th Avenue Station @ Bay 4,026,-123.044461,49.244435
+2062,60211,Metrotown Station @ Bay 11,049,-123.004152,49.226034
+2063,60212,Metrotown Station @ Bay 12,116; 144,-123.003278,49.225643
+2064,60213,Metrotown Station @ Bay 13,110,-123.002774,49.22541
+2065,60214,Metrotown Station @ Bay 14,144,-123.002091,49.225091
+2066,60219,Westbound University Blvd @ Western Parkway,099; N17,-123.244736,49.266634
+2067,60223,Northbound Fraser St @ E 20 Ave,008; N8,-123.089851,49.253266
+2068,60251,Eastbound SW Marine Dr @ Hudson St,010,-123.135556,49.20317
+2069,60269,Northbound Burrard St @ Smithe St,002; N22,-123.124019,49.282359
+2070,60277,Northbound Seymour St @ Robson St,004; 007; 010; 014; 016; 017; 020; 050; N17,-123.11824,49.28102
+2071,60302,Northbound Cambie St @ Dunsmuir St,005; 006,-123.111842,49.280182
+2072,60307,Broadway-City Hall Station @ Bay 3,015; 017; N15,-123.115153,49.261616
+2073,60314,Nanaimo Station @ Bay 1,025,-123.056509,49.248336
+2074,60329,Brentwood Station @ Bay 1,130; 134; 222,-123.002997,49.267148
+2075,60335,Eastbound E King Edward Ave @ Ontario St,025,-123.104633,49.248771
+2076,60336,Eastbound E Cordova St @ Heatley Ave,004; 007; 209; 210; 211; 214,-123.089076,49.28202
+2077,60342,Southbound Cambie St @ W Georgia St,006; 017; N15,-123.112876,49.279676
+2078,60348,Eastbound W Georgia St @ Homer St,240; 241; 246; 247; 250; 253; 254; N24,-123.114837,49.280236
+2079,60351,Southbound Station St @ National Ave,019,-123.09865,49.273853
+2080,60358,UBC Exchange @ Unloading Only,025; 033; 044; 049; 068; 084; 099; R4,-123.247621,49.267674
+2081,60359,Northbound Macdonald St @ W 13 Ave,002; N22,-123.168239,49.260225
+2082,60366,Westbound Oakland St @ Dufferin Ave,144,-122.980952,49.229249
+2083,60375,Westbound Great Northern Way @ Carolina Street,084,-123.091178,49.266868
+2084,60383,Southbound Wesbrook Mall @ Agronomy Rd,R4,-123.243491,49.26369
+2085,60384,Northbound Wesbrook Mall @ Agronomy Rd,R4,-123.242289,49.262728
+2086,60385,Westbound W 41 Ave @ East Blvd,041; R4,-123.15479,49.234672
+2087,60386,Eastbound W 41 Ave @ East Blvd,041; R4,-123.154407,49.234483
+2088,60391,Eastbound Great Northern Way @ Carolina St,084,-123.090557,49.26668
+2089,60393,Dunbar Loop @ Bay 7,R4,-123.184268,49.234694
+2090,60394,Dunbar Loop @ Bay 4,049,-123.186649,49.234836
+2091,60395,Westbound W 41 Ave @ Carnarvon St,002; 041; N22,-123.174148,49.234826
+2092,60396,Eastbound W 41 Ave @ Carnarvon St,002; 041; N22,-123.173495,49.23467
+2093,60397,Westbound W 41 Ave @ Oak St,041,-123.129021,49.234095
+2094,60399,Eastbound E 41 Ave @ Main St,041,-123.102441,49.232982
+2095,60400,Westbound E 41 Ave @ Fraser St,008; 041,-123.091581,49.233019
+2096,60402,Westbound E 41 Ave @ Victoria Dr,020; 041,-123.066544,49.232733
+2097,60403,Southbound Joyce St @ Kingsway,019; 026; 041,-123.036583,49.233624
+2098,60404,Northbound Joyce St @ Church St,026; 027; 041,-123.03528,49.234646
+2099,60408,Eastbound W 12th Ave @ Arbutus St,016,-123.152113,49.260922
+2100,60409,Eastbound W 12th Ave @ Cypress St,016,-123.147849,49.260863
+2101,60410,Westbound W 12th Ave @ Cypress St,016,-123.148612,49.260992
+2102,60411,Eastbound W 12 Ave @ Pine St,016,-123.143122,49.260786
+2103,60412,Westbound W 12th Ave @ Pine St,016,-123.143876,49.260917
+2104,60413,Eastbound W 12 Ave @ Oak St,017,-123.12604,49.260482
+2105,60414,Eastbound W 12th Ave @ Laurel St,017,-123.12392,49.260473
+2106,60415,Westbound W 12th Ave @ Laurel St,017,-123.124667,49.260622
+2107,60416,Eastbound W 12th Ave @ Heather St,017,-123.120306,49.260394
+2108,60417,Westbound W 12th Ave @ Heather St,017,-123.12041,49.260557
+2109,60418,Westbound W 12th Ave @ Cambie St,017,-123.11559,49.260482
+2110,60423,Eastbound Robson St @ Cardero St,005,-123.132046,49.2892
+2111,60431,Westbound W 41 Ave @ Churchill St,041,-123.141226,49.234437
+2112,60433,Westbound Kingsway @ Gladstone,019; 025; N19,-123.061464,49.24353
+2113,60436,YVR Domestic Departures  @ Level Three,N10,-123.18071,49.192988
+2114,60472,Eastbound Sawmill Cres @ River District Crossing,031,-123.030484,49.205803
+2115,60492,Eastbound W Cordova St @ Carrall St,003; 004; 007; 008; 209; 210; 211; 214; N8,-123.104634,49.282442
+2116,60494,Eastbound W Broadway @ Granville St,099,-123.139857,49.263505
+2117,60495,Southbound Arbutus St @ 4200 Block,016,-123.153504,49.248095
+2118,60498,Westbound E Hastings St @ Heatley Ave,014; 016; 020; N20; N35,-123.090022,49.28126
+2119,60502,Northbound Denman St @ Comox St,005,-123.139345,49.288812
+2120,60504,Eastbound Robson St @ Broughton St,005,-123.129709,49.287679
+2121,60506,Eastbound Pacific St @ Seymour Mews,023,-123.128718,49.274423
+2122,60515,Brentwood Station @ Bay 4,123; 134; 136,-123.003908,49.266305
+2123,60516,Brentwood Station @ Bay 5,025; N9,-123.004628,49.266331
+2124,60517,Southbound Main St @ E Broadway,003,-123.101128,49.263326
+2125,60519,Westbound Cornwall Ave @ Maple St,002; N22,-123.14994,49.27258
+2126,60525,Eastbound Pacific St @ Thurlow St,023,-123.13473,49.278412
+2127,60526,Westbound Beach Ave @ Bidwell St,023,-123.142591,49.284303
+2128,60527,Eastbound Beach Ave @ Bidwell St,023,-123.142826,49.284744
+2129,60528,Eastbound Beach Ave @ Cardero St,023,-123.141983,49.283216
+2130,60529,Westbound Beach Ave @ Cardero St,023,-123.1416,49.283023
+2131,60530,Eastbound Pacific St @ Jervis St,023,-123.137988,49.280513
+2132,60533,Northbound Blanca St @ W 5th Ave,004; 044; 084,-123.214932,49.268423
+2133,60534,Broadway-City Hall Station @ Bay 6,009,-123.117852,49.263181
+2134,60535,Broadway-City Hall Station @ Bay 1,099; N9,-123.116587,49.26315
+2135,60540,Westbound Kingsway @ Dumfries St,019; N19,-123.073752,49.249256
+2136,60547,Southbound West Blvd @ W 46th Ave,016,-123.155866,49.229631
+2137,60551,Northbound Fraser St @ E 56 Ave,008; N8,-123.090815,49.219428
+2138,60552,Westbound W Broadway @ Hemlock St,009; N9,-123.134884,49.263652
+2139,60553,Eastbound W 6th Ave @ Alder St,084,-123.130869,49.26601
+2140,60554,Eastbound E 2nd Ave @ Lorne St,084,-123.099412,49.268312
+2141,60562,Northbound N Boundary Rd @ Trinity St,131,-123.023179,49.289497
+2142,60567,Eastbound W Georgia St @ Burrard St,240; 241; 246; 247; 250; 253; 254; 257; N24,-123.121679,49.284667
+2143,60570,Eastbound W 4th Ave @ Blenheim St,004; 007,-123.177316,49.268415
+2144,60571,Eastbound W 4th Ave @ Balaclava St,004; 007,-123.173351,49.268359
+2145,60575,Southbound Alma St @ W 10 Ave,007,-123.186038,49.263217
+2146,60577,Westbound W Georgia St @ Richards St,250; 253; 254,-123.115895,49.281177
+2147,60579,Westbound E Broadway @ Quebec,099,-123.104155,49.263084
+2148,60586,Westbound Hastings St @ Willingdon Ave-,130; 131; 222; N35; R5,-123.003852,49.281121
+2149,60587,Westbound Hastings St @ Willingdon Ave,129; 132; 160,-123.002663,49.281129
+2150,60589,Westbound SE Marine Dr @ Prince Edward St,100; N20; N8,-123.098986,49.210898
+2151,60592,Northbound Granville St @ Park Dr,010; N10,-123.140092,49.217685
+2152,60681,Southbound Knight St @ E 19 Ave,022,-123.07613,49.253194
+2153,60709,Southbound Knight St @ E 17 Ave,022,-123.076054,49.255003
+2154,60725,Eastbound W Broadway @ Collingwood St,009; 014; N17,-123.181429,49.264225
+2155,60726,Eastbound W Broadway @ Blenheim St,009; 014; N17,-123.17742,49.264155
+2156,60727,Eastbound W Broadway St @ Balaclava St,009; 014; N17,-123.173572,49.264095
+2157,60728,Eastbound W Broadway @ Bayswater St,009; 014; N17,-123.170799,49.264061
+2158,60745,Dunbar Loop @ Bay 3,041,-123.186318,49.234673
+2159,60746,Westbound W 49 Ave @ Yew St,049,-123.159273,49.227274
+2160,60812,Holdom Station @ Platform 1,ML,-122.982149,49.264753
+2161,60813,Holdom Station @ Platform 2,ML,-122.982158,49.264705
+2162,60814,Brentwood Town Centre Station @ Platform 1,ML,-123.001813,49.266431
+2163,60815,Brentwood Town Centre Station @ Platform 2,ML,-123.001813,49.266352
+2164,60816,Gilmore Station @ Platform 1,ML,-123.013571,49.265002
+2165,60817,Gilmore Station @ Platform 2,ML,-123.013498,49.264931
+2166,60818,Rupert Station @ Platform 1,ML,-123.032869,49.260815
+2167,60819,Rupert Station @ Platform 2,ML,-123.032821,49.260733
+2168,60820,Renfrew Station @ Platform 1,ML,-123.045374,49.258942
+2169,60821,Renfrew Station @ Platform 2,ML,-123.045348,49.258877
+2170,60822,Commercial-Broadway Station @ Platform 1,ML,-123.068426,49.26298
+2171,60823,Commercial-Broadway Station @ Platform 2,ML,-123.068491,49.262912
+2172,60824,VCC-Clark Station @ Platform 1,ML,-123.079049,49.265873
+2173,60825,VCC-Clark Station @ Platform 2,ML,-123.079054,49.265799
+2174,60826,Burrard Station @ Platform 2,EL,-123.119515,49.285634
+2175,60859,Westbound Moscrop St @ Willingdon Ave,110,-123.00393,49.243038
+2176,60980,Southbound Granville St @ W Georgia St,004; 007; 010; 014; 016; 050,-123.117951,49.28266
+2177,60993,Northbound Granville St @ Dunsmuir St,004; 007; 010; 014; 016; 017; 020; 050,-123.116549,49.283461
+2178,60996,Northbound Cambie St @ W 45 Ave,015; N15,-123.116096,49.230066
+2179,61009,Westbound Kingsway @ Marlborough Ave,119; N19,-122.992052,49.226121
+2180,61027,Broadway-City Hall Station @ Bay 2,015; 017; N15,-123.11464,49.262826
+2181,61031,Westbound W Georgia St @ Granville St,240; 241; 246; 247; N24,-123.118524,49.282879
+2182,61039,Olympic Village Station @ Bay 2,084,-123.114936,49.266425
+2183,61040,Olympic Village Station @ Bay 1,015; 050; 084,-123.115944,49.266245
+2184,61042,Eastbound W 16 Ave @ Wesbrook Mall,R4,-123.237649,49.255122
+2185,61043,Westbound W 16 Ave @ Wesbrook Mall,025; 033,-123.234956,49.256287
+2186,61044,Northbound Wesbrook Mall @ W 16 Ave,068,-123.235823,49.255309
+2187,61073,Southbound Cambie St @ Robson St,006; 017; N15,-123.115404,49.277999
+2188,61074,Southbound Main St @ Powell St,004; 007; 209; 210; 211; 214,-123.099733,49.282699
+2189,61088,Eastbound W 16 Ave @ Dunbar St,033,-123.184606,49.257785
+2190,61089,Eastbound W 16 Ave @ Blenheim St,033,-123.178434,49.257689
+2191,61090,Eastbound W 16 Ave @ Macdonald St,033,-123.167913,49.257525
+2192,61091,Eastbound W 16 Ave @ Trafalgar St,033,-123.16452,49.257427
+2193,61092,Eastbound W 16 Ave @ Vine St,033,-123.157508,49.25729
+2194,61093,Eastbound W 16 Ave @ East Blvd,033,-123.15198,49.257204
+2195,61094,Eastbound W 16 Ave @ Burrard St,033,-123.146366,49.257121
+2196,61095,Eastbound Marpole Ave @ McRae Ave,033,-123.137767,49.257415
+2197,61096,Eastbound W 16 Ave @ Oak St,033,-123.127706,49.256969
+2198,61097,Eastbound W 16 Ave @ Willow St,033,-123.121578,49.256969
+2199,61099,Eastbound E 29 Ave @ Cambie St,033,-123.114568,49.245108
+2200,61100,Eastbound Midlothian Ave @ Clancy Loranger Way,033,-123.108805,49.242588
+2201,61101,Eastbound E 33 Ave @ Ontario St,033,-123.104966,49.240505
+2202,61103,Eastbound E 33 Ave @ Prince Edward St,033,-123.096513,49.240343
+2203,61104,Eastbound E 33 Ave @ Fraser St,033,-123.089815,49.240241
+2204,61105,Eastbound E 33 Ave @ Somerville St,033,-123.085349,49.240204
+2205,61106,Eastbound E 33 Ave @ Knight St,033,-123.075958,49.240146
+2206,61107,Eastbound E 33 Ave @ Argyle St,033,-123.070849,49.240064
+2207,61108,Eastbound E 33 Ave @ Victoria Dr,033,-123.06484,49.239826
+2208,61109,Eastbound E 33 Ave @ Nanaimo St,033,-123.058302,49.239712
+2209,61110,Southbound Slocan St @ Kingsway,029; 033,-123.053886,49.240272
+2210,61111,Westbound E 33 Ave @ Nanaimo St,033,-123.059192,49.239843
+2211,61112,Westbound E 33 Ave @ Victoria Dr,033,-123.064935,49.240047
+2212,61113,Westbound E 33 Ave @ Fleming St,033,-123.071802,49.240204
+2213,61114,Westbound E 33 Ave @ Knight St,033,-123.076877,49.240276
+2214,61115,Westbound E 33 Ave @ Windsor St,033,-123.085243,49.240328
+2215,61116,Westbound E 33 Ave @ Fraser St,033,-123.090765,49.240373
+2216,61117,Westbound E 33 Ave @ Prince Edward St,033,-123.097295,49.240485
+2217,61118,Westbound E 33 Ave @ Main St,033,-123.101925,49.240577
+2218,61119,Westbound E 33 Ave @ Ontario St,033,-123.105056,49.240633
+2219,61120,Westbound Midlothian Ave @ Clancy Loranger Way,033,-123.109291,49.243313
+2220,61121,Westbound W 16 Ave @ Cambie St,033,-123.11568,49.257005
+2221,61122,Westbound W 16 Ave @ Heather St,033,-123.120455,49.257062
+2222,61124,Westbound W 16 Ave @ Oak St,033,-123.12688,49.257181
+2223,61125,Westbound W 15 Ave @ Birch St,033,-123.134406,49.257964
+2224,61126,Westbound W 16 Ave @ Granville St,033,-123.139365,49.25714
+2225,61127,Westbound W 16 Ave @ Burrard St,033,-123.146565,49.257239
+2226,61128,Westbound W 16 Ave @ Arbutus St,033,-123.153431,49.257372
+2227,61129,Westbound W 16 Ave @ Vine St,033,-123.15827,49.257435
+2228,61130,Westbound W 16 Ave @ Trafalgar St,033,-123.165382,49.257758
+2229,61131,Westbound W 16 Ave @ Blenheim St,033,-123.178447,49.257961
+2230,61133,Southbound Trimble St @ Belmont Ave,042,-123.205803,49.273327
+2231,61134,Westbound E 33 Ave @ Inverness St,033,-123.080645,49.240296
+2232,61135,Eastbound E 33 Ave @ Inverness St,033,-123.079787,49.240161
+2233,61138,Westbound NW Marine Dr @ W 4th Ave,042,-123.200648,49.268938
+2234,61143,Bus Stop @ Spanish Banks Loop,042,-123.215494,49.276328
+2235,61149,Southbound Cambie St @ W 14 Ave,015; N15,-123.115193,49.25846
+2236,61150,Eastbound E 33 Ave @ Main St,033,-123.101853,49.240435
+2237,61215,Yaletown-Roundhouse Station @ Bay 2,006,-123.121876,49.274278
+2238,61218,Langara-49th Station @ Bay 2,049,-123.116035,49.226178
+2239,61252,Northbound Cambie St @ W 29 Ave,015; 033; N15,-123.11525,49.245537
+2240,61254,Olympic Village Station @ Bay 3,015; 050,-123.116053,49.265937
+2241,61258,Southbound Willingdon Ave @ Still Creek Dr,025; 123; 130,-123.003449,49.261663
+2242,61259,Northbound Willingdon Ave @ Still Creek Dr,025; 123; 130,-123.003137,49.261653
+2243,61281,Oakridge-41st Ave Station  @ Bay 4,R4,-123.117599,49.233712
+2244,61292,Southbound Granville St @ Robson St,004; 007; 010; 014; 016; 050,-123.119373,49.28172
+2245,61293,Northbound Granville St @ W Georgia St,004; 007; 010; 014; 016; 017; 020; 050,-123.118291,49.282317
+2246,61321,Bridgeport Station @ Bay 1 Unloading Only,311; 351; 352; 354; 403; 412; 601; 602; 603; 604; 620; 900,-123.125911,49.195515
+2247,61323,Bridgeport Station @ Bay 3,403; N10,-123.126551,49.195229
+2248,61324,Bridgeport Station @ Bay 4,430; N10,-123.126817,49.195114
+2249,61325,Bridgeport Station @ Bay 5,407,-123.127081,49.195004
+2250,61326,Bridgeport Station @ Bay 7,601,-123.127304,49.195053
+2251,61327,Bridgeport Station @ Bay 8,602; 603; 604,-123.127071,49.195144
+2252,61328,Bridgeport Station @ Bay 9,351,-123.126904,49.195246
+2253,61329,Bridgeport Station @ Bay 10,352; 354,-123.126635,49.195366
+2254,61330,Bridgeport Station @ Bay 11,407; 430,-123.126212,49.195565
+2255,61331,Bridgeport Station @ Bay 12,620,-123.125982,49.195652
+2256,61337,Marine Drive Station @ Bay 1,003; 010; 015; 017; N15; N20; N8,-123.116823,49.209087
+2257,61338,Marine Drive Station @ Bay 2,003; 010; 015; 017; 100; N15; N20; N8,-123.116116,49.209383
+2258,61360,Southbound Oak St @ W 72 Ave,017,-123.130464,49.205381
+2259,61363,Vancouver City Centre Station @ Platform 2,CL,-123.118283,49.282462
+2260,61364,Vancouver City Centre Station @ Platform 1,CL,-123.118143,49.282352
+2261,61365,Yaletown-Roundhouse Station @ Platform 2,CL,-123.122124,49.274467
+2262,61366,Yaletown-Roundhouse Station @ Platform 1,CL,-123.122015,49.274508
+2263,61367,Olympic Village Station @ Platform 2,CL,-123.115218,49.266616
+2264,61368,Olympic Village Station @ Platform 1,CL,-123.115527,49.266557
+2265,61369,Broadway-City Hall Station @ Platform 2,CL,-123.114856,49.262684
+2266,61370,Broadway-City Hall Station @ Platform 1,CL,-123.114753,49.262725
+2267,61371,King Edward Station @ Platform 2,CL,-123.115716,49.249186
+2268,61372,King Edward Station @ Platform 1,CL,-123.115228,49.249172
+2269,61373,Oakridge-41st Avenue Station @ Platform 2,CL,-123.116422,49.233747
+2270,61374,Oakridge-41st Avenue Station @ Platform 1,CL,-123.116176,49.233731
+2271,61375,Langara-49th Avenue Station @ Platform 2,CL,-123.116752,49.225743
+2272,61376,Langara-49th Avenue Station @ Platform 1,CL,-123.116289,49.225709
+2273,61377,Marine Drive Station @ Platform 2,CL,-123.117078,49.209661
+2274,61378,Marine Drive Station @ Platform 1,CL,-123.116921,49.209663
+2275,61379,Bridgeport Station @ Platform 2,CL,-123.126076,49.195558
+2276,61380,Bridgeport Station @ Platform 1,CL,-123.126006,49.195514
+2277,61387,Templeton Station @ Platform 2,CL,-123.146335,49.196715
+2278,61388,Templeton Station @ Platform 1,CL,-123.146307,49.196655
+2279,61389,Sea Island Centre Station @ Platform 2,CL,-123.157851,49.193053
+2280,61390,Sea Island Centre Station @ Platform 1,CL,-123.157884,49.19293
+2281,61391,YVR-Airport Station @ Canada Line,CL,-123.178251,49.194189
+2282,61392,YVR-Airport Station @ Platform 1,CL,-123.178254,49.194152
+2283,61393,Waterfront Station Canada Line @ Platform 2,CL,-123.114206,49.285139
+2284,61394,Waterfront Station @ Canada Line,CL,-123.114139,49.285093
+2285,61420,Westbound North Fraser Way @ 5100 Block,116,-123.001482,49.199471
+2286,61421,Eastbound North Fraser Way @ 5100 Block,116,-123.000877,49.199096
+2287,61422,Westbound North Fraser Way @ Glenlyon Parkway East,116,-122.998035,49.197454
+2288,61423,Eastbound North Fraser Way @ Glenlyon Parkway East,116,-122.996932,49.196331
+2289,61424,Southbound West Mall @ NW Marine Dr,068,-123.258499,49.268113
+2290,61430,Bridgeport Station @ Bay 13,900,-123.125757,49.195649
+2291,61453,Westbound W Broadway @ Arbutus St,099,-123.154352,49.263936
+2292,61503,Eastbound E 41 Ave @ Fraser St,R4,-123.090946,49.232781
+2293,61518,Westbound E Pender St @ Main St,007; 019; 022; 209; N19,-123.100263,49.280462
+2294,61519,Northbound Seymour St @ Dunsmuir St,004; 007; 010; 014; 016; 017; 020; 050; N10; N15; N17; N19; N20; N24; N35; N8; N9,-123.115596,49.282782
+2295,61522,Southbound Howe St @ Davie St,004; 007; 010; 014; 016; 050; N10; N17; N9,-123.127034,49.277974
+2296,61554,Eastbound Harrison Dr @ Victoria Dr,020,-123.065448,49.210486
+2297,61573,Westbound North Fraser Way @ 4300 Block,116,-123.005536,49.20024
+2298,61579,Southbound Wesbrook Mall @ Birney Ave,049; 068,-123.23498,49.254064
+2299,61580,Northbound Wesbrook Mall @ Birney Ave,049,-123.235195,49.254485
+2300,61581,Southbound Wesbrook Mall @ Triumf Centre,049,-123.232002,49.247646
+2301,61609,Joyce Station @ Bay 5,041,-123.031478,49.238127
+2302,61616,29th Avenue Station @ Bay 5,016,-123.044987,49.244392
+2303,61645,Southbound Elliott St @ E 54 Ave,029,-123.054963,49.220551
+2304,61660,Eastbound W Broadway @ Yew St,099,-123.154831,49.263761
+2305,61669,Westbound North Fraser Way @ Northbrook Court,116,-123.015264,49.200729
+2306,61670,Westbound North Fraser Way @ Fraserwood Court,116,-123.018581,49.20149
+2307,61684,Westbound Great Northern Way @ Thornton St,084,-123.09471,49.266906
+2308,61693,Bridgeport Station @ Bay 6,311; 412,-123.127321,49.19488
+2309,61701,UBC Exchange @ Bay 10,014,-123.248129,49.26581
+2310,61702,UBC Exchange @ Bay 11,004; N17,-123.247364,49.265923
+2311,61752,Northbound Willingdon Ave @ Kingsborough St,130,-123.005865,49.229033
+2312,61759,Northbound Burrard St @ Comox St,002; 044; N22,-123.126431,49.280758
+2313,61800,Victoria Dr @ 54th Avenue Loop,020,-123.065682,49.219851
+2314,61802,Brentwood Station @ Bay 2,134; 136; N9,-123.001909,49.266536
+2315,61803,Brentwood Station @ Bay 3,123; 134; 136; N9,-122.99977,49.266221
+2316,61806,Southbound Willingdon Ave @ Buchanan St,130,-123.003374,49.267569
+2317,61807,Southbound Willingdon Ave @ Halifax St,134,-123.003388,49.268608
+2318,61809,Eastbound Cornwall Ave @ Trafalgar St,002; N22,-123.163937,49.272658
+2319,61810,Northbound Smithe St @ Expo Blvd,017; N15,-123.114934,49.276112
+2320,61825,Northbound Clarendon St @ E 33 Ave,029,-123.055375,49.23952
+2321,61826,Southbound Clarendon St @ E 33 Ave,029,-123.055538,49.239443
+2322,61832,Southbound East Mall @ Eagles Dr,068,-123.24443,49.258079
+2323,61833,Northbound East Mall @ Eagles Dr,068,-123.244207,49.25836
+2324,61893,Westbound Ross Dr @ Birney Ave,068,-123.237733,49.251694
+2325,61894,Eastbound Ross Dr @ Birney Ave,068,-123.237747,49.251615
+2326,61895,Eastbound Thunderbird Blvd @ Eagles Dr,068,-123.247674,49.259395
+2327,61896,Southbound Lower Mall @ University Blvd,068,-123.256272,49.263228
+2328,61900,Eastbound Agronomy Rd @ West Mall,068,-123.252885,49.260466
+2329,61917,Westbound W Pender St @ Howe St,N22; N35; N8,-123.115432,49.285131
+2330,61921,Northbound McKay Ave @ Kingsborough St,119,-123.004742,49.227553
+2331,61930,Westbound Powell St @ Clark Dr,004; 007; 209,-123.076463,49.283161
+2332,61933,Eastbound Cordova Diversion @ Hawks Ave,004; 007; 209,-123.086717,49.282052
+2333,61935,UBC Exchange @ Bay 7,099,-123.246831,49.267419
+2334,61954,Westbound W 2nd Ave @ Manitoba St,084,-123.106978,49.269368
+2335,61985,Westbound W 2nd Ave @ Crowe St,084,-123.111966,49.26817
+2336,61986,Westbound North Fraser Way @ Byrne Rd,116,-122.995601,49.195504
+2337,61987,Eastbound North Fraser Way @ Byrne Rd,116,-122.994459,49.194396
+2338,61990,Eastbound Kingsway @ Gladstone St,019; 025; N19,-123.061585,49.243338
