@@ -152,11 +152,11 @@ function App() {
                   tabIndex={-1}
                   disableRipple
                   inputProps={{
-                    'aria-labelledby': labelId,
+                    'aria-labelledby': 'labelId',
                   }}
                 />
               </ListItemIcon>
-              <ListItemText id={labelId} primary={`List item ${value + 1}`} />
+              <ListItemText id={labelId} primary={`Food ${value + 1}`} />
             </ListItem>
           );
         })}
@@ -172,77 +172,79 @@ function App() {
     <FormControl sx={{ m: 3 }} component="fieldset" variant="standard">
       <FormLabel component="legend">1. Select Your Room Type</FormLabel>
       <div>
-      <FormGroup>
-        <FormControlLabel
-          control={
-            <Checkbox checked={entire} onChange={handleChange} name="entire" />
-          }
-          label="Entire home/apt"
-        />
-        <FormControlLabel
-          control={
-            <Checkbox checked={pv} onChange={handleChange} name="pv" />
-          }
-          label="Private room"
-        />
-        <FormControlLabel
-          control={
-            <Checkbox checked={shared} onChange={handleChange} name="shared" />
-          }
-          label="Shared room"
-        />
-      </FormGroup>
+        <FormGroup>
+          <FormControlLabel
+            control={
+              <Checkbox checked={entire} onChange={handleChange} name="entire" />
+            }
+            label="Entire home/apt"
+          />
+          <FormControlLabel
+            control={
+              <Checkbox checked={pv} onChange={handleChange} name="pv" />
+            }
+            label="Private room"
+          />
+          <FormControlLabel
+            control={
+              <Checkbox checked={shared} onChange={handleChange} name="shared" />
+            }
+            label="Shared room"
+          />
+        </FormGroup>
       </div>
       <FormLabel component="legend">2. Select Your Price Range</FormLabel>
       <div>
-      <Box
-      component="form"
-      sx={{
-        '& > :not(style)': { m: 1, width: '25ch' },
-      }}
-      noValidate
-      autoComplete="off"
-    >
-      <TextField
-        id="min price"
-        label="Min Price"
-        onChange={handleTextChange}
-      />
-      <TextField
-        id="max price"
-        label="Max Price"
-      />
-    </Box>
+        <Box
+        component="form"
+        sx={{
+          '& > :not(style)': { m: 1, width: '25ch' },
+        }}
+        noValidate
+        autoComplete="off"
+      >
+        <TextField
+          id="min price"
+          label="Min Price ($CAD)"
+          onChange={handleTextChange}
+        />
+        <TextField
+          id="max price"
+          label="Max Price ($CAD)"
+        />
+      </Box>
     </div>
     <FormLabel component="legend">3. Preference - Choose items in order of your importance </FormLabel>
-    <Grid container spacing={2} justifyContent="center" alignItems="center">
-      <Grid item>{customList('Choices', left)}</Grid>
-      <Grid item>
-        <Grid container direction="column" alignItems="center">
-          <Button
-            sx={{ my: 0.5 }}
-            variant="outlined"
-            size="small"
-            onClick={handleCheckedRight}
-            disabled={leftChecked.length === 0}
-            aria-label="move selected right"
-          >
-            &gt;
-          </Button>
-          <Button
-            sx={{ my: 0.5 }}
-            variant="outlined"
-            size="small"
-            onClick={handleCheckedLeft}
-            disabled={rightChecked.length === 0}
-            aria-label="move selected left"
-          >
-            &lt;
-          </Button>
+    <div>
+      <Grid container spacing={2} justifyContent="center" alignItems="center">
+        <Grid item>{customList('Choices', left)}</Grid>
+        <Grid item>
+          <Grid container direction="column" alignItems="center">
+            <Button
+              sx={{ my: 0.5 }}
+              variant="outlined"
+              size="small"
+              onClick={handleCheckedRight}
+              disabled={leftChecked.length === 0}
+              aria-label="move selected right"
+            >
+              &gt;
+            </Button>
+            <Button
+              sx={{ my: 0.5 }}
+              variant="outlined"
+              size="small"
+              onClick={handleCheckedLeft}
+              disabled={rightChecked.length === 0}
+              aria-label="move selected left"
+            >
+              &lt;
+            </Button>
+          </Grid>
         </Grid>
+        <Grid item>{customList('Chosen', right)}</Grid>
       </Grid>
-      <Grid item>{customList('Chosen', right)}</Grid>
-    </Grid>
+    </div>
     </FormControl>
     <Button variant="contained" onClick={handleSubmit}>Find!</Button>
     </Stack>
