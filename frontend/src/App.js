@@ -6,8 +6,6 @@ import {
   FormControlLabel,
   Checkbox,
   Stack,
-  Slider,
-  Box,
   Card,
   CardHeader,
   Divider,
@@ -19,10 +17,6 @@ import {
 } from '@mui/material';
 
 import {useState} from 'react';
-
-function valuetext(value) {
-  return `$${value}`;
-}
 
 function not(a, b) {
   return a.filter((value) => b.indexOf(value) === -1);
@@ -60,12 +54,6 @@ function App() {
       .then((res) => console.log(res))
       .catch((e) => console.error(e))
   }
-
-  const [value, setValue] = useState([20, 37]);
-
-  const handleSliderChange = (event, newValue) => {
-    setValue(newValue);
-  };
 
   const [checked, setChecked] = useState([]);
   const [left, setLeft] = useState([0, 1, 2, 3]);
@@ -197,15 +185,7 @@ function App() {
         />
       </FormGroup>
       <FormLabel component="legend">2. Select Your Price Range</FormLabel>
-      <Box sx={{ width: 300 }}>
-        <Slider
-          getAriaLabel={() => 'Price range'}
-          value={value}
-          onChange={handleSliderChange}
-          valueLabelDisplay="auto"
-          getAriaValueText={valuetext}
-        />
-      </Box>
+
     <FormLabel component="legend">3. Preference - Choose items in order of your importance </FormLabel>
     <Grid container spacing={2} justifyContent="center" alignItems="center">
       <Grid item>{customList('Choices', left)}</Grid>
