@@ -221,29 +221,6 @@ function App() {
           getAriaValueText={valuetext}
         />
       </Box>
-      <FormLabel component="legend">3. Preference</FormLabel>
-      <FormControl component="fieldset" variant="standard">
-      <FormGroup>
-        <FormControlLabel
-          control={
-            <Switch checked={state.attraction} onChange={handleChange} name="attraction" />
-          }
-          label="Attraction"
-        />
-        <FormControlLabel
-          control={
-            <Switch checked={state.food} onChange={handleChange} name="food" />
-          }
-          label="Food"
-        />
-        <FormControlLabel
-          control={
-            <Switch checked={state.transportation} onChange={handleChange} name="transportation" />
-          }
-          label="Public Transportation (Bus, Skytrain, etc.)"
-        />
-      </FormGroup>
-    </FormControl>
     <FormLabel component="legend">3. Preference</FormLabel>
     <Grid container spacing={2} justifyContent="center" alignItems="center">
       <Grid item>{customList('Choices', left)}</Grid>
