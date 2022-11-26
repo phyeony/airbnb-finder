@@ -10,7 +10,7 @@ class user_preference:
 
 def main(up1):
     filtered = filtering(up1.pr[0], up1.pr[1], up1.rt)
-    filtered.to_csv("filtered_aribnb.csv" , index=False)
+    #filtered.to_csv("filtered_aribnb.csv" , index=False)
     print(filtered, up1.at)
 
 if __name__ == '__main__':
