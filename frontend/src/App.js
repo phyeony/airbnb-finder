@@ -52,7 +52,7 @@ function App() {
   const handleSubmit = () => {
     const data = ['sdf']
     console.log("submitted")
-    fetch("http://localhost:8000/airbnb_list")
+    fetch("http://localhost:8000/airbnb_list") // TODO: 
       .then((res) => console.log(res))
       .catch((e) => console.error(e))
   }
@@ -63,7 +63,7 @@ function App() {
   };
 
   const [checked, setChecked] = useState([]);
-  const [left, setLeft] = useState([0, 1, 2, 3]);
+  const [left, setLeft] = useState(['Food','Attraction','Public Transporation']);
   const [right, setRight] = useState([]);
 
   const leftChecked = intersection(checked, left);
@@ -156,7 +156,7 @@ function App() {
                   }}
                 />
               </ListItemIcon>
-              <ListItemText id={labelId} primary={`Food ${value + 1}`} />
+              <ListItemText id={labelId} primary={value} />
             </ListItem>
           );
         })}
