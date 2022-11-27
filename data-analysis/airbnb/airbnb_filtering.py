@@ -14,4 +14,3 @@ def filtering(min_price, max_price, room_type):
     # filter room type
     filtered = price_filtered.loc[price_filtered['room_type'].isin(room_type)]
     return filtered
-    #filtered.to_csv(min_price + '_to_' + max_price + '_' + room_type + "_filtered_aribnb.csv" , index=False)
