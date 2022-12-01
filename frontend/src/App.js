@@ -47,7 +47,6 @@ function App() {
   };
 
   const { entire, pv, shared } = state;
-  const error = [entire, pv, shared].filter((v) => v).length !== 2;
 
   const handleSubmit = () => {
     const data = [state, minprice, maxprice, right]
@@ -60,6 +59,17 @@ function App() {
 
   const [minprice, setMinPrice] = useState(0);
   const [maxprice, setMaxPrice] = useState(0);
+
+  const [error, setError] = useState(true);
+
+  const HandleMinPriceChange = (e) => {
+    var numbers = /^[0-9]+$/;
+    if (e.target.value.match(numbers)) {
+      setMinPrice(e.target.value)
+    } else {
+      setError("Please input numbers only");
+    }
+  }
 
   const [checked, setChecked] = useState([]);
   const [left, setLeft] = useState(['Food','Attraction','Public Transporation']);
@@ -205,7 +215,8 @@ function App() {
         <TextField
           id="min price"
           label="Min Price ($CAD)"
-          onChange={(e) => setMinPrice(e.target.value)}
+          onChange={(e) => HandleMinPriceChange(e.target.value)}
+          error =
         />
         <TextField
           id="max price"
