@@ -60,14 +60,35 @@ function App() {
   const [minprice, setMinPrice] = useState(0);
   const [maxprice, setMaxPrice] = useState(0);
 
-  const [error, setError] = useState(true);
+  const [error, setError] = useState(false);
+  const [errorMessage, setErrorMessage] = useState('');
 
-  const HandleMinPriceChange = (e) => {
+  const [maxError, setMaxError] = useState(false);
+  const [maxErrorMessage, setMaxErrorMessage] = useState('')
+
+  const HandleMinPriceChange = (inputString) => {
     var numbers = /^[0-9]+$/;
-    if (e.target.value.match(numbers)) {
-      setMinPrice(e.target.value)
+    if (inputString.match(numbers)) {
+      console.log("is matched")
+      setError(false)
+      setErrorMessage("")
+      setMinPrice(inputString)
     } else {
-      setError("Please input numbers only");
+      setErrorMessage("Please input numbers only");
+      setError(true)
+    }
+  }
+
+  const HandleMaxPriceChange = (inputString) => {
+    var numbers = /^[0-9]+$/;
+    if (inputString.match(numbers)) {
+      console.log("is matched")
+      setMaxError(false)
+      setMaxErrorMessage("")
+      setMaxPrice(inputString)
+    } else {
+      setMaxErrorMessage("Please input numbers only");
+      setMaxError(true)
     }
   }
 
@@ -216,12 +237,13 @@ function App() {
           id="min price"
           label="Min Price ($CAD)"
           onChange={(e) => HandleMinPriceChange(e.target.value)}
-          error =
+          error = {error}
+          helperText={errorMessage}
         />
         <TextField
           id="max price"
           label="Max Price ($CAD)"
-          onChange={(e) => setMaxPrice(e.target.value)}
+          onChange={(e) => HandleMaxPriceChange(e.target.value)}
         />
       </Box>
     </div>
