@@ -196,90 +196,90 @@ function App() {
   );
 
   return (
-    <Stack>
-    <h3>Airbnb Finder</h3>
-    
-    <FormControl sx={{ m: 3 }} component="fieldset" variant="standard">
-      <FormLabel component="legend">1. Select Your Room Type</FormLabel>
-      <div>
-        <FormGroup>
-          <FormControlLabel
-            control={
-              <Checkbox checked={entire} onChange={handleChange} name="entire" />
-            }
-            label="Entire home/apt"
+    <Stack alignItems='center' justifyContent='space-evenly' >
+      <h3>Airbnb Finder</h3>
+      
+      <FormControl sx={{ m: 3 }} component="fieldset" variant="standard">
+        <FormLabel component="legend">1. Select Your Room Type</FormLabel>
+        <div>
+          <FormGroup>
+            <FormControlLabel
+              control={
+                <Checkbox checked={entire} onChange={handleChange} name="entire" />
+              }
+              label="Entire home/apt"
+            />
+            <FormControlLabel
+              control={
+                <Checkbox checked={pv} onChange={handleChange} name="pv" />
+              }
+              label="Private room"
+            />
+            <FormControlLabel
+              control={
+                <Checkbox checked={shared} onChange={handleChange} name="shared" />
+              }
+              label="Shared room"
+            />
+          </FormGroup>
+        </div>
+        <FormLabel component="legend">2. Select Your Price Range</FormLabel>
+        <div>
+          <Box
+          component="form"
+          sx={{
+            '& > :not(style)': { m: 1, width: '25ch' },
+          }}
+          noValidate
+          autoComplete="off"
+        >
+          <TextField
+            id="min price"
+            label="Min Price ($CAD)"
+            onChange={(e) => HandleMinPriceChange(e.target.value)}
+            error = {error}
+            helperText={errorMessage}
           />
-          <FormControlLabel
-            control={
-              <Checkbox checked={pv} onChange={handleChange} name="pv" />
-            }
-            label="Private room"
+          <TextField
+            id="max price"
+            label="Max Price ($CAD)"
+            onChange={(e) => HandleMaxPriceChange(e.target.value)}
           />
-          <FormControlLabel
-            control={
-              <Checkbox checked={shared} onChange={handleChange} name="shared" />
-            }
-            label="Shared room"
-          />
-        </FormGroup>
+        </Box>
       </div>
-      <FormLabel component="legend">2. Select Your Price Range</FormLabel>
+      <FormLabel component="legend">3. Preference - Choose items in order of your importance </FormLabel>
       <div>
-        <Box
-        component="form"
-        sx={{
-          '& > :not(style)': { m: 1, width: '25ch' },
-        }}
-        noValidate
-        autoComplete="off"
-      >
-        <TextField
-          id="min price"
-          label="Min Price ($CAD)"
-          onChange={(e) => HandleMinPriceChange(e.target.value)}
-          error = {error}
-          helperText={errorMessage}
-        />
-        <TextField
-          id="max price"
-          label="Max Price ($CAD)"
-          onChange={(e) => HandleMaxPriceChange(e.target.value)}
-        />
-      </Box>
-    </div>
-    <FormLabel component="legend">3. Preference - Choose items in order of your importance </FormLabel>
-    <div>
-      <Grid container spacing={2} justifyContent="center" alignItems="center">
-        <Grid item>{customList('Choices', left)}</Grid>
-        <Grid item>
-          <Grid container direction="column" alignItems="center">
-            <Button
-              sx={{ my: 0.5 }}
-              variant="outlined"
-              size="small"
-              onClick={handleCheckedRight}
-              disabled={leftChecked.length === 0}
-              aria-label="move selected right"
-            >
-              &gt;
-            </Button>
-            <Button
-              sx={{ my: 0.5 }}
-              variant="outlined"
-              size="small"
-              onClick={handleCheckedLeft}
-              disabled={rightChecked.length === 0}
-              aria-label="move selected left"
-            >
-              &lt;
-            </Button>
+        <Grid container spacing={2} justifyContent="center" alignItems="center">
+          <Grid item>{customList('Choices', left)}</Grid>
+          <Grid item>
+            <Grid container direction="column" alignItems="center">
+              <Button
+                sx={{ my: 0.5 }}
+                variant="outlined"
+                size="small"
+                onClick={handleCheckedRight}
+                disabled={leftChecked.length === 0}
+                aria-label="move selected right"
+              >
+                &gt;
+              </Button>
+              <Button
+                sx={{ my: 0.5 }}
+                variant="outlined"
+                size="small"
+                onClick={handleCheckedLeft}
+                disabled={rightChecked.length === 0}
+                aria-label="move selected left"
+              >
+                &lt;
+              </Button>
+            </Grid>
           </Grid>
+          <Grid item>{customList('Chosen', right)}</Grid>
         </Grid>
-        <Grid item>{customList('Chosen', right)}</Grid>
-      </Grid>
-    </div>
-    </FormControl>
-    <Button variant="contained" onClick={handleSubmit}>Find!</Button>
+      </div>
+      </FormControl>
+      <Button variant="contained" onClick={handleSubmit}>Find!</Button>
     </Stack>
   );
 }
