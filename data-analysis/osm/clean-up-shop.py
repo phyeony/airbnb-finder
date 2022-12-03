@@ -53,8 +53,14 @@ df['type'].unique()
 #        'water', 'dentures'], dtype=object)
 
 # TODO: Delete unnecessary types 
-# yes, supermarket, truck, ...
-
+# 'dry_cleaning', 'hairdresser', 'locksmith', 'car_repair', 'tattoo', 'laundry', 
+# 'copyshop', 'money_lender', 'estate_agent', 'massage', 'funeral_directors', 
+# 'storage_rental', 'motorcycle_repair', 'insurance', 'shoe_repair',  'swimming_pool', 
+# 'pawnbroker', 'Signs', 'print', 'tool_hire', 'travel_agency', 'pet_grooming', 'printing', 
+# 'religion', 'agrarian', 'tool_repair', 'coffins', 'electronic_repair', 'construction_equipment', 
+# 'construction_supplies', 'industrial', 'surveillance', 'hydroponics', 'fireplace', 'tiles', 'flag', 
+# 'orthotics', 'hvac', 'condo', 'inkjet', 'rubber_stamps', 'security', 'copier', 'metal', 'repair', 'stamp', 
+# 'pump', 'water', 'dentures', 'truck', 
 
 #%%
 # https://towardsdatascience.com/all-pandas-json-normalize-you-should-know-for-flattening-json-13eae1dfb7dd
@@ -81,3 +87,4 @@ count = unnested_df.groupby(['type'])['type'].count()
 
 #%%
 # unnested_df.to_csv("cleaned_shop_amenities.csv", index=False)
+# %%
