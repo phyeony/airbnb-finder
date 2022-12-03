@@ -27,8 +27,6 @@ def intersection_score(airbnb, amenity):
     # 3) if an airbnb is in the intersection, give it a point
     return over_avg
 
-
-
 airbnb = intersection_score(airbnb, 'cleaned_food_amenities.csv')
 #  4) adds another column to the airbnb data with each intersection score
 
