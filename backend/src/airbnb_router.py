@@ -13,7 +13,7 @@ router = APIRouter()
 class Options(BaseModel):
     airbnb_price_range: List[int] = None    # [100, 300]
     airbnb_room_type: List[str]  # ["Room A", "Room B"]
-    amenity_preference: List [str]    # ["Food", "Attraction"]
+    activity_preference: List [str]    # ["Food", "Attraction"]
 
 # Doesn't seem to do validation. TODO: might wanna look into it more.
 class AirbnbList(BaseModel):

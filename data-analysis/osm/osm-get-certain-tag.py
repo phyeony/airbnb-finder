@@ -30,8 +30,8 @@ def get_certain_tag(line, tag_type):
         return
     if "name" not in tags:
         return
-    if "amenity" in tags:
-        return
+    # if "amenity" in tags:
+    #     return
     if tag_type == "tourism":
         tourism_type = tags["tourism"]
         if (

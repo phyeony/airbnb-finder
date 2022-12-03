@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 amenities = pd.read_json(
-    "output/amenity/amenities-vancouver.json.gz", lines=True, compression="gzip"
+    "output/amenity/amenity.json.gz", lines=True, compression="gzip"
 )
 #%%
 
@@ -85,61 +85,61 @@ print(df)
 #%%
 
 food_condition = (
-    (amenities["amenity"] == "cafe")
-    | (amenities["amenity"] == "fast_food")
-    | (amenities["amenity"] == "bbq")
-    | (amenities["amenity"] == "restaurant")
-    | (amenities["amenity"] == "pub")
-    | (amenities["amenity"] == "bar")
-    | (amenities["amenity"] == "ice_cream")
-    | (amenities["amenity"] == "food_court")
-    | (amenities["amenity"] == "bistro")
-    | (amenities["amenity"] == "biergarten")
+    (amenities["type"] == "cafe")
+    | (amenities["type"] == "fast_food")
+    | (amenities["type"] == "bbq")
+    | (amenities["type"] == "restaurant")
+    | (amenities["type"] == "pub")
+    | (amenities["type"] == "bar")
+    | (amenities["type"] == "ice_cream")
+    | (amenities["type"] == "food_court")
+    | (amenities["type"] == "bistro")
+    | (amenities["type"] == "biergarten")
 )
 
 attraction_condition = (
-    (amenities["amenity"] == "cinema")
-    | (amenities["amenity"] == "cinema")
-    | (amenities["amenity"] == "theatre")
-    | (amenities["amenity"] == "nightclub")
-    | (amenities["amenity"] == "arts_centre")
-    | (amenities["amenity"] == "stripclub")
-    | (amenities["amenity"] == "boat_rental")
-    | (amenities["amenity"] == "gambling")
-    | (amenities["amenity"] == "marketplace")
-    | (amenities["amenity"] == "spa")
-    | (amenities["amenity"] == "hookah_lounge")
-    | (amenities["amenity"] == "internet_cafe")
-    | (amenities["amenity"] == "casino")
-    | (amenities["amenity"] == "dance")
-    | (amenities["amenity"] == "toy_library")
-    | (amenities["amenity"] == "leisure")
+    (amenities["type"] == "cinema")
+    | (amenities["type"] == "cinema")
+    | (amenities["type"] == "theatre")
+    | (amenities["type"] == "nightclub")
+    | (amenities["type"] == "arts_centre")
+    | (amenities["type"] == "stripclub")
+    | (amenities["type"] == "boat_rental")
+    | (amenities["type"] == "gambling")
+    | (amenities["type"] == "marketplace")
+    | (amenities["type"] == "spa")
+    | (amenities["type"] == "hookah_lounge")
+    | (amenities["type"] == "internet_cafe")
+    | (amenities["type"] == "casino")
+    | (amenities["type"] == "dance")
+    | (amenities["type"] == "toy_library")
+    | (amenities["type"] == "leisure")
 )
 
-# public_transportation_condition = (amenities['amenity'] == 'bus_station') \
-#     or (amenities['amenity'] == 'bicycle_parking') \
-#     or (amenities['amenity'] == 'bicycle_rental') \
-#     or (amenities['amenity'] == 'bicycle_repair_station') \
-#     or (amenities['amenity'] == 'ferry_terminal') \
-#     or (amenities['amenity'] == ) \
-#     or (amenities['amenity'] == ) \
-#     or (amenities['amenity'] == ) \
-#     or (amenities['amenity'] == ) \
-#     or (amenities['amenity'] == ) \
+# public_transportation_condition = (amenities['type'] == 'bus_station') \
+#     or (amenities['type'] == 'bicycle_parking') \
+#     or (amenities['type'] == 'bicycle_rental') \
+#     or (amenities['type'] == 'bicycle_repair_station') \
+#     or (amenities['type'] == 'ferry_terminal') \
+#     or (amenities['type'] == ) \
+#     or (amenities['type'] == ) \
+#     or (amenities['type'] == ) \
+#     or (amenities['type'] == ) \
+#     or (amenities['type'] == ) \
 
 # There's no train station. Maybe suse the stops.csv or station.csv
 
 # For later use.
-# attraction_condition =  (amenities['amenity'] == 'cinema') \
-# or (amenities['amenity'] == ) \
-# or (amenities['amenity'] == ) \
-# or (amenities['amenity'] == ) \
-# or (amenities['amenity'] == ) \
-# or (amenities['amenity'] == ) \
-# or (amenities['amenity'] == ) \
-# or (amenities['amenity'] == ) \
-# or (amenities['amenity'] == ) \
-# or (amenities['amenity'] == ) \
+# attraction_condition =  (amenities['type'] == 'cinema') \
+# or (amenities['type'] == ) \
+# or (amenities['type'] == ) \
+# or (amenities['type'] == ) \
+# or (amenities['type'] == ) \
+# or (amenities['type'] == ) \
+# or (amenities['type'] == ) \
+# or (amenities['type'] == ) \
+# or (amenities['type'] == ) \
+# or (amenities['type'] == ) \
 
 conditions = [
     food_condition,
@@ -150,8 +150,6 @@ amenities["category"] = np.select(conditions, choices, default=None)
 
 #Keep amenities with category (food and attraction)
 amenities = amenities[amenities['category'].notna()]
-del amenities['timestamp']
-
 food_amenities = amenities[amenities['category']=='food']
 attraction_amenities = amenities[amenities['category']=='attraction']
 

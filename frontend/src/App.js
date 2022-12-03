@@ -1,5 +1,5 @@
 import {
-  Button, 
+  Button,
   FormLabel,
   FormControl,
   FormGroup,
@@ -15,10 +15,11 @@ import {
   ListItemText,
   Grid,
   Box,
-  TextField
-} from '@mui/material';
+  TextField,
+  Typography,
+} from "@mui/material";
 
-import {useState} from 'react';
+import { useState } from "react";
 
 function not(a, b) {
   return a.filter((value) => b.indexOf(value) === -1);
@@ -48,52 +49,70 @@ function App() {
 
   const { entire, pv, shared } = state;
 
-  const handleSubmit = () => {
-    const data = [state, minprice, maxprice, right]
-    console.log(data)
-    console.log("submitted")
-    fetch("http://localhost:8000/airbnb_list", ) // TODO: 
-      .then((res) => console.log(res))
-      .catch((e) => console.error(e))
-  }
+  const handleSubmit = async () => {
+    const data = [state, minprice, maxprice, right];
+    console.log(data);
+    // Iterate through the object
+    let airbnb_room_type = []
+    for (const key in state) {
+      if (state[key]) {
+        airbnb_room_type.push(key)
+      }
+    }
+    try {
+      const res = await fetch("http://localhost:8000/airbnb_list", {
+        method: 'POST',
+        body: JSON.stringify({
+          airbnb_price_range: [minprice, maxprice],
+          airbnb_room_type,
+          activity_preference: right
+        }) 
+      })
+      console.log(res)
+    } catch(e) {
+
+    }
+  };
 
   const [minprice, setMinPrice] = useState(0);
   const [maxprice, setMaxPrice] = useState(0);
 
   const [error, setError] = useState(false);
-  const [errorMessage, setErrorMessage] = useState('');
+  const [errorMessage, setErrorMessage] = useState("");
 
   const [maxError, setMaxError] = useState(false);
-  const [maxErrorMessage, setMaxErrorMessage] = useState('')
+  const [maxErrorMessage, setMaxErrorMessage] = useState("");
 
   const HandleMinPriceChange = (inputString) => {
     var numbers = /^[0-9]+$/;
     if (inputString.match(numbers)) {
-      console.log("is matched")
-      setError(false)
-      setErrorMessage("")
-      setMinPrice(inputString)
+      setError(false);
+      setErrorMessage("");
+      setMinPrice(inputString);
     } else {
       setErrorMessage("Please input numbers only");
-      setError(true)
+      setError(true);
     }
-  }
+  };
 
   const HandleMaxPriceChange = (inputString) => {
     var numbers = /^[0-9]+$/;
     if (inputString.match(numbers)) {
-      console.log("is matched")
-      setMaxError(false)
-      setMaxErrorMessage("")
-      setMaxPrice(inputString)
+      setMaxError(false);
+      setMaxErrorMessage("");
+      setMaxPrice(inputString);
     } else {
       setMaxErrorMessage("Please input numbers only");
-      setMaxError(true)
+      setMaxError(true);
     }
-  }
+  };
 
   const [checked, setChecked] = useState([]);
-  const [left, setLeft] = useState(['Food','Attraction','Public Transporation']);
+  const [left, setLeft] = useState([
+    "Food",
+    "Attraction",
+    "Public Transporation",
+  ]);
   const [right, setRight] = useState([]);
 
   const leftChecked = intersection(checked, left);
@@ -141,13 +160,16 @@ function App() {
         avatar={
           <Checkbox
             onClick={handleToggleAll(items)}
-            checked={numberOfChecked(items) === items.length && items.length !== 0}
+            checked={
+              numberOfChecked(items) === items.length && items.length !== 0
+            }
             indeterminate={
-              numberOfChecked(items) !== items.length && numberOfChecked(items) !== 0
+              numberOfChecked(items) !== items.length &&
+              numberOfChecked(items) !== 0
             }
             disabled={items.length === 0}
             inputProps={{
-              'aria-label': 'all items selected',
+              "aria-label": "all items selected",
             }}
           />
         }
@@ -159,8 +181,8 @@ function App() {
         sx={{
           width: 200,
           height: 230,
-          bgcolor: 'background.paper',
-          overflow: 'auto',
+          bgcolor: "background.paper",
+          overflow: "auto",
         }}
         dense
         component="div"
@@ -182,7 +204,7 @@ function App() {
                   tabIndex={-1}
                   disableRipple
                   inputProps={{
-                    'aria-labelledby': 'labelId',
+                    "aria-labelledby": "labelId",
                   }}
                 />
               </ListItemIcon>
@@ -196,39 +218,44 @@ function App() {
   );
 
   return (
-    <Stack alignItems='center' justifyContent='space-evenly' >
-      <h3>Airbnb Finder</h3>
-      
-      <FormControl sx={{ m: 3 }} component="fieldset" variant="standard">
+    <Stack alignItems="center" justifyContent="space-evenly" spacing={2}>
+      <Typography variant="h3">Airbnb Finder</Typography>
+      <FormControl component="fieldset" variant="standard">
         <FormLabel component="legend">1. Select Your Room Type</FormLabel>
-        <div>
-          <FormGroup>
-            <FormControlLabel
-              control={
-                <Checkbox checked={entire} onChange={handleChange} name="entire" />
-              }
-              label="Entire home/apt"
-            />
-            <FormControlLabel
-              control={
-                <Checkbox checked={pv} onChange={handleChange} name="pv" />
-              }
-              label="Private room"
-            />
-            <FormControlLabel
-              control={
-                <Checkbox checked={shared} onChange={handleChange} name="shared" />
-              }
-              label="Shared room"
-            />
-          </FormGroup>
-        </div>
+        <FormGroup>
+          <FormControlLabel
+            control={
+              <Checkbox
+                checked={entire}
+                onChange={handleChange}
+                name="entire"
+              />
+            }
+            label="Entire home/apt"
+          />
+          <FormControlLabel
+            control={
+              <Checkbox checked={pv} onChange={handleChange} name="pv" />
+            }
+            label="Private room"
+          />
+          <FormControlLabel
+            control={
+              <Checkbox
+                checked={shared}
+                onChange={handleChange}
+                name="shared"
+              />
+            }
+            label="Shared room"
+          />
+        </FormGroup>
         <FormLabel component="legend">2. Select Your Price Range</FormLabel>
-        <div>
-          <Box
+
+        <Box
           component="form"
           sx={{
-            '& > :not(style)': { m: 1, width: '25ch' },
+            "& > :not(style)": { m:2, width: "25ch" },
           }}
           noValidate
           autoComplete="off"
@@ -237,20 +264,23 @@ function App() {
             id="min price"
             label="Min Price ($CAD)"
             onChange={(e) => HandleMinPriceChange(e.target.value)}
-            error = {error}
+            error={error}
             helperText={errorMessage}
           />
           <TextField
             id="max price"
             label="Max Price ($CAD)"
             onChange={(e) => HandleMaxPriceChange(e.target.value)}
+            error={maxError}
+            helperText={maxErrorMessage}
           />
         </Box>
-      </div>
-      <FormLabel component="legend">3. Preference - Choose items in order of your importance </FormLabel>
-      <div>
+
+        <FormLabel component="legend" sx={{mt:1, mb:1}}>
+          3. Preference - Choose items in order of your importance{" "}
+        </FormLabel>
         <Grid container spacing={2} justifyContent="center" alignItems="center">
-          <Grid item>{customList('Choices', left)}</Grid>
+          <Grid item>{customList("Choices", left)}</Grid>
           <Grid item>
             <Grid container direction="column" alignItems="center">
               <Button
@@ -275,11 +305,12 @@ function App() {
               </Button>
             </Grid>
           </Grid>
-          <Grid item>{customList('Chosen', right)}</Grid>
+          <Grid item>{customList("Chosen", right)}</Grid>
         </Grid>
-      </div>
       </FormControl>
-      <Button variant="contained" onClick={handleSubmit}>Find!</Button>
+      <Button variant="contained" onClick={handleSubmit}>
+        Find!
+      </Button>
     </Stack>
   );
 }
