@@ -52,15 +52,20 @@ df['type'].unique()
 #        'repair', 'hat', 'stamp', 'truck', 'pump', 'fishing', 'perfumery',
 #        'water', 'dentures'], dtype=object)
 
-# TODO: Delete unnecessary types 
-# 'dry_cleaning', 'hairdresser', 'locksmith', 'car_repair', 'tattoo', 'laundry', 
-# 'copyshop', 'money_lender', 'estate_agent', 'massage', 'funeral_directors', 
-# 'storage_rental', 'motorcycle_repair', 'insurance', 'shoe_repair',  'swimming_pool', 
-# 'pawnbroker', 'Signs', 'print', 'tool_hire', 'travel_agency', 'pet_grooming', 'printing', 
-# 'religion', 'agrarian', 'tool_repair', 'coffins', 'electronic_repair', 'construction_equipment', 
-# 'construction_supplies', 'industrial', 'surveillance', 'hydroponics', 'fireplace', 'tiles', 'flag', 
-# 'orthotics', 'hvac', 'condo', 'inkjet', 'rubber_stamps', 'security', 'copier', 'metal', 'repair', 'stamp', 
-# 'pump', 'water', 'dentures', 'truck', 
+# TODO: Keep only the most relevant ones 
+# 'supermarket', 'cannabis', 'convenience', 
+# 'art', 'sports', 'alcohol', 'bakery', 'stationery', 
+# 'clothes', 'outdoor', 'erotic', 'craft', 'electronics', 
+# 'second_hand',  'gift', 'department_store',  'nutrition_supplements', 
+# 'greengrocer', 'camera', 'shoes', 'confectionery', 'butcher', 'seafood', 
+# 'patisserie', 'general', 'liquor', 'wine', 'beauty', 'e-cigarette', 'variety_store', 
+# 'beverages', 'spices', 'tea', 'market', 'wholesale', 'newsagent', 'chemist', 'cosmetics', 
+# 'jewelry', 'charity', 'bag', 'photo', 'food', 'tobacco', 'cheese', 'discount', 
+# 'hobby', 'honey', 'ice_cream', 'medical_supply', 'chocolate', 'antiques', 
+# 'health_food', 'coffee', 'fashion', 'pastry', 'ticket', 'bulk', 'watches', 
+# 'fashion_accessories', 'boutique', 'grocery', 'rental', "Kid's_clothing", 
+# 'scuba_diving', 'psilocybin', 'collector', 'used', 'greengrocer;garden_centre', 
+# 'party', 'supplements', 'frozen_food', 'hat', 'fishing', 'perfumery'
 
 #%%
 # https://towardsdatascience.com/all-pandas-json-normalize-you-should-know-for-flattening-json-13eae1dfb7dd
