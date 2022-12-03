@@ -17,7 +17,7 @@ df['type'].unique()
 #        'swimming;kickboxing;pilates;yoga;weightlifting;exercise',
 #        'yoga;pilates', 'gymnastics;parkour', 'ice_hockey'], dtype=object)
 
-# TODO: delete...
+# TODO: Keep
 
 #%%
 # https://towardsdatascience.com/all-pandas-json-normalize-you-should-know-for-flattening-json-13eae1dfb7dd
