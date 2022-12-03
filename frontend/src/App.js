@@ -8,6 +8,7 @@ import {
   Stack,
   Card,
   CardHeader,
+  CardContent,
   Divider,
   List,
   ListItem,
@@ -34,6 +35,7 @@ function union(a, b) {
 }
 
 function App() {
+  const [airbnbList, setAirbnbList] = useState([])
   const [state, setState] = useState({
     entire: false,
     pv: false,
@@ -50,8 +52,6 @@ function App() {
   const { entire, pv, shared } = state;
 
   const handleSubmit = async () => {
-    const data = [state, minprice, maxprice, right];
-    console.log(data);
     // Iterate through the object
     let airbnb_room_type = []
     for (const key in state) {
@@ -60,17 +60,27 @@ function App() {
       }
     }
     try {
-      const res = await fetch("http://localhost:8000/airbnb_list", {
+      const res = await fetch("http://localhost:8000/api/airbnb_list", {
         method: 'POST',
+        headers: {
+          'Accept': 'application/json',
+          'Content-Type': 'application/json'
+        },
         body: JSON.stringify({
           airbnb_price_range: [minprice, maxprice],
           airbnb_room_type,
           activity_preference: right
         }) 
       })
-      console.log(res)
-    } catch(e) {
 
+      if (res.status === 200) {
+        const data = await res.json()
+        setAirbnbList(data)
+      }
+
+
+    } catch(e) {
+      console.error(e)
     }
   };
 
@@ -311,6 +321,33 @@ function App() {
       <Button variant="contained" onClick={handleSubmit}>
         Find!
       </Button>
+
+      {
+        airbnbList.map((airbnb) =>
+          <Card sx={{width:1/1.5, maxWidth:500}}>
+            <CardContent>
+              <Stack direction="row" justifyContent="space-between">
+                {/* <Typography sx={{ fontSize: 14 }} color="text.secondary" gutterBottom>
+                  Word of the Day
+                </Typography> */}
+                <Typography variant="h5" component="div">
+                  {airbnb.name}
+                </Typography>
+                <Typography variant="h5" component="div">
+                  ${airbnb.price} CAD per night  / {airbnb.review_scores_rating}
+                </Typography>
+              </Stack>
+              <Typography sx={{ mb: 1.5 }} color="text.secondary">
+                {airbnb.listing_url}
+              </Typography>
+              <Typography variant="body2">
+                {airbnb.name}
+              </Typography>
+            </CardContent>
+          </Card>
+        )
+
+      }
     </Stack>
   );
 }

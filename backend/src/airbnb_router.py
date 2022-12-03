@@ -1,5 +1,5 @@
-# from backend.src.service.aribnb_service import hi
 from fastapi import APIRouter
+from fastapi import Response
 from pydantic import BaseModel
 from typing import (
     Deque, Dict, FrozenSet, List, Optional, Sequence, Set, Tuple, Union
@@ -24,5 +24,4 @@ class AirbnbList(BaseModel):
 
 @router.post("/airbnb_list", tags=["airbnb"])
 async def get_airbnb_list(user_preference: Options) -> AirbnbList:
-    print(compute_airbnb(user_preference))
-    return {"point": ["123.343","-23.342"], "price": 432, "address":"this street, bc,canada"}
+    return Response(compute_airbnb(user_preference).to_json(orient="records"), media_type="application/json")
