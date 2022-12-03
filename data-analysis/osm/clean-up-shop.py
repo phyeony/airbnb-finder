@@ -1,11 +1,12 @@
 #%%
 import pandas as pd
+import numpy as np
 
 df = pd.read_json(
     "output/shop/shop.json.gz", lines=True, compression="gzip"
 )
 #%%
-df['type'].unique()
+# df['type'].unique()
 
 # array(['bicycle', 'supermarket', 'tyres', 'video', 'books', 'cannabis',
 #        'convenience', 'toys', 'art', 'sports', 'dry_cleaning', 'alcohol',
@@ -52,7 +53,7 @@ df['type'].unique()
 #        'repair', 'hat', 'stamp', 'truck', 'pump', 'fishing', 'perfumery',
 #        'water', 'dentures'], dtype=object)
 
-# TODO: Keep only the most relevant ones 
+# TODO: Keep
 # 'supermarket', 'cannabis', 'convenience', 
 # 'art', 'sports', 'alcohol', 'bakery', 'stationery', 
 # 'clothes', 'outdoor', 'erotic', 'craft', 'electronics', 
@@ -91,5 +92,87 @@ count = unnested_df.groupby(['type'])['type'].count()
 # Name: type, Length: 211, dtype: int64
 
 #%%
-# unnested_df.to_csv("cleaned_shop_amenities.csv", index=False)
+shop_condition = (
+    (df['type'] == 'supermarket') |
+    (df['type'] == 'cannabis') |
+    (df['type'] == 'convenience') |
+    (df['type'] == 'art') |
+    (df['type'] == 'sports') |
+    (df['type'] == 'alcohol') |
+    (df['type'] == 'bakery') |
+    (df['type'] == 'stationery') |
+    (df['type'] == 'clothes') |
+    (df['type'] == 'outdoor') |
+    (df['type'] == 'erotic') |
+    (df['type'] == 'craft') |
+    (df['type'] == 'electronics') |
+    (df['type'] == 'second_hand') |
+    (df['type'] == 'gift') |
+    (df['type'] == 'department_store') |
+    (df['type'] == 'nutrition_supplements') |
+    (df['type'] == 'greengrocer') |
+    (df['type'] == 'camera') |
+    (df['type'] == 'shoes') |
+    (df['type'] == 'confectionery') |
+    (df['type'] == 'butcher') |
+    (df['type'] == 'seafood') |
+    (df['type'] == 'patisserie') |
+    (df['type'] == 'general') |
+    (df['type'] == 'liquor') |
+    (df['type'] == 'wine') |
+    (df['type'] == 'beauty') |
+    (df['type'] == 'e-cigarette') |
+    (df['type'] == 'variety_store') |
+    (df['type'] == 'beverages') |
+    (df['type'] == 'spices') |
+    (df['type'] == 'tea') |
+    (df['type'] == 'market') |
+    (df['type'] == 'wholesale') |
+    (df['type'] == 'newsagent') |
+    (df['type'] == 'chemist') |
+    (df['type'] == 'cosmetics') |
+    (df['type'] == 'jewelry') |
+    (df['type'] == 'charity') |
+    (df['type'] == 'bag') |
+    (df['type'] == 'photo') |
+    (df['type'] == 'food') |
+    (df['type'] == 'tobacco') |
+    (df['type'] == 'cheese') |
+    (df['type'] == 'discount') |
+    (df['type'] == 'hobby') |
+    (df['type'] == 'honey') |
+    (df['type'] == 'ice_cream') |
+    (df['type'] == 'medical_supply') |
+    (df['type'] == 'chocolate') |
+    (df['type'] == 'antiques') |
+    (df['type'] == 'health_food') |
+    (df['type'] == 'coffee') |
+    (df['type'] == 'fashion') |
+    (df['type'] == 'pastry') |
+    (df['type'] == 'ticket') |
+    (df['type'] == 'bulk') |
+    (df['type'] == 'watches') |
+    (df['type'] == 'fashion_accessories') |
+    (df['type'] == 'boutique') |
+    (df['type'] == 'grocery') |
+    (df['type'] == 'rental') |
+    (df['type'] == "Kid's_clothing") |
+    (df['type'] == 'scuba_diving') |
+    (df['type'] == 'psilocybin') |
+    (df['type'] == 'collector') |
+    (df['type'] == 'used') |
+    (df['type'] == 'greengrocer;garden_centre') |
+    (df['type'] == 'party') |
+    (df['type'] == 'supplements') |
+    (df['type'] == 'frozen_food') |
+    (df['type'] == 'hat') |
+    (df['type'] == 'fishing') |
+    (df['type'] == 'perfumery')
+)
+
+#%%
+shop_df = df[shop_condition]
+
+#%%
+shop_df.to_csv("cleaned_shop_amenities.csv", index=False)
 # %%

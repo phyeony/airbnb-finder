@@ -11,7 +11,7 @@ df['type'].unique()
 #        'guest_house', 'house', 'camp_site', 'Plane_Spotting_Platform',
 #        'wilderness_hut'], dtype=object)
 
-# TODO: delete some
+# TODO: delete
 # Delete 'guest_house'
 
 #%%
