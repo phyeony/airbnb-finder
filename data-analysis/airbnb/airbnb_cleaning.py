@@ -16,11 +16,6 @@ airbnb = airbnb[['name', 'listing_url','neighbourhood', 'latitude', 'longitude',
 airbnb['price'] = airbnb['price'].apply(lambda x: d_to_price(x))
 # airbnb = airbnb.sort_values(by=['price']) #min = 0, max = 20000
 
-airbnb['point'] = airbnb['longitude'].astype(str) + ", " +  airbnb['latitude'] .astype(str)
-airbnb['point'] = airbnb['point'].apply(lambda x: list(x.split(", ")))
-airbnb['point'] = airbnb['point'].apply(lambda x: list(map(float, x)))
-airbnb['point'] = airbnb['point'].apply(lambda x: Point(x))
-
 # Export to a cleaned csv file
 airbnb.to_csv("cleaned_airbnb_data.csv", index=False)
 

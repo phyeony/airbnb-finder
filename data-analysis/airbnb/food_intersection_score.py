@@ -25,9 +25,27 @@ def intersection_score(airbnb, amenity):
     #  2) give a boundary for each intersection
     over_avg['geometry'] = over_avg.buffer(300, 3)
     # 3) if an airbnb is in the intersection, give it a point
-    return over_avg
+    column_name = list(amenity.split("_"))
+    column_name = column_name[1] + "_intersection_score"
 
-airbnb = intersection_score(airbnb, 'cleaned_food_amenities.csv')
+    airbnb['point'] = airbnb['longitude'].astype(str) + ", " +  airbnb['latitude'] .astype(str)
+    airbnb['point'] = airbnb['point'].apply(lambda x: list(x.split(", ")))
+    airbnb['point'] = airbnb['point'].apply(lambda x: list(map(float, x)))
+    airbnb['point'] = airbnb['point'].apply(lambda x: Point(x))
+
+    print(over_avg)
+    airbnb[column_name] = airbnb['point'].apply(lambda x:score(x, over_avg))
+    del airbnb['point']
+    return airbnb
+
+def score(point: Point, intersections: gpd.GeoDataFrame):
+    intersections['included'] = intersections['geometry'].apply(lambda x:x.contains(point))
+    intersections = intersections[intersections['included'] == True]
+    
+    return score
+
+airbnb_int = intersection_score(airbnb, 'cleaned_food_amenities.csv')
+print(airbnb_int)
 #  4) adds another column to the airbnb data with each intersection score
 
 
