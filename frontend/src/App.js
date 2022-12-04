@@ -18,6 +18,7 @@ import {
   Box,
   TextField,
   Typography,
+  Link
 } from "@mui/material";
 
 import { useState } from "react";
@@ -324,25 +325,33 @@ function App() {
 
       {
         airbnbList.map((airbnb) =>
-          <Card sx={{width:1/1.5, maxWidth:500}}>
+          <Card sx={{ width: 1 / 1.5, maxWidth: 500 }}>
             <CardContent>
-              <Stack direction="row" justifyContent="space-between">
-                {/* <Typography sx={{ fontSize: 14 }} color="text.secondary" gutterBottom>
-                  Word of the Day
-                </Typography> */}
-                <Typography variant="h5" component="div">
+              <Stack direction="row" justifyContent="space-between" sx={{ mb: 1 }}>
+                <Typography variant="h6" component="div">
                   {airbnb.name}
                 </Typography>
-                <Typography variant="h5" component="div">
-                  ${airbnb.price} CAD per night  / {airbnb.review_scores_rating}
+                <Stack alignItems='flex-end'>
+                  <Typography noWrap variant="h6" component="div">
+                    ${airbnb.price} CAD
+                  </Typography>
+                  <Typography align="right" variant="subtitle" display="inline" component="span">
+                    night
+                  </Typography>
+                </Stack>
+              </Stack>
+              <Link href={airbnb.listing_url} rel="noopener" target="_blank" underline="always">
+                {airbnb.listing_url}
+              </Link>
+
+              <Stack direction="row" alignItems='center' sx={{mt:1}}>
+                <Typography variant="body1">
+                  Airbnb Review Rating:
+                </Typography>
+                <Typography variant="h6" sx={{ml:1}}>
+                  {airbnb.review_scores_rating}
                 </Typography>
               </Stack>
-              <Typography sx={{ mb: 1.5 }} color="text.secondary">
-                {airbnb.listing_url}
-              </Typography>
-              <Typography variant="body2">
-                {airbnb.name}
-              </Typography>
             </CardContent>
           </Card>
         )
