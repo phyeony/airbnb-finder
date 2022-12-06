@@ -24,7 +24,8 @@ tags = pd.json_normalize(df["tags"])
 unnested_df= pd.concat([df, tags], axis=1)
 
 count = unnested_df.groupby(['type'])['type'].count()
-count
+print(count)
+
 # type
 # amusement_arcade     3
 # bowling_alley        3
