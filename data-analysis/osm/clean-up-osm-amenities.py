@@ -97,7 +97,7 @@ food_condition = (
     | (amenities["type"] == "biergarten")
 )
 
-attraction_condition = (
+entertainment_condition = (
     (amenities["type"] == "cinema")
     | (amenities["type"] == "cinema")
     | (amenities["type"] == "theatre")
@@ -143,16 +143,16 @@ attraction_condition = (
 
 conditions = [
     food_condition,
-    attraction_condition,
+    entertainment_condition,
 ]
-choices = ["food", "attraction"]
+choices = ["food", "entertainment"]
 amenities["category"] = np.select(conditions, choices, default=None)
 
 #Keep amenities with category (food and attraction)
 amenities = amenities[amenities['category'].notna()]
 food_amenities = amenities[amenities['category']=='food']
-attraction_amenities = amenities[amenities['category']=='attraction']
+attraction_amenities = amenities[amenities['category']=='entertainment']
 
 food_amenities.to_csv("cleaned_food_amenities.csv", index=False)
-attraction_amenities.to_csv("cleaned_attraction_amenities.csv", index=False)
+attraction_amenities.to_csv("cleaned_entertainment_amenities.csv", index=False)
 # %%

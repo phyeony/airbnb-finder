@@ -36,7 +36,6 @@ count = unnested_df.groupby(['type'])['type'].count()
 # wilderness_hut               1
 # Name: type, dtype: int64
 
-
 #%%
 unnested_df.to_csv("cleaned_tourism_amenities.csv", index=False)
 # %%
