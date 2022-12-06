@@ -69,7 +69,6 @@ lat,lon,type,name,tags
 49.2702662,-123.1361186,sports,Half Time Sports,"{'website': 'https://halftimesports.ca', 'addr:housenumber': '1496', 'addr:street': 'Cartwright Street', 'addr:unit': '23'}"
 49.2657275,-123.1202387,convenience,7-Eleven,"{'brand:wikidata': 'Q259340', 'atm': 'yes', 'brand': '7-Eleven', 'brand:wikipedia': 'en:7-Eleven'}"
 49.269974,-123.135998,gift,Crystal Ark,"{'phone': '+1-604-681-8900', 'website': 'https://www.crystal-ark.com/', 'email': 'info@crystal-ark.com'}"
-49.2389453,-123.0656279,greengrocer,Teng's Market,"{'website': 'http://www.tengsmarket.com/', 'addr:housenumber': '5037', 'phone': '+1-604-301-1778', 'opening_hours': '08:30-19:00', 'addr:street': 'Victoria Drive', 'addr:postcode': 'V5P 3T8', 'addr:city': 'Vancouver'}"
 49.2512647,-123.0016995,convenience,The Stand,{}
 49.2633767,-123.1347332,stationery,Staples,"{'brand:wikidata': 'Q17149420', 'brand': 'Staples', 'brand:wikipedia': 'en:Staples Canada'}"
 49.2406215,-123.1017389,convenience,Stadium Market,"{'addr:housenumber': '4899', 'addr:street': 'Main Street'}"
@@ -120,7 +119,6 @@ lat,lon,type,name,tags
 49.2681101,-123.1592724,bakery,Terra Breads,"{'opening_hours': 'Mo-Sa 07:00-19:00; Su 07:00-18:00', 'addr:housenumber': '2380', 'addr:street': 'West 4th Avenue', 'phone': '+1-604-736-1838'}"
 49.2680979,-123.1580017,bakery,COBS Bread,"{'brand:wikidata': 'Q4849261', 'addr:housenumber': '2320', 'addr:street': 'West 4th Avenue', 'brand': 'COBS Bread', 'brand:wikipedia': 'en:Bakers Delight'}"
 49.2680983,-123.158219,seafood,The 7 Seas,"{'opening_hours': 'Mo-Su 09:00-18:30', 'website': 'https://www.7seas.ca/', 'addr:housenumber': '2328', 'addr:street': 'West 4th Avenue'}"
-49.2681064,-123.1583789,greengrocer,Apple Farm Market,"{'opening_hours': 'Mo-Sa 09:00-21:00; Su 10:00-21:00', 'addr:housenumber': '2344', 'addr:street': 'West 4th Avenue'}"
 49.2791315,-123.0870375,art,Paneficio,"{'addr:housenumber': '800', 'addr:street': 'Keefer Street'}"
 49.2774731,-123.0809914,art,The Onion,{}
 49.2752827,-123.0799686,art,Fine Art Framing,"{'opening_hours': 'Mo-Fr 09:00-17:00', 'website': 'https://www.fineartframing.ca/', 'addr:housenumber': 'Studio 100 1000', 'addr:street': 'Parker Street', 'phone': '+1-604-251-6101'}"
@@ -147,14 +145,11 @@ lat,lon,type,name,tags
 49.2602568,-123.1389468,shoes,Ronsons,{}
 49.2576592,-123.127453,bakery,Max's Deli,"{'addr:province': 'BC', 'wheelchair': 'yes', 'payment:credit_cards': 'yes', 'opening_hours': 'Mo-Sa 09:00-19:00; Su 09:00-17:00', 'addr:street': 'Oak Street', 'payment:debit_cards': 'yes', 'addr:city': 'Vancouver'}"
 49.2575122,-123.127469,supermarket,Sunshine Market,"{'addr:province': 'BC', 'wheelchair': 'yes', 'addr:housenumber': '3135', 'opening_hours': 'Mo-Su 10:30-21:00', 'check_date:opening_hours': '2022-01-22', 'addr:street': 'Oak Street', 'addr:city': 'Vancouver'}"
-49.2721345,-123.135014,greengrocer,Sunlight Farms,{'indoor': 'yes'}
 49.2721327,-123.134934,seafood,Seafood City,"{'website': 'https://www.seafoodcitygi.com/', 'addr:housenumber': '1689', 'phone': '+1-604-688-1818', 'indoor': 'yes', 'addr:street': 'Johnston Street', 'email': 'brian@seafoodcitygi.com', 'addr:unit': '143'}"
 49.272185,-123.134982,butcher,Tenderland Meats,"{'opening_hours': 'Mo-Su 9:00-19:00', 'indoor': 'yes', 'website': 'https://tenderlandmeats.com/', 'addr:housenumber': '1689', 'addr:street': 'Johnston Street', 'phone': '+1-604-688-6951'}"
 49.2722203,-123.1350636,bakery,Stuarts Quality Baked Goods,{'indoor': 'yes'}
 49.2721888,-123.1351119,confectionery,Candy Kitchen,{'indoor': 'yes'}
 49.2722465,-123.1351884,butcher,Dussa's Ham & Cheese,{'indoor': 'yes'}
-49.2723252,-123.135301,greengrocer,Four Season Farm,{'indoor': 'yes'}
-49.2723305,-123.1352259,greengrocer,Granville Island Produce,{'indoor': 'yes'}
 49.2722544,-123.13525,bakery,Lee's Donuts,"{'indoor': 'yes', 'not:brand:wikidata': 'Q6512810'}"
 49.2722701,-123.1351414,beverages,The Milkman,{'indoor': 'yes'}
 49.272251,-123.135005,spices,The Grainry,"{'opening_hours': 'We-Su 09:00-17:00', 'indoor': 'yes', 'website': 'http://www.thegrainry.com/', 'addr:housenumber': '1689', 'addr:street': 'Johnston Street', 'phone': '+1-604-681-6426'}"
@@ -162,7 +157,6 @@ lat,lon,type,name,tags
 49.2723916,-123.135204,confectionery,ChocolaTas,"{'opening_hours': 'Mo-Su 09:00-18:00', 'website': 'https://chocolatas.com/', 'addr:housenumber': '1689', 'addr:street': 'Johnston Street', 'phone': '+1-604-488-1226;+1-877-668-8932', 'addr:unit': '151'}"
 49.2724451,-123.135356,seafood,The Salmon Shop,{}
 49.2727286,-123.1354928,bakery,Terra Breads,"{'phone': '+1-604-685-3102', 'indoor': 'yes'}"
-49.2726359,-123.1355249,greengrocer,Organic Acres Market,{'indoor': 'yes'}
 49.2726481,-123.135655,seafood,Longliner Seafood,{'indoor': 'yes'}
 49.2723314,-123.134841,tea,Granville Island Tea Company,"{'website': 'https://granvilletea.com/', 'addr:housenumber': '1689', 'phone': '+1-604-683-7491', 'indoor': 'yes', 'addr:street': 'Johnston Street', 'email': 'info@granvilletea.com', 'addr:unit': '117'}"
 49.2723025,-123.1348088,market,South China Sea's Trading Company,{'indoor': 'yes'}
@@ -195,10 +189,8 @@ lat,lon,type,name,tags
 49.2711922,-123.1069035,alcohol,Legacy Liquor,"{'opening_hours': 'Mo-Su 10:00-23:00', 'website': 'https://legacyliquorstore.com/', 'addr:housenumber': '1633', 'addr:street': 'Manitoba Street', 'phone': '+1-604-331-7900', 'addr:postcode': 'V5Y 0B8'}"
 49.272646,-123.149985,convenience,Circle K,"{'brand:wikidata': 'Q3268010', 'addr:province': 'BC', 'addr:housenumber': '1997', 'brand:wikipedia': 'en:Circle K', 'addr:street': 'Cornwall Avenue', 'brand': 'Circle K', 'addr:city': 'Vancouver'}"
 49.312706,-123.0273932,alcohol,Seymour's Liquor Store,{}
-49.2809823,-123.0572748,greengrocer,Donald’s Market,{}
 49.2695869,-123.1323169,art,Federation Gallery,"{'website': 'https://artists.ca/', 'addr:housenumber': '1241', 'addr:street': 'Cartwright Street'}"
 49.278622,-123.0978377,butcher,Carley Quality Meat Ltd.,{}
-49.27832,-123.097194,greengrocer,Lok's Produce,"{'addr:housenumber': '298', 'addr:street': 'East Georgia Street'}"
 49.281941,-123.003218,convenience,Burnaby Heights Market,"{'addr:housenumber': '281', 'addr:street': 'Willingdon'}"
 49.2698445,-123.0561632,convenience,7-Eleven,"{'brand:wikidata': 'Q259340', 'brand': '7-Eleven', 'brand:wikipedia': 'en:7-Eleven'}"
 49.2679801,-123.1511264,alcohol,Bimini's Private Liquor Store,"{'addr:housenumber': '2018', 'addr:street': 'West 4th Avenue'}"
@@ -252,7 +244,6 @@ lat,lon,type,name,tags
 49.2346929,-123.1567948,shoes,Naot,{}
 49.2346899,-123.1567451,clothes,Robsons,{}
 49.2341748,-123.1402113,beauty,Monica Beauty & Wellness,{}
-49.2689279,-123.1028936,greengrocer,Organic Lives,"{'addr:housenumber': '1825', 'source': 'survey', 'addr:street': 'Quebec Street', 'addr:city': 'Vancouver'}"
 49.1786212,-123.1361345,beauty,Sau San Tong Swimming & Beauty,{}
 49.2619803,-123.0228796,clothes,Stormtech Factory Outlet,"{'opening_hours': '10:00-18:00', 'website': 'https://www.stormtech.ca/pages/stormtech-factory-outlet', 'addr:housenumber': '2550', 'addr:street': 'Boundary Road'}"
 49.263394,-123.1873803,sports,West Point Multisport,"{'addr:housenumber': '3780', 'addr:street': 'West 10th Avenue', 'addr:city': 'Vancouver'}"
@@ -317,7 +308,6 @@ lat,lon,type,name,tags
 49.2906053,-123.134392,alcohol,BC Liquor Store,"{'brand:wikidata': 'Q43079557', 'addr:province': 'BC', 'website': 'https://www.bcliquorstores.com/store/233', 'addr:housenumber': '1716', 'drive_through': 'no', 'brand:wikipedia': 'en:BC Liquor Stores', 'opening_hours': 'Mo-Th 09:30-21:00; Fr,Sa 09:30-23:00; Su 11:00-18:00', 'addr:street': 'Robson Street', 'brand': 'BC Liquor Store', 'addr:postcode': 'V6G 1E2', 'addr:city': 'Vancouver'}"
 49.2742032,-123.119793,alcohol,BC Liquor Store,"{'brand:wikidata': 'Q43079557', 'addr:province': 'BC', 'website': 'https://www.bcliquorstores.com/store/191', 'addr:housenumber': '1108', 'drive_through': 'no', 'brand:wikipedia': 'en:BC Liquor Stores', 'opening_hours': 'Su 11:00-18:00; Mo-Sa 09:30-21:00', 'addr:street': 'Pacific Boulevard', 'brand': 'BC Liquor Store', 'addr:postcode': 'V6Z 2X7', 'addr:city': 'Vancouver'}"
 49.2850076,-123.111867,alcohol,BC Liquor Store,"{'brand:wikidata': 'Q43079557', 'addr:province': 'BC', 'wheelchair': 'yes', 'website': 'https://www.bcliquorstores.com/store/53', 'addr:housenumber': '555', 'brand:wikipedia': 'en:BC Liquor Stores', 'opening_hours': 'Mo-Sa 09:30-21:00; Su 11:00-18:00', 'addr:street': 'West Hastings Street', 'brand': 'BC Liquor Store', 'addr:postcode': 'V6B 4N5', 'addr:city': 'Vancouver'}"
-49.2829921,-123.0974576,greengrocer,Sunrise Market,"{'addr:postcode': 'V6A 1G4', 'addr:housenumber': '300', 'addr:street': 'Powell Street'}"
 49.2805229,-123.118864,supermarket,H Mart,"{'brand:wikidata': 'Q5636306', 'addr:province': 'BC', 'note': '9-22/7', 'payment:credit_cards': 'yes', 'brand:wikipedia': 'en:H Mart', 'check_date:opening_hours': '2022-02-13', 'cuisine': 'asian', 'alt_name:ko': 'H 마트', 'opening_hours:covid19': 'open', 'addr:postcode': 'V6B 2B7', 'addr:city': 'Vancouver', 'name:ko': '한아름', 'addr:housenumber': '590', 'opening_hours': 'Mo-Su 09:00-22:00', 'name:en': 'H Mart', 'addr:street': 'Robson Street', 'payment:debit_cards': 'yes', 'name:zh-Hans': '韩亚龙', 'name:zh-Hant': '韓亞龍', 'brand': 'H Mart'}"
 49.223834,-123.065935,butcher,Teemway Seafood Co,"{'addr:housenumber': '6653', 'addr:street': 'Victoria Drive'}"
 49.2249435,-123.0659436,alcohol,Apex Liquor Shop,"{'addr:housenumber': '6509', 'addr:street': 'Victoria Drive'}"
@@ -401,7 +391,6 @@ lat,lon,type,name,tags
 49.280832,-123.0454107,electronics,Save On Cartridge Plus,{}
 49.2808314,-123.0459068,bakery,Italia Bakery,{}
 49.2808313,-123.04601,beauty,Colour Nails,{}
-49.2808311,-123.046139,greengrocer,Tama Organic Life,"{'addr:province': 'BC', 'website': 'http://tamaorganic.com/', 'addr:housenumber': '2828', 'phone': '+1-778-379-6322', 'addr:street': 'East Hastings Street', 'email': 'info@tamaorganic.com', 'addr:unit': '102', 'addr:city': 'Vancouver'}"
 49.2837752,-123.1169982,tea,DavidsTea,"{'brand:wikidata': 'Q3019129', 'brand:wikipedia': 'en:DavidsTea', 'opening_hours': 'Mo-Tu 09:30-19:00; We-Fr 09:30-21:00; Sa 09:30-19:00; Su 11:00-18:00', 'check_date:opening_hours': '2022-03-05', 'brand': 'DavidsTea', 'addr:postcode': 'V7Y 1G5', 'addr:city': 'Vancouver'}"
 49.2757682,-123.13243,alcohol,Long Table Distillery,"{'addr:province': 'BC', 'website': 'https://longtabledistillery.com/', 'addr:housenumber': '1451', 'phone': '+1-604-266-0177', 'drive_through': 'no', 'opening_hours': 'We-Th 13:00-18:00; Fr-Sa 13:00-21:00', 'addr:street': 'Hornby Street', 'addr:city': 'Vancouver'}"
 49.2837073,-123.123195,confectionery,Rocky Mountain Chocolate Factory,"{'opening_hours:signed': 'no', 'brand:wikidata': 'Q7355878', 'addr:province': 'BC', 'wheelchair': 'yes', 'brand:wikipedia': 'en:Rocky Mountain Chocolate Factory', 'brand': 'Rocky Mountain Chocolate Factory', 'addr:city': 'Vancouver'}"
@@ -414,7 +403,6 @@ lat,lon,type,name,tags
 49.2736081,-123.1185044,ice_cream,Bella Gelateria,"{'website': 'https://bellagelateria.com/yaletown', 'addr:housenumber': '1089', 'phone': '+1-778-737-7890', 'amenity': 'ice_cream', 'opening_hours': '09:00-23:00', 'outdoor_seating': 'yes', 'addr:street': 'Marinaside Crescent', 'addr:postcode': 'V6Z 2Z4', 'addr:city': 'Vancouver'}"
 49.2793213,-123.1213185,convenience,Foodness Supermarket,"{'addr:province': 'BC', 'addr:housenumber': '927', 'opening_hours': 'Mo-Fr 09:00-22:30; Sa 09:00-23:30; Su 13:00-22:00', 'check_date:opening_hours': '2021-03-22', 'addr:street': 'Seymour Street', 'payment:debit_cards': 'yes', 'addr:city': 'Vancouver'}"
 49.2888268,-123.139684,convenience,7-Eleven,"{'opening_hours:signed': 'no', 'brand:wikidata': 'Q259340', 'addr:province': 'BC', 'wheelchair': 'yes', 'brand:wikipedia': 'en:7-Eleven', 'check_date:opening_hours': '2022-10-29', 'addr:street': 'Denman Street', 'brand': '7-Eleven', 'addr:city': 'Vancouver'}"
-49.2886608,-123.139973,greengrocer,Kin's Farm Market,"{'addr:province': 'BC', 'opening_hours': 'Mo-Su 10:00-20:00', 'addr:street': 'Denman Street', 'addr:city': 'Vancouver'}"
 49.2886668,-123.13943,alcohol,Denman Liquor Store,"{'addr:province': 'BC', 'wheelchair': 'yes', 'addr:housenumber': '1060', 'phone': '+1-604-633-1863', 'opening_hours': 'Mo-Su 09:00-23:00', 'addr:street': 'Denman Street', 'addr:postcode': 'V6G 2M6', 'addr:city': 'Vancouver'}"
 49.2848663,-123.114852,chemist,Rexall,"{'brand:wikidata': 'Q39045377', 'addr:province': 'BC', 'addr:housenumber': '499', 'drive_through': 'no', 'brand:wikipedia': 'en:Rexall (Canada)', 'amenity': 'pharmacy', 'opening_hours': 'Mo-Fr 07:00-21:00; Sa,Su 09:00-20:00', 'addr:street': 'Granville Street', 'brand': 'Rexall', 'branch': 'Drugstore', 'healthcare': 'pharmacy', 'addr:city': 'Vancouver'}"
 49.2824526,-123.109036,clothes,Okakie,"{'opening_hours': 'Mo-Sa 11:00-19:00; Su 11:00-17:00', 'addr:housenumber': '157', 'name:en': 'Okakie', 'addr:street': 'West Hastings Street', 'addr:city': 'Vancouver'}"
@@ -472,7 +460,6 @@ lat,lon,type,name,tags
 49.2768906,-123.0748431,camera,Fusion Cine,"{'addr:housenumber': '1469', 'addr:street': 'Venables Street', 'addr:city': 'Vancouver'}"
 49.2768336,-123.075995,wholesale,Sani Marc | Wood Wyant,"{'addr:housenumber': '1379', 'addr:street': 'Venables Street', 'addr:city': 'Vancouver'}"
 49.2762816,-123.100144,antiques,The Source,"{'website': 'https://source929main.myshopify.com/', 'addr:housenumber': '929', 'addr:street': 'Main Street', 'phone': '+1-604-684-9914'}"
-49.183876,-123.0920263,greengrocer,Fruiticana,"{'addr:housenumber': '4101', 'payment:credit_cards': 'yes', 'addr:street': 'No. 5 Road', 'payment:debit_cards': 'yes', 'addr:city': 'Richmond'}"
 49.1838687,-123.0932164,bakery,Rising Sun Bakery and Patisserie,{'phone': '+1-604-303-7439'}
 49.2790935,-123.122535,beauty,Mirror & Co,"{'addr:province': 'BC', 'addr:housenumber': '655', 'phone': '+1-604-559-6877', 'opening_hours': 'Mo,We-Fr 11:00-18:00; Sa 11:00-17:00', 'check_date:opening_hours': '2021-08-05', 'addr:street': 'Nelson Street', 'addr:city': 'Vancouver'}"
 49.2794688,-123.107847,convenience,Neotown,"{'alt_name': 'Your Local Convenience Store', 'addr:housenumber': '623', 'addr:street': 'Abbott Street', 'addr:postcode': 'V6B 0J4', 'addr:city': 'Vancouver'}"
@@ -665,7 +652,6 @@ lat,lon,type,name,tags
 49.3117335,-123.0805158,alcohol,BC Liquor,"{'addr:housenumber': '132', 'drive_through': 'no', 'opening_hours': '09:30-19:00', 'addr:street': 'West Esplanade Street', 'addr:postcode': 'V7M 1A2', 'operator': 'BC Liquor Distribution Branch', 'addr:city': 'North Vancouver'}"
 49.2812411,-123.132797,bakery,COBS Bread,"{'brand:wikidata': 'Q4849261', 'addr:province': 'BC', 'wheelchair': 'yes', 'toilets:wheelchair': 'no', 'website': 'https://www.cobsbread.com/', 'payment:credit_cards': 'yes', 'brand:wikipedia': 'en:Bakers Delight', 'opening_hours': 'Mo-Su 07:00-20:30', 'addr:street': 'Davie Street', 'payment:debit_cards': 'yes', 'brand': 'COBS Bread', 'addr:city': 'Vancouver'}"
 49.2804768,-123.131611,supermarket,Mi Tierra Latina,"{'addr:province': 'BC', 'website': 'https://mitierralatina.ca/', 'addr:housenumber': '1104', 'payment:credit_cards': 'yes', 'phone': '+1 866-967-1378', 'opening_hours': '09:00-21:00', 'addr:street': 'Davie Street', 'addr:postcode': 'V6E 1X4', 'email': 'info@mitierralatina.ca', 'addr:city': 'Vancouver'}"
-49.2812854,-123.132874,greengrocer,Kin's Farm Market,"{'addr:province': 'BC', 'wheelchair': 'yes', 'toilets:wheelchair': 'no', 'addr:housenumber': '150', 'payment:credit_cards': 'yes', 'phone': '+1-604-687-8081', 'opening_hours': 'Mo-Su 10:00-21:00', 'addr:street': 'Davie Street', 'payment:debit_cards': 'yes', 'addr:postcode': 'V6E 1N1', 'organic': 'yes', 'addr:city': 'Vancouver'}"
 49.280654,-123.1318822,tobacco,CottonMouth,"{'addr:province': 'BC', 'opening_hours': 'Mo-Sa 11:00-19:00', 'addr:housenumber': '1120', 'addr:street': 'Davie Street', 'addr:city': 'Vancouver'}"
 49.2502701,-123.1680089,convenience,Jimmy's Market,{}
 49.2626582,-123.0924162,supermarket,Kim's Mart,"{'opening_hours': 'Mo-Su 09:00-21:00', 'phone': '+1-604-708-9913', 'addr:postcode': 'V5T 1X4'}"
@@ -749,7 +735,6 @@ lat,lon,type,name,tags
 49.2816016,-123.119197,gift,Claire's,"{'addr:province': 'BC', 'opening_hours': 'Mo-Sa 11:00-19:00; Su 12:00-18:00', 'addr:housenumber': '762', 'name:en': ""Claire's"", 'addr:street': 'Granville Street', 'addr:city': 'Vancouver'}"
 49.2815257,-123.119307,shoes,Vans,"{'brand:wikidata': 'Q1135366', 'addr:province': 'BC', 'wheelchair': 'yes', 'addr:housenumber': '776', 'brand:wikipedia': 'en:Vans', 'opening_hours': 'Mo-Sa 11:00-19:00; Su 11:00-18:00', 'name:en': 'Vans', 'addr:street': 'Granville Street', 'brand': 'Vans', 'addr:city': 'Vancouver'}"
 49.2812705,-123.0851473,alcohol,Strathcona Beer Company,"{'website': 'https://strathconabeer.com/', 'addr:housenumber': '895', 'phone': '+1-778-379-9050', 'smoking': 'no', 'opening_hours': 'Mo-Th 12:00-23:00; Fr 12:00-00:00; Sa 11:00-00:00; Su 11:00-23:00', 'craft': 'brewery', 'addr:street': 'East Hastings Street', 'addr:postcode': 'V6A 1R8', 'email': 'info@strathconabeer.com', 'capacity': '60', 'addr:city': 'Vancouver'}"
-49.2643382,-123.175158,greengrocer,Young Brothers Produce,"{'addr:province': 'BC', 'addr:housenumber': '3151', 'phone': '+1-604-732-7088', 'opening_hours': '09:00-17:00', 'loc_name': 'Young Bros Produce', 'addr:street': 'West Broadway', 'opening_hours:covid19': 'same', 'addr:postcode': 'V6K 2H2', 'addr:city': 'Vancouver'}"
 49.2517712,-123.1006481,bulk,The Soap Dispensary,"{'website': 'https://thesoapdispensary.com/', 'addr:housenumber': '3718', 'phone': '+1-604-568-3141', 'opening_hours': '10:00-18:00', 'addr:street': 'Main Street', 'addr:postcode': 'V5V 3N7', 'addr:city': 'Vancouver'}"
 49.2812562,-123.0535799,second_hand,VGH Thrift Store,"{'addr:housenumber': '2535', 'addr:street': 'East Hastings Street', 'phone': '+1-604-876-3731', 'addr:postcode': 'V5K 1Z2', 'addr:city': 'Vancouver'}"
 49.2482937,-123.1854105,supermarket,Stong's Market,"{'opening_hours': 'Mo-Su 07:00-22:00', 'addr:housenumber': '4221', 'name:en': ""Stong's Market"", 'addr:street': 'Dunbar Street', 'phone': '+1-604-266-1401'}"
@@ -1015,7 +1000,6 @@ lat,lon,type,name,tags
 49.1966511,-123.1770697,sports,BC Sports Zone,{}
 49.1964996,-123.1771048,electronics,Technothego,{'name:en': 'Technothego'}
 49.2845608,-123.1217584,fashion_accessories,Maison Birks,"{'opening_hours:signed': 'no', 'check_date:opening_hours': '2022-10-15'}"
-49.2526065,-123.1011482,greengrocer,Organic Acres Market,"{'opening_hours': 'Mo-Su 10:00-08:00', 'addr:housenumber': '3603', 'addr:street': 'Main Street', 'organic': 'yes'}"
 49.2824271,-123.1116776,clothes,Hunter & Hare,"{'opening_hours': 'Mo-Sa 12:00-17:00', 'website': 'https://www.hunterandhare.com/', 'addr:housenumber': '334', 'name:en': 'Hunter & Hare'}"
 49.2842781,-123.1092376,gift,Coastal People,"{'website': 'http://www.coastalpeoples.com/', 'addr:housenumber': '312', 'level': '0', 'name:en': 'Coastal People', 'addr:street': 'Water Street', 'addr:postcode': 'V6B 1B6', 'addr:city': 'Vancouver'}"
 49.287014,-123.141696,clothes,Quick Nickel,"{'addr:province': 'BC', 'opening_hours': 'Su-Th 10:00-19:00; Fr-Sa 10:00-20:00', 'addr:housenumber': '1778', 'name:en': 'Quick Nickel', 'addr:street': 'Davie Street', 'addr:city': 'Vancouver'}"
@@ -1153,7 +1137,6 @@ lat,lon,type,name,tags
 49.2823447,-123.1169665,department_store,Hudson's Bay,"{'brand:wikidata': 'Q641129', 'website': 'https://www.thebay.com/', 'alt_name': 'The Bay', 'internet_access': 'wlan', 'brand:wikipedia': ""en:Hudson's Bay (retailer)"", 'opening_hours': 'Mo-Sa 09:30-21:00; Su 11:00-19:00', 'brand': ""Hudson's Bay""}"
 49.2584867,-123.0333428,electronics,Trail Appliances,{}
 49.3140282,-123.0778979,butcher,Olympia Meats,"{'addr:housenumber': '120', 'addr:street': 'West 3rd Street', 'addr:city': 'North Vancouver City'}"
-49.314042,-123.0791648,greengrocer,Sunshine Produce,"{'addr:housenumber': '153', 'addr:street': 'West 3rd Street', 'addr:city': 'North Vancouver City'}"
 49.3144376,-123.0790001,second_hand,The Good Stuff Connection,"{'addr:housenumber': '154', 'addr:street': 'West 3rd Street', 'phone': '+1-604-987-1773', 'addr:city': 'North Vancouver City'}"
 49.3140925,-123.0780391,e-cigarette,Vape Street,"{'addr:housenumber': '128', 'addr:street': 'West 3rd Street', 'addr:city': 'North Vancouver City'}"
 49.313952,-123.0776843,beauty,Laque Nail Bar,"{'addr:housenumber': '116', 'addr:street': 'West 3rd Street', 'beauty': 'nails', 'addr:city': 'North Vancouver City'}"
@@ -1177,7 +1160,6 @@ lat,lon,type,name,tags
 49.2658463,-123.0042835,alcohol,BC Liquor Store,"{'brand:wikidata': 'Q43079557', 'addr:housenumber': '4455', 'phone': '+1-604-660-1007', 'brand:wikipedia': 'en:BC Liquor Stores', 'opening_hours': 'Mo-Th 09:30-21:00; Fr-Sa 09:30-23:00; Su 11:00-18:00', 'addr:street': 'Skyline Drive', 'brand': 'BC Liquor Store', 'addr:postcode': 'V5C 0H6'}"
 49.2874167,-123.1214621,beauty,NuAGE Laser & Skin Care,"{'website': 'https://www.vancouverlaserclinic.com', 'addr:housenumber': '1130', 'beauty': 'skin_care', 'phone': '+1-778-379-5444', 'opening_hours': 'Mo-Fr 09:30-20:00; Sa 09:30-17:00', 'check_date:opening_hours': '2022-10-08', 'addr:street': 'West Pender Street', 'addr:postcode': 'V6E 4A4', 'addr:unit': '101', 'addr:city': 'Vancouver'}"
 49.2834684,-123.0736709,alcohol,Andina Tasting Lounge,"{'opening_hours': 'Mo-Su 12:00-23:00', 'website': 'https://andinabrewing.ca/visit-our-place/the-tasting-lounge/', 'phone': '+1-604-253-2400', 'amenity': 'pub', 'email': 'info@andinabrewing.ca'}"
-49.2797537,-123.0994846,greengrocer,Cheungs Herbs & Spices,{}
 49.2769121,-123.0805868,alcohol,Luppolo Tasting Room,"{'addr:housenumber': '1123', 'phone': '+1-604-255-4997', 'amenity': 'bar', 'opening_hours': 'Su 12:00-22:00; Mo-Tu 15:00-22:00; We-Th 15:00-23:00; Fr 11:30-00:00; Sa 12:00-00:00', 'outdoor_seating': 'no', 'addr:street': 'Venables Street', 'addr:postcode': 'V6A 2C3', 'email': 'info@luppolobrewing.ca', 'addr:city': 'Vancouver'}"
 49.2056758,-123.0305283,wine,Everything Wine,"{'opening_hours': 'Mo-Sa 10:00-21:00; Su 11:00-19:00', 'website': 'https://www.everythingwine.ca/vancouver', 'addr:housenumber': '8570', 'addr:street': 'River District Crossing', 'phone': '+1 844 989 9463', 'addr:postcode': 'V5S 0C2'}"
 49.2195436,-123.0405139,supermarket,Kin's Farm Market,"{'addr:housenumber': '7060', 'addr:street': 'Kerr Street', 'addr:unit': '7', 'addr:city': 'Vancouver'}"
@@ -1191,7 +1173,6 @@ lat,lon,type,name,tags
 49.2425674,-123.003943,convenience,Jenny's Convenience Store,"{'opening_hours': 'Mo-Su 07:30-23:00', 'website': 'https://www.jennysconvenience.com/', 'addr:housenumber': '4739', 'addr:street': 'Willingdon Avenue', 'phone': '+1-604-434-8600', 'addr:unit': '2'}"
 49.2688052,-123.0447051,seafood,Wah Shang Seafood,{'level': '1'}
 49.2687429,-123.0459772,seafood,Octopus House Canada Ltd,"{'level': '0', 'addr:housenumber': '108-2800', 'name:zh': '八達屋魚丸專門店'}"
-49.2688111,-123.044591,greengrocer,Cho’s Farm Market,{'level': '1'}
 49.2687528,-123.0461013,tea,Little Bubble Tea House,"{'addr:housenumber': '104-2800', 'internet_access': 'yes', 'level': '0', 'internet_access:type': 'wifi', 'internet_access:fee': 'no', 'name:zh': '夢茶園珍珠奶茶'}"
 49.2687345,-123.0457834,medical_supply,Wing Shing Medical Co. Ltd.,"{'description': 'Traditional Chinese Medicine', 'addr:housenumber': '112', 'name:en': 'Wing Shing Medical Co. Ltd.', 'phone': '+1-604-251-6060', 'level': '0', 'name:zh': '永盛參茸藥材'}"
 49.2796661,-123.124697,clothes,Mine & Yours,"{'addr:province': 'BC', 'opening_hours': 'Mo-Sa 10:00-18:00; Su 12:00-18:00', 'addr:city': 'Vancouver'}"
@@ -1245,7 +1226,6 @@ lat,lon,type,name,tags
 49.2088651,-123.1402573,sports,Tad's Sporting Goods,"{'addr:housenumber': '8570', 'addr:street': 'Granville Street', 'addr:city': 'Vancouver'}"
 49.2628254,-123.090863,convenience,Circle K,"{'brand:wikidata': 'Q3268010', 'addr:province': 'BC', 'addr:housenumber': '601', 'brand:wikipedia': 'en:Circle K', 'addr:street': 'East Broadway', 'brand': 'Circle K', 'addr:city': 'Vancouver'}"
 49.262258,-123.1528048,bakery,Plaisir Sucré,"{'addr:housenumber': '2668', 'addr:street': 'Arbutus Street', 'addr:city': 'Vancouver'}"
-49.2810618,-123.0715286,greengrocer,SPUD.ca,"{'website': 'https://www.spud.ca/', 'addr:housenumber': '1660', 'addr:street': 'East Hastings Street'}"
 49.282006,-123.070047,alcohol,Storm Growler Fills,"{'addr:province': 'BC', 'opening_hours': 'Tu-Th 10:00-18:00; Fr-Sa 10:00-20:00; Su 13:00-20:00', 'website': 'https://www.stormbrewing.org/', 'phone': '+1-604-255-9119', 'drive_through': 'no', 'addr:city': 'Vancouver'}"
 49.2745481,-123.1259674,supermarket,Farm to Table,"{'addr:province': 'BC', 'addr:housenumber': '1312', 'air_conditioning': 'yes', 'opening_hours': 'Mo-Su 07:00-23:00', 'check_date:opening_hours': '2022-09-22', 'addr:street': 'Richards Street', 'payment:debit_cards': 'yes', 'addr:city': 'Vancouver'}"
 49.2881991,-123.1273823,beauty,Donna House of Nails,"{'opening_hours': 'Mo-Sa 10:00-19:00; Su 11:00-18:00', 'addr:housenumber': '1308', 'addr:street': 'West Georgia Street', 'beauty': 'nails'}"
@@ -1533,7 +1513,6 @@ lat,lon,type,name,tags
 49.2737229,-123.123401,beauty,Posy,"{'opening_hours:signed': 'no', 'website': 'https://posynailspa.ca/', 'addr:housenumber': '1271', 'addr:street': 'Pacific Street', 'phone': '+1-604-681-8495'}"
 49.2495758,-123.019428,grocery,Hanna Meats & Grocery,"{'opening_hours': '09:00-19:00', 'addr:housenumber': '3822', 'addr:street': 'Sunset Street', 'phone': '+1 604 677 3181', 'survey:date': '2021-02-06', 'addr:city': 'Burnaby'}"
 49.260871,-123.1532813,butcher,Pete's Meat,"{'addr:province': 'BC', 'website': 'https://www.petes-meat.com/', 'addr:housenumber': '2817', 'phone': '+1 604-730-1661', 'opening_hours': 'Mo-Su 10:00-18:00', 'addr:street': 'Arbutus Street', 'addr:city': 'Vancouver'}"
-49.2644942,-123.185607,greengrocer,Iris Produce,{}
 49.262944,-123.1857222,electronics,Lotusland Electronics & Music,"{'addr:housenumber': '2660', 'addr:street': 'Alma Street'}"
 49.2637961,-123.140295,jewelry,Manhatten Jewellers,{'opening_hours': 'Mo 11:00-18:00+'}
 49.2790609,-123.1216973,clothes,Madaselle,"{'addr:province': 'BC', 'opening_hours': 'Mo-Sa 10:00-18:00', 'addr:street': 'Seymour Street', 'addr:city': 'Vancouver'}"
