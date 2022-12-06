@@ -1,0 +1,240 @@
+lat,lon,type,name,tags
+49.2777533,-123.1449485,artwork,The Stop,"{'artist_name': 'Michael Zheng', 'ref': '2'}"
+49.2943999,-123.1378729,attraction,Lost Lagoon Nature House,{}
+49.2843057,-123.143728,artwork,Inukshuk,"{'note': 'This ancient symbol of the Inuit culture is traditionally used as a landmark and navigational aid and also represents northern hospitality and friendship. Constructed of grey granite by Alvin Kanak of Rankin Inlet, this monument was commissioned by the Go', 'website': 'https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?FromArtworkSearch=True&ArtworkId=172', 'material': 'granite', 'artist_name': 'Alvin Kanak', 'artwork_type': 'sculpture', 'start_date': '1986', 'height': '6'}"
+49.2893606,-123.1176596,attraction,2010 Olympic Flame,"{'wheelchair': 'yes', 'historic': 'monument'}"
+49.2759765,-123.1427011,museum,City of Vancouver Archives,{}
+49.2843841,-123.10889,attraction,Gastown Steam Clock,"{'wheelchair': 'yes', 'addr:housenumber': '305', 'historic': 'monument', 'visibility': 'street', 'amenity': 'clock', 'display': 'analog', 'wikipedia': 'en:Steam clock#Gastown steam clock', 'addr:street': 'Water Street', 'wikidata': 'Q107352564', 'support': 'ground'}"
+49.2832178,-123.120566,artwork,Four Boats Stranded,{'artwork_type': 'installation'}
+49.2828278,-123.119971,artwork,Four Boats Stranded,{'artwork_type': 'installation'}
+49.2826194,-123.120281,artwork,Four Boats Stranded,{'artwork_type': 'installation'}
+49.21918,-123.2139445,attraction,Iona Beach Park,{}
+49.3019096,-123.1337742,attraction,Miniature Railway,{}
+49.2846114,-123.112316,viewpoint,Harbour Centre Lookout Tower,"{'wheelchair': 'yes', 'website': 'https://www.vancouverlookout.com/', 'alt_name': 'Vancouver Lookout', 'addr:housenumber': '555', 'phone': '+1-604-689-0421', 'opening_hours': 'Oct-May 09:00-21:00; Jun-Sep 08:30-22:30', 'wikipedia': 'en:Harbour Centre', 'addr:street': 'West Hastings Street', 'wikidata': 'Q867340', 'addr:city': 'Vancouver'}"
+49.3135511,-123.1423732,viewpoint,Lowden’s Lookout,{}
+49.2895459,-123.1079022,viewpoint,Canada Place,{}
+49.271391,-123.1062216,artwork,The Birds,"{'note': 'Giant Sparrows', 'artist_name': 'Myfanwy MacLeod', 'artwork_type': 'sculpture'}"
+49.2284538,-123.0230068,artwork,Ambassador of Peace,"{'note': 'This is a large statue.', 'artwork_type': 'statue', 'survey:date': '2021-02-09'}"
+49.2760449,-123.144556,artwork,The Crab,"{'wheelchair': 'yes', 'website': 'https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=108', 'artwork_type': 'sculpture', 'material': 'stainless steel', 'artist_name': 'George A. Norris', 'start_date': '1968'}"
+49.3023253,-123.006598,viewpoint,Otter Point Viewpoint,{}
+49.2055571,-123.263962,viewpoint,Terminus,{}
+49.2736883,-123.1213813,museum,Engine 374 Pavilion,"{'opening_hours': 'Fr-Su 11:00-15:00', 'fee': 'no'}"
+49.2980289,-123.1175092,attraction,Nine O'Clock Gun,"{'wikidata': 'Q277440', 'wikipedia': ""en:9 O'Clock Gun"", 'addr:street': 'Stanley Park Seawall'}"
+49.3026075,-123.1259323,artwork,Girl In A Wetsuit,"{'wikipedia': 'en:Girl in a Wetsuit', 'artwork_type': 'sculpture', 'material': 'bronze', 'wikidata': 'Q5564477', 'start_date': '1972'}"
+49.2830107,-123.120891,artwork,Four Boats Stranded,{'artwork_type': 'installation'}
+49.2678288,-123.1010309,artwork,Vivo Media Arts Centre,{'source': 'survey'}
+49.3084833,-123.1557866,viewpoint,Siwash Rock Viewpoint,{}
+49.2820831,-123.0981897,museum,Vancouver Police Museum,"{'opening_hours': 'Tu-Sa 09:00-17:00', 'website': 'http://www.vancouverpolicemuseum.com', 'addr:housenumber': '240', 'addr:street': 'East Cordova Street', 'phone': '+1-604-665-3346', 'wikidata': 'Q2510009'}"
+49.273232,-123.1025401,artwork,Tower of Bauble,"{'description': 'kinetic sculpture', 'source': 'survey'}"
+49.2898174,-123.116709,artwork,Digital Orca,"{'website': 'https://www.coupland.com/public-arts/digital-orca', 'source:website': 'https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?FromArtworkSearch=True&ArtworkId=521', 'material': 'aluminum', 'artist_name': 'Douglas Coupland', 'source': 'survey;website', 'artwork_type': 'sculpture', 'wikidata': 'Q1224775', 'start_date': '2009'}"
+49.2928297,-123.1306803,attraction,Fellowship Bell,"{'website': 'https://www.waymarking.com/waymarks/WMHEFZ_Coal_Harbour_Fellowship_Bell_Vancouver_BC', 'alt_name': ""Vancouver's Coal Harbour Fellowship Bell"", 'source': 'survey'}"
+49.3023586,-123.1480254,artwork,Listen,"{'artist_name': 'John Hemsworth and Peter Tiesenhausen', 'source': 'survey', 'start_date': '2009'}"
+49.3069151,-123.1536164,attraction,Hollow Tree,"{'natural': 'tree', 'website': 'https://vancouver.ca/parks-recreation-culture/landmarks-in-stanley-park.aspx'}"
+49.2637342,-123.0968372,artwork,Dude Chilling Park sign,"{'artist_name': 'Viktor Briestensky', 'wikidata': 'Q16967365', 'wikipedia': 'en:Dude Chilling Park'}"
+49.263842,-123.0961492,artwork,Reclining Figure,"{'artist_name': 'Michael Dennis', 'artwork_type': 'sculpture'}"
+49.1977374,-123.1739744,artwork,Pacific Passage,"{'name:fr': 'Passage Pacifique', 'description': 'A British Columbia Coastal Experience', 'website': 'http://www.yvr.ca/en/about-yvr/art/the-pacific-passage', 'name:en': 'Pacific Passage', 'artwork_type': 'sculpture', 'level': '2'}"
+49.197205,-123.177215,artwork,Flight (Spindle Whorl),{'note': 'Lev 2'}
+49.2821685,-123.1411376,artwork,Engagement,"{'website': 'https://www.vancouverbiennale.com/artworks/engagement/', 'wikipedia': 'en:Engagement (sculpture)', 'artwork_type': 'sculpture', 'material': 'aluminum, steel, plexiglass', 'artist_name': 'Dennis Oppenheim', 'wikidata': 'Q5377412'}"
+49.293023,-123.133902,artwork,Search,"{'material': 'bronze', 'artist_name': 'J. Seward Johnson Jr.', 'artwork_type': 'sculpture'}"
+49.3050277,-123.003608,viewpoint,Maplewood Lookout,{}
+49.2620491,-123.120905,artwork,Rick Hansen,"{'memorial': 'statue', 'artwork_type': 'statue'}"
+49.261194,-123.1139368,artwork,George Vancouver,"{'historic': 'memorial', 'memorial:type': 'statue', 'artist_name': 'Charles Marega', 'wikidata': 'Q27919857'}"
+49.2855491,-123.142403,artwork,Joe Fortes Drinking Fountain,"{'wheelchair': 'limited', 'website': 'https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?FromArtworkSearch=False&ArtworkId=163', 'artist_name': 'Charles Marega', 'inscription': 'This Fountain\nErected by the citizens and children, co-operating with the Kiwanis Club of Vancouver, commemorates the life and deeds of Joe Fortes, for many years the guardian of this beach.\n\n~ Little Children Loved Him.\n\nA.D. 1927', 'website_2': 'http://www.waymarking.com/waymarks/WM9GYR_Joe_Fortes_Fountain_Vancouver_BC', 'memorial': 'fountain', 'artwork_type': 'sculpture', 'start_date': '1927'}"
+49.2719249,-123.1098097,artwork,Human Structures Vancouver,"{'artist_name': 'Jonathan Borofsky', 'source': 'http://www.vancouverbiennale.com/artworks/human-structures-vancouver/', 'artwork_type': 'sculpture'}"
+49.3008242,-123.1170478,viewpoint,Brockton Point,{'wheelchair': 'no'}
+49.2816804,-123.1130024,artwork,Water Work,"{'artist_name': 'Tony Bloom', 'artwork_type': 'sculpture'}"
+49.2812618,-123.1158358,artwork,Royal Sweet Diamond,"{'material': 'bronze', 'artist_name': 'Joseph Farard', 'artwork_type': 'sculpture'}"
+49.2848345,-123.1168041,gallery,Chali Rosso,"{'addr:housenumber': '549', 'addr:street': 'Howe Street'}"
+49.2781334,-123.1449681,artwork,Gate to the Northwest Passage,"{'artist_name': 'Alan Chun Hung', 'wikidata': 'Q14874600', 'wikipedia': 'en:Gate to the Northwest Passage'}"
+49.301174,-123.1586277,viewpoint,Ferguson Point,{}
+49.2731149,-123.0996959,artwork,The Watch Seller,"{'description': 'commissioned by Translink', 'artwork_type': 'statue', 'material': 'bronze', 'artist_name': 'Rhonda Weppler, Trevor Mahovsky', 'start_date': '2014'}"
+49.2800083,-123.1138813,artwork,Mind Crystal,{'website': 'https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=528'}
+49.281491,-123.1121571,gallery,Or,"{'wikidata': 'Q7099175', 'addr:housenumber': '555', 'addr:street': 'Hamilton Street'}"
+49.2893873,-123.1142206,artwork,The Drop,"{'artist_name': 'Ingess Idee', 'wikidata': 'Q7731049'}"
+49.2763502,-123.1449814,museum,H. R. MacMillan Space Centre,"{'wheelchair': 'yes', 'website': 'https://www.spacecentre.ca/', 'alt_name': 'Pacific Space Centre', 'addr:housenumber': '1100', 'phone': '+1-604-738-7827', 'loc_name': 'Planetarium', 'wikipedia': 'en:H. R. MacMillan Space Centre', 'addr:street': 'Chestnut Street', 'wikidata': 'Q4244994', 'addr:city': 'Vancouver'}"
+49.2690804,-123.2572659,artwork,Classical Toy Boat,"{'artwork_type': 'sculpture', 'material': 'marble', 'artist_name': 'Glenn Lewis', 'start_date': '1987'}"
+49.2869661,-123.1287547,artwork,Jasper,"{'website': 'https://www.vancouverbiennale.com/artworks/jasper/', 'artwork_type': 'sculpture', 'material': 'steel', 'artist_name': 'John Clement'}"
+49.2653777,-123.2511237,artwork,Musqueam Post,"{'material': 'wood', 'artist_name': 'Brent Sparrow Jr.', 'artwork_type': 'carving'}"
+49.2730636,-123.1025472,artwork,Solar Bike Tree,{}
+49.289513,-123.1216843,artwork,F Grass -Ai Wei Wei,{'name:en': 'F Grass -Ai Wei Wei'}
+49.2762785,-123.1023933,artwork,Trans Am Totem,"{'description': 'It is composed of five real scrap cars stacked upon an old growth cedar tree. The artwork considers our consumer “out with the old, in with the new” culture in relation to the site, its history, and Vancouver’s evolving identity.', 'website': 'https://www.vancouverbiennale.com/artworks/trans-am-totem/', 'artwork_type': 'sculpture', 'material': 'wood;stone', 'artist_name': 'Marcus Bowcott'}"
+49.1974551,-123.1396466,artwork,SEI,"{'artist_name': 'Michael Nicoll Yahgulanaas', 'website': 'https://www.straight.com/arts/470511/exclusive-sneak-peek-michael-nicoll-yahgulanaas-latest-work-mcarthurglen-designer-outlet', 'artwork_type': 'sculpture'}"
+49.2540762,-123.2515866,viewpoint,Ting Lookout,{}
+49.1944553,-123.1815768,artwork,The Raven,"{'name:fr': 'Le Corbeau', 'name:en': 'The Raven', 'artist_name': 'Reg Davidson', 'start_date': '2015'}"
+49.1943305,-123.1792622,artwork,Cedar Connection,"{'name:fr': 'Le lien de cèdre', 'name:en': 'Cedar Connection', 'artist_name': 'Susan A. Point', 'start_date': '2009'}"
+49.1943377,-123.180346,artwork,Celebrating Flight,"{'artwork_type': 'totem_pole', 'material': 'wood;paint', 'artist_name': 'Don Yeomans', 'start_date': '2009', 'height': '12'}"
+49.3116678,-123.085115,artwork,Buoy,{'artwork_type': 'installation'}
+49.2695802,-123.1427277,attraction,Francl Architecture,"{'website': 'https://franclarchitecture.com/', 'addr:housenumber': '1684', 'phone': '+1-604-688-3252', 'opening_hours': 'Mo-Fr 08:30-17:00', 'name:en': 'Francl Architecture', 'office': 'architect', 'addr:street': 'West 2nd Avenue'}"
+49.1973504,-123.1781431,artwork,The Story of Fog Woman and Raven,"{'name:fr': ""L'histoire de Dame brouillard et de Corbeau"", 'name:en': 'The Story of Fog Woman and Raven', 'artist_name': 'Dempsey Bob', 'start_date': '2007'}"
+49.260037,-123.2488873,attraction,Reconciliation Pole,"{'website': 'https://belkin.ubc.ca/collections/#james-hart-7idansuu-reconciliation-pole-honouring-a-time-before-during-and-after-canadas-indian-residential-schools', 'historic': 'monument', 'artist_name': 'James Hart, 7idansuu', 'start_date': '2017'}"
+49.2654344,-123.0776361,artwork,East Van Cross,{'name:en': 'East Van Cross'}
+49.2794172,-123.1052268,artwork,Abacus,{'artwork_type': 'sculpture'}
+49.2798515,-123.108462,artwork,International Village Globe,"{'inscription': 'International Village', 'description': 'Globe', 'historic': 'monument', 'artwork_type': 'sculpture'}"
+49.2548901,-123.1012195,artwork,Momento (Poodle),{'artist_name': 'Gisele Amantea'}
+49.2486548,-123.0732056,artwork,Flower Totems,"{'artist_name': 'Sam Carter', 'artwork_type': 'sculpture'}"
+49.2491637,-123.0753936,artwork,Peaceable Kingdom,"{'artist_name': 'Tom Dean', 'artwork_type': 'sculpture'}"
+49.2997009,-123.1305389,artwork,Killer Whale,"{'website:source': 'https://app.vancouver.ca/ArtsFinder_net/?action=ArtDetails&art_num=464', 'alt_name': 'Chief of the Undersea World', 'artwork_type': 'sculpture', 'material': 'bronze', 'artist_name': 'Bill Reid'}"
+49.280133,-123.1072141,artwork,Chilliwack Antique House,{'name:en': 'Chilliwack Antique House'}
+49.2804954,-123.1063998,artwork,Iag,{'name:en': 'Iag'}
+49.2817994,-123.1333798,attraction,Gay Village,"{'wheelchair': 'yes', 'name:en': 'Gay Village'}"
+49.285220699999996,-123.1342188,artwork,Triumph of the Technocrat,{'name:en': 'Triumph of the Technocrat'}
+49.2769886,-123.1350036,artwork,The Swimmer,{'name:en': 'The Swimmer'}
+49.1925306,-123.1791754,attraction,Vancouver International Airport,"{'name:it': 'Aeroporto Internazionale di Vancouver', 'name:en': 'Vancouver International airport'}"
+49.1802256,-123.1519278,attraction,Flight City,"{'opening_hours': 'Mo-Fr 10:00-18:00; Sa 10:00-17:00', 'website': 'https://www.facebook.com/FlightCityVancouver/', 'addr:housenumber': '105-6080', 'name:en': 'Flight City', 'addr:street': 'Russ Baker Way', 'phone': '+1-604-244-0140'}"
+49.2384102,-123.0502439,gallery,Art Works Studio,"{'addr:housenumber': '2717', 'addr:street': 'Kingsway', 'addr:city': 'Vancouver'}"
+49.271031,-123.2498572,artwork,Maltese Labyrinth,{'name:en': 'Maltese Labyrinth'}
+49.285907,-123.1231115,artwork,Spirits In A Landscape,"{'artist_name': 'Abraham Anghik', 'name:en': 'Spirits In A Landscape', 'start_date': '1992'}"
+49.2982209,-123.1190655,artwork,Harry Winston Jerome,"{'name:en': 'Harry Winston Jerome', 'historic': 'memorial', 'memorial': 'statue', 'artwork_type': 'statue', 'wikidata': 'Q27919858'}"
+49.2763939,-123.120672,gallery,The Space Art Gallery,"{'addr:province': 'BC', 'website': 'https://www.thespaceanartgallery.com/', 'addr:housenumber': '1063', 'phone': '+1-778-997-4049', 'opening_hours': 'Mo-Sa 12:00-20:00', 'name:en': 'The Space Art Gallery', 'addr:street': 'Hamilton Street', 'addr:city': 'Vancouver'}"
+49.2805672,-123.1258144,artwork,Requiem for Yan,"{'artist_name': 'Judi Young', 'name:en': 'Requiem for Yan'}"
+49.1812871,-123.1702967,Plane_Spotting_Platform,South Terminal Viewing Platform,{}
+49.282658,-123.1099763,artwork,Vancouver Corner,{}
+49.2616112,-123.1140507,artwork,Sounds We No Longer Hear,"{'artist_name': 'Ina Trudgeon', 'artwork_type': 'stone', 'start_date': '2000'}"
+49.2821372,-123.1107337,artwork,The Great Fire,{}
+49.2832215,-123.120676,artwork,King Edward VII Fountain,"{'website': 'https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?FromArtworkSearch=True&ArtworkId=45', 'artwork_type': 'sculpture', 'material': 'Concrete,_bronze,_ceramic', 'artist_name': 'Charles Marega', 'start_date': '1912'}"
+49.2824778,-123.120738,artwork,Bird of Spring,"{'website': 'https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?FromArtworkSearch=True&ArtworkId=77', 'artwork_type': 'statue', 'material': 'bronze', 'start_date': '1979'}"
+49.2845787,-123.1292931,artwork,The Four Elements,"{'artist_name': 'Me Jane', 'start_date': '2006'}"
+49.2808714,-123.11245,artwork,Florentine Door & Wall No 3,"{'website': 'https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?FromArtworkSearch=True&ArtworkId=39', 'artwork_type': 'sculpture', 'artist_name': 'Frank Perry', 'start_date': '1967'}"
+49.2382321,-122.9933763,viewpoint,West Forest Trails Wetlands,"{'surface': 'wood', 'bench': 'yes'}"
+49.2851447,-123.1140076,attraction,Birks Clock,"{'visibility': 'street', 'old_name': 'Trorey', 'amenity': 'clock', 'display': 'analog', 'faces': '4', 'support': 'pole', 'operator': 'Birks'}"
+49.2827136,-123.1097142,artwork,Phoenix,{}
+49.288323,-123.1188656,artwork,Nike,"{'description': 'Here stands a golden statue of the ancient Greek goddess of victory. It was created by Pavlos Angelos Kougioumtzis and installed for the 2010 Olympic and Paraolympic Winter Games.', 'artwork_type': 'statue', 'subject:wikidata': 'Q165023', 'artist_name': 'Pavlos Angelos Kougioumtzis'}"
+49.2990879,-123.121252,artwork,Rose Cole Yelton,"{'design:year': '2009', 'description': 'Raised in 2009, this pole was created to honour Rose Cole Yelton, her family and all those who lived in Stanley Park. This pole is erected in front of the house site where the Cole family lived until 1935. Until the time of her passing in 2002...', 'historic': 'memorial', 'memorial': 'totem_pole', 'artwork_type': 'totem_pole', 'artist_name': 'Robert Yelton'}"
+49.242617,-123.1160921,artwork,Love in the Rain,"{'alt_name': 'Love Locks', 'artwork_type': 'sculpture', 'material': 'metal', 'artist_name': 'Bruce Voyce', 'start_date': '2016'}"
+49.2853611,-123.1200364,artwork,Builders,"{'artist_name': 'Joyce McDonald', 'artwork_type': 'sculpture', 'start_date': '1986'}"
+49.2797993,-123.1025451,museum,Chinese Cultural Centre Museum,"{'website': 'https://www.cccvan.com/museum', 'addr:housenumber': '555', 'addr:street': 'Columbia Street', 'phone': '+1-604-658-8880'}"
+49.266028,-123.1153878,artwork,Centennial Rocket,{}
+49.2382851,-123.1338585,artwork,The throne of Nezahualcoyotl,{}
+49.3113296,-123.085661,artwork,Harubang,{'artwork_type': 'sculpture'}
+49.1935267,-123.1802462,artwork,"Supernatural World: The Sea, The Land and The Sky",{'level': '-1'}
+49.2846556,-123.1138977,attraction,The Pink Alley,{'alt_name': 'Alley-Oop'}
+49.2866544,-123.1156405,artwork,Space Venus,"{'website': 'http://chalirosso.com/definitely-dali/', 'artwork_type': 'sculpture', 'material': 'bronze', 'artist_name': 'Salvador Dalí', 'start_date': 'May 2019'}"
+49.2868653,-123.1178888,artwork,Public Service/Private Step,"{'website': 'https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=340&FromArtworkSearch=True', 'start_date': '2003'}"
+49.2672285,-123.1013595,artwork,Seal-maid,"{'artist_name': 'Bronwyn Schuster', 'description': 'A wall drawing of a mermaid with the tail of a seal.\n\nFor the Vancouver Mural Festival 2017', 'artwork_type': 'mural'}"
+49.2681278,-123.1011138,artwork,Saxophone,"{'description': 'This wall drawing shows a woman playing a saxophone.\n\nFor the Vancouver Mural Festival 2017', 'artwork_type': 'mural', 'artist_name': 'Irving Cano', 'direction': '0'}"
+49.2683911,-123.1016585,artwork,Wild Ride,"{'description': 'This wall drawing shows several comic animals driving vehicles.\n\nFor the Vancouver Mural Festival 2017', 'artwork_type': 'mural', 'artist_name': 'Carson Ting', 'start_date': '2017', 'direction': '90'}"
+49.2615395,-123.1005294,artwork,Spacious' as a Concept,"{'description': 'Artist Statement:\n""The meaning of my mural is to discuss how much people compromise personal space and comfort in order to live in a large city. As cities grow denser in population, the size of housing, units or otherwis\n\nFor Vancouver Mural Festival 2017', 'artwork_type': 'mural', 'artist_name': 'Ben Frey', 'direction': '90'}"
+49.2625559,-123.1006705,artwork,Berries and blue vines,"{'description': 'A wall drawing of a woman picking coffee beans', 'artwork_type': 'mural', 'direction': '0'}"
+49.2625484,-123.1004521,artwork,Ghia tree,"{'description': 'A wall drawing of a blue tree\n\nFor the Vancouver Mural Festival 2017', 'artwork_type': 'mural', 'artist_name': 'Ghia Collective', 'direction': '0'}"
+49.26345,-123.1016089,artwork,Vancouver Summer Fun,"{'description': 'This wall drawing shows a scene on a beach. A woman holds up a beach ball. For the Vancouver Mural Festival 2017', 'artwork_type': 'mural', 'artist_name': 'Francis Tiffany', 'start_date': '2017', 'direction': '180'}"
+49.2631296,-123.1017915,artwork,Fierce like tigers,"{'description': 'A wall drawing showing a woman on a tiger and more. For the Vancouver Mural Festival 2017', 'artwork_type': 'mural', 'artist_name': 'Sandeep Johal', 'start_date': '2017', 'direction': '90'}"
+49.2616789,-123.1004854,artwork,Sunday Afternoon,"{'description': 'Artist Statement:\nThe mural depicts how people might spend their afternoon, camping or staying at home. They are reading books, playing badminton. cooking .... The mural is a reflection on summer exploring themes of nature and family.', 'artwork_type': 'mural', 'artist_name': 'Mengya Zhao', 'direction': '180'}"
+49.2630631,-123.1004926,artwork,Zhawenjigewin (Love in Anishinaabe),"{'description': 'A wall drawing of a couple hugging.', 'artwork_type': 'mural', 'artist_name': 'Sharifah Marsden;Corey Laroque', 'direction': '90'}"
+49.2623414,-123.1013995,artwork,The present is a gift,"{'description': 'A wall drawing spanning over two buildings. ""The present"" was painted by Jay Senetchko and ""is a gift"" was painted by Drew Young.\n\nFor the Vancouver Mural Festival 2016', 'artwork_type': 'mural', 'artist_name': 'Jay Senetchko;Drew Young', 'direction': '0'}"
+49.2635373,-123.1017014,artwork,Befriend Your Inner Demon,"{'description': 'Abstract patterns on a wall', 'artwork_type': 'mural', 'artist_name': 'Priscilla Yu', 'direction': '270'}"
+49.2662846,-123.101609,artwork,Eagle Opens Up,"{'artwork_type': 'mural', 'artist_name': 'Paul Windson', 'start_date': '2017', 'direction': '270'}"
+49.2665756,-123.1010154,artwork,In Loving Memory of Holden,"{'description': 'A graffiti that is visible from the parking lot', 'artwork_type': 'graffiti', 'direction': '270'}"
+49.2673883,-123.1011829,artwork,Stellars Jay,"{'description': 'A wall drawing of a bird\n\nFor the Mural Art Festival 2017', 'artwork_type': 'mural', 'artist_name': 'Carrielynn Victor', 'start_date': '2017', 'direction': '180'}"
+49.2672162,-123.1011114,artwork,Octo-maid,"{'description': 'A wall drawing of a mermaid and another mermaid with the tail of an octopus. This artwork spans over the East and the North side of a building.', 'artwork_type': 'mural', 'artist_name': '@amandasmartart', 'start_date': '2017'}"
+49.2706694,-123.0998442,artwork,Exhausting Machine,"{'description': 'This wall drawing shows a polar bear trapped in a red plastic bottle.\n\nFor the Vancouver Mural Festival 2016\n\nFor the Vancouver Mural Festival 2016', 'artist:wikidata': 'Q24336846', 'artwork_type': 'mural', 'artist_name': 'Nevercrew', 'start_date': '2016-08-17', 'direction': '280'}"
+49.2668434,-123.1022173,artwork,Studio View,"{'description': 'A large wall drawing that shows a room full of artworks.\n\nFor the Vancouver Mural Festival 2017', 'artwork_type': 'mural', 'artist_name': 'Andy Dixon', 'start_date': '2017', 'direction': '0'}"
+49.2670101,-123.1015396,artwork,Mermaid,"{'description': 'A wall drawing which shows a mermaid with the tail of an eel.\n\nFor the Vancouver Mural Festival 2017', 'artwork_type': 'mural', 'artist_name': 'Tia Rambaran', 'direction': '270'}"
+49.268129,-123.1012246,artwork,Guitarist,"{'description': 'A wall drawing that shows a man playing a guitar.\n\nFor the Vancouver Mural Festival 2017', 'artwork_type': 'mural', 'direction': '0'}"
+49.2670568,-123.1010213,artwork,Lady Mermaid,"{'artist_name': 'Lani Imre', 'artwork_type': 'mural', 'direction': '90'}"
+49.2633291,-123.1016095,artwork,Stay yummy,"{'description': 'For the Vancouver Mural Festival 2017', 'artwork_type': 'mural', 'artist_name': 'Brother Jopa', 'start_date': '2017', 'direction': '0'}"
+49.2708496,-123.098217,artwork,Knot Yourself,"{'artist_name': 'Katie So;Benjamin Knight', 'artwork_type': 'mural', 'direction': '90'}"
+49.2674582,-123.1015925,artwork,Holograph,"{'description': 'A wall drawing of colourful squares.\n\nFor the Vancouver Mural Festival', 'artwork_type': 'mural', 'artist_name': 'Jane Cheng', 'direction': '90'}"
+49.260426,-123.1016131,artwork,The jealous creator,"{'description': 'This wall painting shows a gray person holding an umbrella and a rainbow out of bubbles.\n\nIt was part of the Vancouver Mural Festival 2018.', 'artwork_type': 'mural', 'artist_name': 'Danielle Krysa', 'start_date': '2018', 'direction': '180'}"
+49.2414393,-123.1136561,artwork,Knife Edge Two Piece,"{'website': 'https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?FromArtworkSearch=True&ArtworkId=106', 'artwork_type': 'sculpture', 'material': 'bronze', 'artist_name': 'Henry Moore', 'start_date': '1969'}"
+49.24212,-123.1125027,artwork,Photo Session,"{'owner': 'City of Vancouver', 'website': 'https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=309', 'artwork_type': 'sculpture', 'artist_name': 'J. Seward Johnson, Jr', 'start_date': '1984'}"
+49.2624508,-123.252342,museum,Pacific Museum of Earth,"{'operator:type': 'university', 'website': 'https://pme.ubc.ca/', 'addr:housenumber': '6339', 'museum': 'nature', 'opening_hours': 'Mo-Fr 10:00-17:00; Sa, Su, PH off', 'addr:street': 'Stores Road', 'operator': 'UBC Faculty of Science'}"
+49.2401234,-123.1316279,artwork,Black Eagle canoe,{'artist_name': 'Bill Reid'}
+49.2405055,-123.1334363,artwork,Totem Poles,{'artwork_type': 'carving'}
+49.2093046,-123.116638,artwork,Simon Fraser,"{'website': 'https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?FromArtworkSearch=True&ArtworkId=624', 'material': 'bronze', 'artist_name': 'Ken Lum', 'website_1': 'https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=624', 'description': 'Modeled in the pose of Auguste Rodin’s The Thinker (1887-1889), Simon Fraser is a bronze sculpture created to celebrate and honour the explorer Simon Fraser. ', 'monument': 'statue', 'artwork_type': 'statue', 'start_date': '2015'}"
+49.2675429,-123.1192684,artwork,Acoustic Anvil: A Small Weight to Forge the Sea,"{'description': 'Acoustic Anvil: A Small Weight to Forge the Sea is the physical convergence of both real and imagined histories, relationships, and resonances that mark this seemingly silent site.', 'website': 'https://www.vancouverbiennale.com/artworks/acoustic-anvil-a-small-weight-to-forge-the-sea/', 'artwork_type': 'sculpture', 'material': 'steel', 'artist_name': 'Maskull Lasserre'}"
+49.1847151,-123.1386454,artwork,Water #10,"{'website': 'https://www.vancouverbiennale.com/artworks/water-10/', 'artwork_type': 'sculpture', 'material': 'steel', 'artist_name': 'Ren Jun'}"
+49.2086109,-123.1421478,artwork,Fushion,"{'website': 'https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?FromArtworkSearch=True&ArtworkId=589', 'artwork_type': 'sculpture', 'addr:street': 'Cornish Street', 'material': 'aluminium', 'artist_name': 'Susan Point', 'start_date': '2014'}"
+49.2719314,-123.1339405,artwork,Winches,"{'inscription': 'Built by Ideal Iron Wks Ltd Vancouver, B.C. Universal Type Winch No. 3', 'description': 'One of the many industrial artifacts on Granville Island that pay homage to the industrial area this was during the 20th century.', 'artwork_type': 'installation'}"
+49.2721894,-123.133701,attraction,The Relief,"{'description': 'A West Coast fishing vessel that is now permanently on display under the Granville Street Bridge.', 'website': 'https://granvilleisland.com/secrets/relief', 'start_date': '1929'}"
+49.2105524,-123.1168236,artwork,Golden Tree,"{'artwork_type': 'sculpture', 'highway': 'footway', 'artist_name': 'Douglas Coupland', 'start_date': '2016'}"
+49.2411172,-123.2270213,viewpoint,Simon Fraser Viewpoint,{}
+49.2675747,-123.1390502,artwork,100,"{'material': 'concrete', 'description': 'Vancouver Centennial', 'artwork_type': 'sculpture'}"
+49.2784178,-123.1081054,artwork,Roger Neison,{'artwork_type': 'statue'}
+49.278262,-123.1077265,artwork,Pat Quinn,{'artwork_type': 'statue'}
+49.2272023,-122.999902,gallery,Blue Lotus Art Gallery,"{'opening_hours': 'Mo-Sa 10:00-21:00; Su 10-18:00', 'website': 'https://www.bluelotusartgallery.com/', 'addr:housenumber': '4700', 'addr:street': 'Kingsway', 'phone': '+1-236-880-8804', 'level': '0'}"
+49.3083687,-123.0425034,artwork,George D. Kuhn,{'artwork_type': 'sculpture'}
+49.2756731,-123.1141853,artwork,Slow,{}
+49.3097161,-123.080438,artwork,Joe Bustemente Trumpet,"{'material': 'metal', 'artist_name': 'Richard Wojciechowski', 'artwork_type': 'sculpture'}"
+49.2766681,-123.1252237,artwork,Moving Pictures,"{'artwork_type': 'installation', 'material': 'steel', 'artist_name': 'Jill Anho', 'start_date': '2005'}"
+49.2820877,-123.1220363,artwork,Spring,"{'material': 'steel', 'artist_name': 'Chung Hung', 'artwork_type': 'sculpture'}"
+49.272617,-123.1869842,artwork,Frame - What do you see?,{}
+49.2736755,-123.092447,artwork,Roller,"{'description': 'A heritage Buffalo Springfield road roller that sat at the entrance of the old works yard forms the centrepiece of this sculptural tableau that includes silhouettes of men working. ', 'website': 'https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?FromArtworkSearch=False&ArtworkId=354', 'artwork_type': 'sculpture', 'website:stock': 'https://www.waymarking.com/waymarks/wm1153M_Buffalo_Springfield_Road_Roller_Vancouver_BC', 'artist_name': 'Richard Prince', 'start_date': '2004'}"
+49.2694844,-123.1078996,artwork,Nautika,{'artwork_type': 'sculpture'}
+49.2814752,-123.1222337,artwork,Joy of Freedom,"{'website': 'https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?FromArtworkSearch=True&ArtworkId=300', 'artwork_type': 'sculpture', 'material': 'bronze', 'artist_name': 'Geert Maas', 'start_date': '1995'}"
+49.2792769,-123.120145,artwork,Red Card,{'artwork_type': 'mural'}
+49.2393178,-123.129438,artwork,Departure,"{'material': 'bronze', 'artist_name': 'George Lundeen', 'artwork_type': 'sculpture'}"
+49.2725597,-123.115671,artwork,Time Top,"{'artwork_type': 'sculpture', 'material': 'bronze', 'artist_name': 'Jerry Pethick', 'start_date': '2006'}"
+49.2727388,-123.0868787,artwork,Project for a Public Works Yard,"{'artwork_type': 'sculpture', 'material': 'Concrete,_steel,_cast_iron', 'artist_name': 'Greg Snider', 'start_date': '2004'}"
+49.2731071,-123.0863524,artwork,The Firefighter,"{'artist_name': 'Lance A. Shook', 'start_date': '2007'}"
+49.2791671,-123.2336646,artwork,Anchor,"{'material': 'concrete', 'artist_name': 'Christel Fuoss-Moore', 'artwork_type': 'sculpture'}"
+49.2627852,-123.1023371,gallery,Hill's Native Ar Gallerty,"{'opening_hours': 'Su-Sa 10:00-19:00', 'website': 'http://www.hills.ca/hill-s-native-art-gallery-vancouver-18.html', 'addr:housenumber': '120', 'addr:street': 'East Broadway', 'phone': '+1-604-685-4249'}"
+49.2798685,-123.1034043,artwork,Dr. Sun Yat-Sen,{'artwork_type': 'bust'}
+49.2769548,-123.0808534,artwork,La Casa Gelato,{'artwork_type': 'mural'}
+49.2003658,-123.1137858,artwork,Working River,"{'artist_name': 'Slyvia Grace Borda', 'artwork_type': 'installation', 'start_date': '2011'}"
+49.2662475,-123.2507283,artwork,The Shadow,"{'artist_name': 'Esther Shalev-Gerz', 'website': 'https://infrastructuredevelopment.ubc.ca/projects/the-shadow/', 'artwork_type': 'installation'}"
+49.2765511,-123.0704529,gallery,Slice of Life,"{'website': 'https://sliceoflifevancouver.com/', 'addr:housenumber': '1636', 'addr:street': 'Venables Street'}"
+49.298936,-123.120544,artwork,Shore to Shore,"{'description': 'Luke Marston’s sculpture, Shore to Shore, stands at the site of his family’s ancestral village site X̲wáýx̲way, and celebrates Portuguese adventurer Joe Silvey (“Portuguese Joe”) as well as his first and second Coast Salish wives, Khaltinaht and Kwatleema', 'website': 'http://shoretoshore.ca/', 'artwork_type': 'sculpture', 'material': 'bronze', 'artist_name': 'Luke Marston', 'wikidata': 'Q105030144'}"
+49.2544087,-123.197639,attraction,Camosun Bog | xʷməm̓qʷe:m,"{'description': 'A close up look at 3,000 year old bog on the edge of Vancouver.', 'website': 'http://camosunbog.ca/', 'operator': 'Metro Vancouver Parks', 'fee': 'no'}"
+49.2568915,-123.119905,gallery,Superette Studio,"{'website': 'https://thesuperettestudio.com/', 'addr:housenumber': '698', 'addr:street': 'West 16th Avenue'}"
+49.2671461,-123.2563786,artwork,Tuning Fork,"{'website': 'https://belkin.ubc.ca/collections/#gerhard-class-tuning-fork', 'artwork_type': 'sculpture', 'material': 'steel', 'artist_name': 'Gerhard Class', 'start_date': '1968'}"
+49.2099239,-123.140498,artwork,Musqueam Artist-Designed Crosswalk,"{'website': 'https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?FromArtworkSearch=True&ArtworkId=824', 'material': 'Preformed_thermoplastic', 'artist_name': 'Robyn Sparrow', 'start_date': '2019'}"
+49.2098809,-123.14067,artwork,Musqueam Artist-Designed Crosswalk,"{'website': 'https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?FromArtworkSearch=True&ArtworkId=824', 'material': 'Preformed_thermoplastic', 'artist_name': 'Robyn Sparrow', 'start_date': '2019'}"
+49.2732979,-123.0741776,artwork,Mosaic Creek,{'artwork_type': 'mosaic'}
+49.2889424,-123.1258981,artwork,Need,"{'artist_name': 'Kambiz Sharif', 'artwork_type': 'sculpture'}"
+49.2517944,-123.0659156,artwork,"Koco, Brewers Park, August 11, 2019","{'artist_name': 'Peter Gazendam', 'description': '2020'}"
+49.2740665,-123.1307869,artwork,Spinning Chandelier,"{'description': ""The artwork spins daily at noon, 4 pm, and 9 pm. The entire cycle lasts for about four minutes. The first minute involves the chandelier's slow descent, two minutes of spinning, and the final minute is for the slow ascent of the artwork's return to its or"", 'website': 'https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?FromArtworkSearch=True&ArtworkId=823', 'artwork_type': 'sculpture', 'artist_name': 'Rodney Graham'}"
+49.2276311,-123.0069274,artwork,Bay Bébé II,"{'artist_name': 'Joe Fafard', 'artwork_type': 'sculpture', 'survey:date': '2020-11-05'}"
+49.2276305,-123.0068912,artwork,Evangeline,"{'artist_name': 'Joe Fafard', 'artwork_type': 'sculpture', 'survey:date': '2020-11-05'}"
+49.2756872,-123.1307687,artwork,Erasmus Weathervane,"{'year': '2008', 'artist_name': 'Rodney Graham'}"
+49.2092261,-123.1168627,artwork,Fraser River Stories,"{'website': 'https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?FromArtworkSearch=True&ArtworkId=658', 'artwork_type': 'streetart', 'artist_name': 'Geoffrey Farmer, Every Letter of the Alphabet Printing Ltd.', 'start_date': '2015'}"
+49.2118333,-123.1068367,artwork,Infinite Tire,"{'website': 'https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?FromArtworkSearch=True&ArtworkId=526', 'artwork_type': 'sculpture', 'artist_name': 'Douglas Coupland', 'start_date': '2012'}"
+49.209396,-123.1161508,artwork,Ebb and Flow,"{'website': 'https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?FromArtworkSearch=True&ArtworkId=659', 'artwork_type': 'installation', 'artist_name': 'Urban Visuals', 'start_date': '2015', 'height': '55'}"
+49.2098088,-123.140504,artwork,Musqueam Artist-Designed Crosswalk,"{'website': 'https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?FromArtworkSearch=True&ArtworkId=824', 'material': 'Preformed_thermoplastic', 'artist_name': 'Robyn Sparrow', 'start_date': '2019'}"
+49.2100365,-123.1164655,artwork,Salish Gifts,"{'website': 'https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?FromArtworkSearch=True&ArtworkId=626', 'artwork_type': 'carving', 'artist_name': 'Susan Point', 'start_date': '2015'}"
+49.2904309,-123.1460422,artwork,David Oppenheimer,"{'website': 'https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?FromArtworkSearch=False&ArtworkId=103', 'artwork_type': 'bust', 'material': 'bronze', 'artist_name': 'Charles Marega', 'start_date': '1911'}"
+49.2884051,-123.1155773,artwork,World Globe,"{'artist_name': 'Orbis World Globes', 'artwork_type': 'installation'}"
+49.3055488,-123.018765,artwork,Air,"{'material': 'metal', 'artwork_type': 'sculpture'}"
+49.2991349,-123.1207516,artwork,Chief Skedans,"{'design:year': '1964', 'historic': 'memorial', 'memorial': 'totem_pole', 'artwork_type': 'totem_pole', 'artist_name': 'Bill Reid'}"
+49.2991868,-123.1207571,artwork,Ga'akstalas,"{'design:year': '1991', 'description': ""Ga'akstalas, carved by Wayne Alfred and Beau Dick in1991, is based on a design by Russel Smith. The pole depicts many important figures in Kwakwada'wakw culture. Red Cedar-bark Man is an ancestor who survived the great flood and gave the people..."", 'historic': 'memorial', 'memorial': 'totem_pole', 'artwork_type': 'totem_pole', 'artist_name': 'Wayne Alfred'}"
+49.2992088,-123.1208487,artwork,Thunderbird House Post,"{'design:year': '1987', 'description': ""Carved house posts are used in traditional First Nations cedar houses to support the huge roof beams. This pole is a replica of a house post carved by Kwakwaka'wakw artist Charlie James in the early 1900s. Tony Hunt carved this replica in 1987..."", 'historic': 'memorial', 'memorial': 'totem_pole', 'artwork_type': 'totem_pole', 'artist_name': 'Tony Hunt'}"
+49.2992499,-123.1209187,artwork,Kakaso'Las,"{'design:year': '1955', 'description': ""Kwakwaka'wakw carver Ellen Neel and her uncle Mungo Martin were among the first artists to achieve wide recognition for their totem poles commissioned by museums, cities, and art collectors..."", 'historic': 'memorial', 'memorial': 'totem_pole', 'artwork_type': 'totem_pole', 'artist_name': 'Ellen Neel'}"
+49.2993236,-123.120892,artwork,Oscar Maltipi,"{'design:year': '1987', 'description': ""First nations origin stories tell of the animals and supernatural beings who helped found family lineages. These stories are celebrated in songs, dances, and totem pole carvings. Kwakwaka'wakw artist Oscar Maltipi carved this pole in 1968..."", 'historic': 'memorial', 'memorial': 'totem_pole', 'artwork_type': 'totem_pole', 'artist_name': 'Bill Reid'}"
+49.2993202,-123.1207704,artwork,Chief Wakas,"{'design:year': '1987', 'description': ""In kwakwaka'wakw (kwakiutl) ceremonies, carved staffs called talking sticks are held by people making important speeches on behalf of a chief. This pole represents the talking stick and characters in an Owikeno story belonging to Chief Wakas..."", 'historic': 'memorial', 'memorial': 'totem_pole', 'artwork_type': 'totem_pole', 'artist_name': 'Doug Cranmer'}"
+49.299372,-123.120777,artwork,Beaver Crest,"{'design:year': '1987', 'description': ""Carved in 1987 by Nisga'a artist Norman Tait along with his son Isaac, brother Robert, and nephew Ron Telek, this pole depicts how the Tait family's Eagle clan adopted the beaver as their crest, and how the eagle and raven met and shared the sky..."", 'historic': 'memorial', 'memorial': 'totem_pole', 'artwork_type': 'totem_pole', 'artist_name': 'Norman Tait'}"
+49.2992636,-123.1207594,artwork,Sky Chief,"{'design:year': '1988', 'description': 'Hesquiat artist Tim Paul and Ditidaht artist Art Thompson carved this pole in 1988 to represent important characters in Nuu-chah-nulth history.', 'historic': 'memorial', 'memorial': 'totem_pole', 'artwork_type': 'totem_pole', 'artist_name': 'Tim Paul;Art Thompson'}"
+49.2713974,-123.1064762,artwork,The Birds,"{'note': 'Giant Sparrows', 'artist_name': 'Myfanwy MacLeod', 'artwork_type': 'sculpture'}"
+49.2715929,-123.1907172,artwork,Continuity,"{'year': '1978', 'artist_name': 'Letha Keate'}"
+49.2718501,-123.1813625,artwork,Vancouver Novel,"{'description': 'Inspired by the Vancouver Biennale’s 2014-2016 exhibition theme Open Borders / Crossroads Vancouver, Vancouver Novel by João Loureiro explores the shifting boundaries between public and private life in an era marked by social media and reality TV.  Situat', 'website': 'https://www.vancouverbiennale.com/artworks/vancouver-novel/', 'artwork_type': 'installation', 'material': 'metal', 'artist_name': 'João Loureiro'}"
+49.2636932,-123.003621,artwork,Tick,"{'description': 'Checkmark', 'artwork_type': 'sculpture', 'artist_name': 'Reece Terris', 'start_date': '2020'}"
+49.2714666,-123.1329786,artwork,Giants,"{'artist_name': 'OSGEMEOS (Gustavo and Otávio Pandolfo)', 'website': 'https://www.vancouverbiennale.com/artworks/giants/', 'artwork_type': 'mural'}"
+49.2823425,-123.12117,artwork,Weekend Chime,"{'artist_name': 'Brady Cranfield', 'artwork_type': 'installation'}"
+49.2710517,-123.1337282,artwork,Ocean Commotion,"{'description': 'Kinetic Sculpture', 'artwork_type': 'sculpture'}"
+49.2713674,-123.1203584,artwork,The Proud Yourh,{'artist_name': 'Chen Wenling'}
+49.2432545,-123.0610862,artwork,108 Steps,"{'website': 'https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?FromArtworkSearch=True&ArtworkId=787', 'artwork_type': 'installation', 'material': 'steel', 'artist_name': 'Khan Lee'}"
+49.2757412,-123.0542607,gallery,East Van Tiny Gallery,{}
+49.2713644,-123.1460089,artwork,Sopa SUR,"{'material': 'stone', 'artist_name': 'Roberto Palomino and Oparin Ortiz', 'artwork_type': 'installation'}"
+49.2710551,-123.12282,artwork,Brush With Illumination,"{'description': 'It resembles a calligraphy brush poised to write on the water, the handle made of solar panels, and the point illuminates at night. The sculpture rides the water up and down as the tides change.', 'website': 'http://www.bustersimpson.net/brushwithillumination/', 'artwork_type': 'sculpture', 'material': 'steel', 'artist_name': 'Buster Simpson', 'start_date': '1998'}"
+49.2706309,-123.0847357,gallery,Sid Dickens Inc,"{'addr:province': 'BC', 'addr:housenumber': '865', 'addr:street': 'Terminal Avenue', 'addr:city': 'Vancouver'}"
+49.2805935,-123.1400978,artwork,Barge Chilling Beach,"{'inscription': 'Barge Chilling Beach', 'artwork_type': 'installation', 'man_made': 'sign', 'operator': 'Vancouver Park Board'}"
+49.304258,-123.0021527,viewpoint,Osprey Point,{}
+49.2837996,-123.1195399,artwork,"Broken Column, (Pendulum)","{'level': '-1', 'artwork_type': 'installation'}"
+49.2789539,-123.120968,artwork,Haida Eagle and Frog Totem Pole,"{'website': 'https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?FromArtworkSearch=True&ArtworkId=391', 'artwork_type': 'sculpture', 'material': 'wood', 'artist_name': 'Bill Reid'}"
+49.2772034,-123.12973,artwork,Idea for a Trellis,"{'website': 'https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?FromArtworkSearch=True&ArtworkId=567', 'artwork_type': 'installation', 'material': 'Aluminum', 'artist_name': 'Rhonda Weppler, Trevor Mahovsky'}"
+49.2715369,-123.1299779,artwork,Khenko,"{'website': 'https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?FromArtworkSearch=True&ArtworkId=423', 'artwork_type': 'installation', 'artist_name': 'Doug Taylor', 'start_date': '2006'}"
+49.2703389,-123.2537598,artwork,House Post of qiyǝplenǝxʷ,"{'website': 'https://students.ubc.ca/ubclife/house-post-capilano', 'start_date': '2012-03-20'}"
+49.2682895,-123.2560496,artwork,Wood for the People,"{'website': 'https://belkin.ubc.ca/collections/#myfanwy-macleod-wood-for-the-people', 'artwork_type': 'installation', 'material': 'concrete', 'artist_name': 'Myfanwy MacLeod', 'start_date': '2002'}"
+49.2610813,-123.2506644,artwork,Man about to Plant Alfalfa,"{'website': 'https://belkin.ubc.ca/collections/#george-norris-man-about-to-plant-alfalfa', 'artwork_type': 'installation', 'material': 'granite', 'artist_name': 'George Norris'}"
+49.2684398,-123.2574906,artwork,Transcendence,"{'artist_name': 'Jack Harman', 'artwork_type': 'installation', 'start_date': '1961'}"
+49.2679404,-123.255894,artwork,Three Forms,"{'artwork_type': 'sculpture', 'material': 'concrete', 'artist_name': 'Robert Clothier', 'start_date': '1956'}"
+49.2639599,-123.246954,artwork,Mother and Child,"{'artwork_type': 'statue', 'material': 'bronze', 'artist_name': 'George Norris', 'start_date': '1955'}"
+49.2813825,-123.1415557,attraction,Barge on the beach,"{'description': 'Barge chilling on the beach', 'operator': 'Sentry Marine'}"
+49.2482309,-123.243057,viewpoint,Old Marine Drive Viewpoint,{'direction': '-155'}
+49.2695175,-123.1398156,attraction,The Waterfall,"{'level:ref': 'L2', 'fountain': 'waterfall', 'lit': 'yes', 'amenity': 'fountain', 'covered': 'yes', 'drinking_water': 'no', 'operator': 'The Waterfall Building'}"
+49.2873485,-123.1419766,artwork,Davie,{'artwork_type': 'statue'}
+49.2757404,-123.0542616,gallery,East Van Tiny Gallery,{}
+49.2680809,-123.0246744,museum,Deeley Motorcycle Exhibition,"{'opening_hours': 'Tu-Sa 10:00-17:00', 'website': 'https://deeleyexhibition.ca/', 'museum': 'transport', 'phone': '+1-604-293-2221'}"
+49.2709662,-123.1362166,museum,Ukama Gallery,"{'addr:housenumber': '1802', 'fee': 'no', 'addr:street': 'Maritime Mews'}"
+49.2761388,-123.1308345,museum,Leslie House,"{'opening_hours:signed': 'no', 'addr:province': 'BC', 'check_date:opening_hours': '2022-09-10', 'addr:city': 'Vancouver'}"
+49.2982413,-123.1180949,viewpoint,Viewpoint Vancouver,{}
+49.2361873,-123.1164087,gallery,Free Little Art Gallery,"{'addr:housenumber': '5425', 'addr:street': 'Cambie Street', 'contact:instagram': 'flagcambiecommonsyvr', 'addr:postcode': 'V5Z 2Z9'}"
+49.2886967,-123.1188975,artwork,Capturing the View,{'artwork_type': 'sculpture'}

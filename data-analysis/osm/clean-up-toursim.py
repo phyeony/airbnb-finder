@@ -7,9 +7,8 @@ df = pd.read_json(
 #%%
 df['type'].unique()
 
-# array(['artwork', 'museum', 'attraction', 'viewpoint', 'gallery',
-#        'guest_house', 'house', 'camp_site', 'Plane_Spotting_Platform',
-#        'wilderness_hut'], dtype=object)
+# array(['artwork', 'attraction', 'museum', 'guest_house', 'viewpoint', 
+# 'gallery', 'Plane_Spotting_Platform'], dtype=object)
 
 # TODO: delete
 # Delete 'guest_house'
@@ -25,17 +24,25 @@ count = unnested_df.groupby(['type'])['type'].count()
 
 # type
 # Plane_Spotting_Platform      1
-# artwork                    200
-# attraction                  26
-# camp_site                    1
-# gallery                     20
-# guest_house                 18
-# house                        1
-# museum                      16
-# viewpoint                   40
-# wilderness_hut               1
+# artwork                    183
+# attraction                  19
+# gallery                     12
+# guest_house                 16
+# museum                       9
+# viewpoint                   15
 # Name: type, dtype: int64
 
+tourism_condition = (
+    (df["type"] == "artwork")
+    | (df["type"] == "attraction")
+    | (df["type"] == "museum")
+    | (df["type"] == "viewpoint")
+    | (df["type"] == "gallery")
+    | (df["type"] == "Plane_Spotting_Platform")
+)
+
+tourism_df = df[tourism_condition]
+
 #%%
-unnested_df.to_csv("cleaned_tourism_amenities.csv", index=False)
+tourism_df.to_csv("cleaned_tourism_amenities.csv", index=False)
 # %%
