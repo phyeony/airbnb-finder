@@ -1,0 +1,167 @@
+lat,lon,type,name,tags
+49.2152943,-123.0664712,sports_centre,Fraserview Boys and Girls Club,"{'is_in': 'Vancouver, BC'}"
+49.2437503,-123.1069944,swimming_pool,Hillcrest Aquatic Centre,"{'addr:housenumber': '4575', 'addr:street': 'Clancy Loranger Way', 'addr:city': 'Vancouver'}"
+49.2632569,-123.1277035,dance,Broadway Ballroom,{}
+49.2218377,-123.005542,fitness_centre,Coastline Fitness Club,"{'website': 'https://www.coastlinefitnessclub.com/', 'addr:housenumber': '4388', 'addr:street': 'Imperial Street', 'phone': '+1-604-760-1032', 'email': 'info@coastlinefitnessclub.com'}"
+49.2329487,-123.156726,swimming_pool,Kerrisdale Pool,"{'location': 'indoor', 'access': 'yes', 'source': 'http://vancouver.ca/parks-recreation-culture/kerrisdale-pool.aspx', 'sport': 'swimming', 'operator': 'City of Vancouver', 'covered': 'yes'}"
+49.2331764,-123.156574,sports_centre,Kerrisdale Community Centre,"{'addr:housenumber': '5851', 'source': 'http://www.kerrisdalecc.com/', 'addr:street': 'West Boulevard', 'addr:postcode': 'V6M 3W9'}"
+49.2805916,-123.1207429,music_venue,Commodore Ballroom,"{'website': 'http://www.commodoreballroom.ca/', 'amenity': 'nightclub', 'check_date:opening_hours': '2022-11-05', 'source': 'website', 'addr:postcode': 'V6Z 1K3', 'capacity': '990', 'addr:city': 'Vancouver', 'opening_hours:signed': 'no', 'addr:housenumber': '868', 'phone': '+1-604-739-4550', 'old_name': 'Commodore Cabaret', 'wikipedia': 'en:Commodore Ballroom', 'addr:street': 'Granville Street', 'wikidata': 'Q5153212', 'start_date': '1929'}"
+49.2901587,-123.1359658,ice_rink,West End Ice Rink,"{'addr:housenumber': '1750', 'addr:street': 'Haro Street', 'addr:city': 'Vancouver'}"
+49.2259009,-123.0212669,fitness_station,Hip,"{'sport': 'fitness', 'ref': '10'}"
+49.2238594,-123.0206428,fitness_station,Springer,"{'sport': 'fitness', 'ref': '9'}"
+49.225708,-123.0138693,fitness_station,Cross,"{'fitness_station': 'equipment', 'sport': 'fitness', 'ref': '6'}"
+49.2261896,-123.0205031,fitness_station,Sit Up,"{'sport': 'fitness', 'ref': '11'}"
+49.2306184,-123.0183601,fitness_station,Air Walker,"{'sport': 'fitness', 'ref': '2'}"
+49.2308385,-123.0180891,fitness_station,Chest,"{'sport': 'fitness', 'ref': '3'}"
+49.2305499,-123.0184513,fitness_station,Strech,"{'sport': 'fitness', 'ref': '1'}"
+49.2300973,-123.0191342,fitness_station,Twister,"{'sport': 'fitness', 'ref': '12'}"
+49.2218292,-122.994343,dance,World Dance,"{'website': 'https://worlddanceco.com/', 'addr:housenumber': '4858', 'addr:street': 'Imperial Street', 'dance:teaching': 'yes', 'phone': '+1-604-517-4644', 'email': 'grupoamerica@shaw.ca'}"
+49.2802944,-123.10065,sports_centre,STRETCH Yoga Studio,"{'wheelchair': 'no', 'website': 'https://www.stretchvancouver.com/', 'addr:housenumber': '180', 'phone': '+1-778-819-6488', 'addr:street': 'East Pender Street', 'addr:postcode': 'V6A 1T3', 'addr:city': 'Vancouver'}"
+49.2764156,-123.1142451,sports_centre,Cycklus,{'sport': 'spinning'}
+49.2585162,-123.1419828,pitch,Granville Park Lawn Bowls Club,"{'surface': 'grass', 'sport': 'Lawn_bowling', 'lit': 'yes'}"
+49.2809746,-123.0477617,fitness_centre,Oxygen Yoga & Fitness,"{'addr:housenumber': '2760', 'addr:street': 'East Hastings Street'}"
+49.2706788,-123.1085872,playground,Athlete's Village Housing Co-operative Courtyard,{'access': 'private'}
+49.2833213,-123.116582,fitness_centre,Fitness World Granville Signature,"{'addr:province': 'BC', 'website': 'https://www.fitnessworld.ca/locations/granville-signature/', 'addr:housenumber': '610', 'phone': '+1-604-558-4963', 'opening_hours': 'Mo-Th 05:30-22:00; Fr 05:30-20:00; Sa-Su 08:00-20:00', 'name:en': 'Fitness World Granville Signature', 'addr:street': 'Granville Street', 'brand': 'Fitness World', 'addr:postcode': 'V6C 1X6', 'addr:city': 'Vancouver'}"
+49.2812294,-123.124197,fitness_centre,Club Pilates,"{'brand:wikidata': 'Q109328844', 'addr:province': 'BC', 'addr:housenumber': '941', 'phone': '+1-604-332-3288', 'brand:wikipedia': 'en:FedEx', 'opening_hours': 'Mo-Th 06:00-21:00, Fr 06:00-19:00,Sa-Su 08:00-13:00', 'operator:wikipedia': 'en:FedEx', 'addr:street': 'Hornby Street', 'sport': 'pilates', 'brand': 'Club Pilates', 'addr:postcode': 'V6Z1K3', 'addr:city': 'Vancouver'}"
+49.2443981,-123.1076021,ice_rink,Vancouver Curling Club,"{'website': 'https://www.vancurl.com/', 'addr:housenumber': '4575', 'phone': '+1-604-874-0122', 'addr:street': 'Clancy Loranger Way', 'sport': 'curling', 'addr:postcode': 'V5Y 2M4', 'addr:city': 'Vancouver'}"
+49.2428164,-123.1081648,pitch,Pacific Indoor Bowls Club,"{'website': 'http://www.pacificindoor.ca/', 'addr:housenumber': '4588', 'phone': '+1-604-874-2817', 'addr:street': 'Clancy Loranger Way', 'sport': 'bowls', 'addr:postcode': 'V5Y 4B6', 'addr:city': 'Vancouver'}"
+49.2429565,-123.1086046,pitch,Vancouver Phoenix Gymnastics,"{'website': 'https://www.phoenixgymnastics.com/', 'addr:housenumber': '4588', 'phone': '+1-604-737-7693', 'addr:street': 'Clancy Loranger Way', 'sport': 'gymnastics', 'addr:postcode': 'V5Y 4B6', 'addr:city': 'Vancouver'}"
+49.2779044,-123.1253128,escape_game,i-Exit,"{'addr:province': 'BC', 'website': 'https://www.i-exit.com/', 'addr:housenumber': '1129', 'phone': '+1-778-379-8828', 'fee': 'yes', 'addr:street': 'Granville Street', 'addr:city': 'Vancouver'}"
+49.2769727,-123.1256655,dance,The Dance Centre,"{'website': 'https://thedancecentre.ca/', 'addr:housenumber': '677', 'addr:street': 'Davie Street', 'addr:postcode': 'V6B 2G6', 'addr:unit': 'Level 6', 'addr:city': 'Vancouver'}"
+49.2793334,-123.119584,fitness_centre,Oxygen Yoga & Fitness,"{'addr:province': 'BC', 'addr:housenumber': '525', 'phone': '+1-604-620-0062', 'opening_hours': '""whenever there is a class""', 'addr:street': 'Smithe Street', 'sport': 'yoga', 'addr:city': 'Vancouver'}"
+49.2755348,-123.139113,marina,Burrard Civic Marina,"{'seamark:type': 'harbour', 'seamark:harbour:category': 'marina'}"
+49.2743693,-123.137788,marina,Burrard Civic Marina,"{'seamark:type': 'harbour', 'seamark:harbour:category': 'marina'}"
+49.2726574,-123.116763,marina,Marina Office,"{'seamark:type': 'harbour', 'seamark:harbour:category': 'marina'}"
+49.2775094,-123.127376,fitness_centre,Fitness World,"{'addr:province': 'BC', 'addr:housenumber': '1214', 'addr:street': 'Howe Street', 'addr:city': 'Vancouver'}"
+49.2682497,-123.148496,fitness_centre,Yyoga,{'sport': 'yoga'}
+49.259836,-123.1215369,park,Vancouver General Hospital Playground,{}
+49.2818536,-123.0876828,hackerspace,MakerLabs,"{'website': 'https://www.makerlabs.com/', 'addr:housenumber': '780', 'addr:street': 'East Cordova Street', 'addr:postcode': 'V6A 1M3'}"
+49.3062966,-123.011812,sports_centre,The Hive,"{'website': 'http://www.hiveclimbing.com/northshore/', 'addr:housenumber': '2270', 'phone': '+1 604 683 4483', 'name:en': 'The Hive North Shore', 'addr:street': 'Dollarton Highway', 'sport': 'rock_climbing', 'addr:postcode': 'V7H 1A8', 'addr:unit': '140', 'addr:city': 'North Vancouver'}"
+49.2750611,-123.121079,fitness_centre,SoulCycle,"{'brand:wikidata': 'Q17084730', 'addr:housenumber': '1128', 'addr:street': 'Mainland Street', 'sport': 'cycling', 'brand': 'SoulCycle', 'brand:wikipedia': 'en:SoulCycle'}"
+49.2807938,-123.120437,bowling_alley,Commodore Bowling & Billards,"{'opening_hours:signed': 'no', 'check_date:opening_hours': '2022-11-05', 'addr:housenumber': '838', 'addr:street': 'Granville Street', 'addr:city': 'Vancouver'}"
+49.2672756,-123.114221,fitness_centre,Anytime Fitness,"{'brand:wikidata': 'Q4778364', 'addr:province': 'BC', 'addr:housenumber': '489', 'brand:wikipedia': 'en:Anytime Fitness', 'opening_hours': '24/7', 'addr:street': 'West 2nd Avenue', 'brand': 'Anytime Fitness', 'addr:city': 'Vancouver'}"
+49.2636751,-123.1539075,fitness_centre,Steve Nash Fitness,{}
+49.2636556,-123.1515586,fitness_centre,Better Bodies,{}
+49.1875937,-123.1112383,fitness_centre,Club 16 Trevor Linden Fitness,"{'addr:province': 'BC', 'addr:housenumber': '10251', 'addr:street': 'Saint Edwards Drive', 'addr:city': 'Richmond'}"
+49.1870113,-123.0781222,sports_centre,Apex Adventure Plex,"{'website': 'http://apexadventureplex.com/richmond/', 'addr:housenumber': '3810', 'phone': '+1-604-394-2013', 'addr:street': 'Jacombs Road', 'sport': 'gymnastics', 'addr:postcode': 'V6V 1Y6', 'email': 'richmond@apexadventureplex.com'}"
+49.2608251,-123.1173006,fitness_centre,Steve Nash Fitness World Cambie,"{'name:fr': 'Steve Nash Fitness World Cambie', 'addr:housenumber': '555', 'addr:street': 'West 12th Avenue', 'addr:postcode': 'V5Z 4B4'}"
+49.1805909,-123.1386969,fitness_centre,Drive Badminton Centre,"{'opening_hours': 'Mo-Fr 09:00-00:30; Sa 09:00-23:00; Su 09:00-18:00', 'phone': '+1-604-285-2638', 'name:en': 'Drive Badminton Centre'}"
+49.2096535,-123.1157082,fitness_centre,Steve Nash Fitness,"{'addr:housenumber': '452', 'addr:street': 'SW Marine Drive', 'phone': '+1-604-630-0414', 'level': '1', 'addr:postcode': 'V5X 0C3', 'addr:city': 'Vancouver'}"
+49.2269756,-122.99981,fitness_centre,ProfessioNAIL,{'level': '0'}
+49.2285117,-123.00452,fitness_centre,Vivian Beauty Spa,"{'addr:housenumber': '4500', 'name:en': 'Vivian Beauty Spa', 'addr:street': 'Kingsway', 'level': '1', 'addr:unit': '1608'}"
+49.2801833,-123.1073066,fitness_centre,Hybrid Training,{'name:en': 'Hybrid Training'}
+49.280725,-123.106636,escape_game,Find + Seek,"{'website': 'https://www.gofindandseek.com/', 'addr:housenumber': '88', 'phone': '+1-778-379-7727', 'level': '1', 'addr:street': 'West Pender Street', 'email': 'info@gofindandseek.com', 'addr:unit': '2075'}"
+49.2804086,-123.107215,fitness_centre,West Coast Shiatau Clinic,{'name:en': 'West Coast Shiatau Clinic'}
+49.2803123,-123.1071187,fitness_centre,Naturopathic,{'name:en': 'Naturopathic'}
+49.2292091,-123.005358,fitness_centre,Lin Spa,"{'addr:housenumber': '4500', 'name:en': 'Lin Spa', 'addr:street': 'Kingsway', 'addr:unit': '2221'}"
+49.2314519,-123.005166,bowling_alley,Old Orchard Lanes,"{'addr:housenumber': '4429', 'addr:street': 'Kingsway', 'phone': '+1-604-434-7644', 'level': '-1', 'addr:city': 'Burnaby'}"
+49.2293767,-123.0047048,fitness_centre,Crystal Point,{'name:en': 'Crystal Point'}
+49.2294217,-123.0018185,fitness_centre,Ping Ping,{'name:en': 'Ping Ping'}
+49.2303628,-123.0040853,fitness_centre,GoodLife Fitness,"{'brand:wikidata': 'Q3110654', 'website': 'https://www.goodlifefitness.com/clubs/club.243.html', 'addr:housenumber': '4501', 'phone': '+1-604-419-0222', 'level': '1', 'brand:wikipedia': 'en:GoodLife Fitness', 'opening_hours': 'Mo-Fr 06:00-23:30; Sa-Su 08:30-20:30', 'name:en': 'GoodLife Fitness', 'addr:street': 'Kingsway', 'sport': 'cycling;fitness', 'brand': 'GoodLife Fitness', 'email': 'burnabysovereign@goodlifefitness.com'}"
+49.2679861,-123.1863091,fitness_centre,Mokhsa Yoga Studio,{'name:en': 'Mokhsa Yoga Studio'}
+49.2411195,-123.1060014,fitness_centre,Squash BC,"{'addr:housenumber': '4867', 'name:en': 'Squash BC', 'addr:street': 'Ontario Street', 'phone': '+1-604-737-3084', 'addr:postcode': 'V5V 3H4'}"
+49.2276827,-123.1168099,fitness_centre,Oakridge Physiotherapy Centre,"{'addr:housenumber': '6317', 'addr:street': 'Cambie Street', 'healthcare': 'physiotherapist', 'addr:city': 'Vancouver'}"
+49.2638556,-123.1135564,fitness_centre,Original Yin Qi Gong Gym,"{'opening_hours': 'Tu,We,Fr 17:30-19:30, We,Th 11:00-13:00', 'addr:housenumber': '434', 'name:en': 'Original Yin Qi Gong Gym', 'addr:street': 'West 8th Avenue', 'phone': '+1-604-789-0168'}"
+49.1781063,-123.122433,fitness_centre,Oxygen Yoga and Fitness,"{'opening_hours:signed': 'no', 'addr:province': 'BC', 'addr:housenumber': '4771', 'addr:street': 'McClelland Road', 'sport': 'yoga', 'addr:unit': '1445', 'addr:city': 'Richmond'}"
+49.2436423,-123.1077661,fitness_centre,Hillcrest Fitness Centre,{}
+49.2383596,-123.051263,garden,Norquay Garden,{'description': 'A community initiative between Together We Can and Fresh Roots'}
+49.1967169,-123.094165,dance,Crystal Ballroom,"{'phone': '+1-604-285-1011', 'addr:postcode': 'V6X 1Z7', 'website': 'http://www.crystalballroom.ca'}"
+49.2831779,-123.1069415,escape_game,SmartyPantz,"{'payment:mastercard': 'yes', 'payment:american_express': 'yes', 'website': 'https://smartypantz.ca/', 'addr:housenumber': '289', 'phone': '+1-604-974-9293', 'opening_hours': 'Mo-Th 14:30-22:00; Fr 14:00-23:00; Sa 11:30-23:00; Su 11:30-21:00', 'addr:street': 'Abbott Street', 'payment:visa': 'yes', 'addr:postcode': 'V6B 2K7', 'addr:unit': '100', 'addr:city': 'Vancouver'}"
+49.2683734,-123.2491659,fitness_centre,UBC Bird Coop,{'sport': 'gymnastics'}
+49.2677503,-123.249768,fitness_centre,The ARC,{'sport': 'gymnastics'}
+49.2493401,-123.0751195,fitness_centre,Anytime Fitness,"{'brand:wikidata': 'Q4778364', 'opening_hours': '24/7', 'note': 'Website: https://www.anytimefitness.com/gyms/2946/vancouver-bc-v5n-5z2/', 'brand': 'Anytime Fitness', 'brand:wikipedia': 'en:Anytime Fitness'}"
+49.2383778,-123.1362325,garden,Medicine Wheel,{}
+49.288696,-123.123402,fitness_centre,Fit4Less,"{'brand:wikidata': 'Q64821050', 'website': 'https://fit4less.ca/', 'addr:housenumber': '1201 #100', 'phone': '+1-604-643-0481', 'opening_hours': '24/7', 'addr:street': 'West Pender Street', 'brand': 'Fit4Less', 'addr:postcode': 'V6E 2V2'}"
+49.2768589,-123.0725838,hackerspace,Vancouver Hack Space,"{'website': 'https://vanhack.ca', 'addr:housenumber': '1601', 'addr:street': 'Venables Street', 'addr:postcode': 'V5L 2H1', 'amenity': 'leisure'}"
+49.268443,-123.1650105,fitness_centre,Lagree West,"{'website': 'https://www.lagreewest.com/', 'addr:housenumber': '2625', 'addr:street': 'West 4th Avenue', 'phone': '+1-236-521-4080', 'addr:postcode': 'V6K 1P8', 'addr:city': 'Vancouver'}"
+49.2707965,-123.1466271,fitness_centre,Ron Zalko Fitness & Yoga,"{'opening_hours': 'Mo-Th 06:00-10:00; Fr 06:00-20:00; Sa 08:15-18:00; Su 08:15-17:00', 'website': 'https://ronzalko.com/', 'addr:housenumber': '1807', 'addr:street': 'West 1st Avenue', 'phone': '+1-604-737-4355', 'addr:postcode': 'V6J 1G5'}"
+49.2552884,-123.0651286,fitness_centre,Trout Lake Community Centre Fitness Centre,"{'opening_hours': 'Mo-Fr 06:00-10:00; Sa,Su 08:00-22:00', 'note': 'Opening hours may change after quarter 2 of 2019.', 'level': '1'}"
+49.2684515,-123.1657457,fitness_centre,Body Pulse Fitness,{}
+49.2685181,-123.1704839,fitness_centre,Curves,"{'brand:wikidata': 'Q5196080', 'brand': 'Curves', 'brand:wikipedia': 'en:Curves International'}"
+49.2652361,-123.0700184,bowling_alley,Grandview Lanes,"{'website': 'https://www.grandviewbowling.com/', 'addr:housenumber': '2195', 'addr:street': 'Commercial Drive', 'sport': '10pin', 'addr:postcode': 'V5N 4B3', 'addr:city': 'Vancouver'}"
+49.2817773,-123.1083729,fitness_centre,All City Athetics,"{'website': 'https://allcityathletics.ca', 'phone': '+1-604-559-7413', 'sport': 'boxing', 'email': 'details@allcityathletics.ca'}"
+49.2663207,-123.2423105,fitness_centre,Gold's Gym,"{'brand:wikidata': 'Q1536234', 'brand': ""Gold's Gym"", 'brand:wikipedia': ""en:Gold's Gym""}"
+49.2829357,-123.0677572,fitness_centre,Dharmalab,"{'addr:housenumber': '1814', 'addr:street': 'Pandora Street', 'sport': 'yoga', 'addr:city': 'Vancouver'}"
+49.2695578,-123.1063648,fitness_centre,d.tox spa,{}
+49.1798371,-123.1202272,park,Alexandra Playground,"{'opening_hours': '24/7', 'addr:housenumber': '9366', 'addr:street': 'Tomicki Avenue', 'addr:postcode': 'V6N 0X9', 'addr:city': 'Richmond'}"
+49.275543,-123.1233418,fitness_centre,Ebody Vancouver,"{'website': 'https://www.ebodyvancouver.com/', 'addr:housenumber': '435', 'phone': '+1-604-724-3903', 'addr:street': 'Davie Street', 'addr:postcode': 'V6B 2G2', 'email': 'hello@ebodyvancouver.com', 'start_date': '2017', 'addr:city': 'Vancouver'}"
+49.2780862,-123.123104,fitness_centre,Wuji Systems,"{'opening_hours:signed': 'no', 'addr:province': 'BC', 'addr:street': 'Seymour Street', 'addr:city': 'Vancouver'}"
+49.26643,-123.1401066,fitness_centre,YYoga,{'sport': 'yoga'}
+49.2790504,-123.1132834,fitness_centre,Artus Shakur Personal Training,"{'payment:mastercard': 'yes', 'website': 'https://ultimateabstraining.com', 'addr:housenumber': '180', 'phone': '+1-604-345-5793', 'payment:cash': 'yes', 'opening_hours': 'Mo-Sa 07:00-19:00', 'addr:street': 'West Georgia Street', 'postal_code': 'V6B 4P4', 'payment:debit_cards': 'yes', 'payment:visa': 'yes', 'email': 'vancouvertrainer01@gmail.com', 'start_date': '2010'}"
+49.2240275,-123.016202,fitness_station,Pull Up,"{'fitness_station': 'horizontal_bar', 'sport': 'fitness', 'ref': '7'}"
+49.1937747,-123.123328,escape_game,Exit,"{'addr:province': 'BC', 'website': 'http://e-exit.ca', 'addr:city': 'Richmond'}"
+49.2235202,-123.020164,fitness_station,Parallel Bars,"{'fitness_station': 'parallel_bars', 'sport': 'fitness', 'ref': '8'}"
+49.2532066,-123.0831387,escape_game,Locked Canada,"{'addr:province': 'BC', 'addr:housenumber': '1050', 'addr:street': 'Kingsway', 'addr:postcode': 'V5V 1N9', 'addr:country': 'CA', 'addr:city': 'Vancouver'}"
+49.2381873,-123.1327834,garden,magnolias and hydrangeas,{}
+49.2382458,-123.1352523,garden,Canadian Heritage Garden,{}
+49.2393715,-123.1309647,garden,Black Garden,{}
+49.2395281,-123.130236,garden,Southern Hemisphere,{}
+49.2399123,-123.1303234,garden,Chilean Garden,{}
+49.2399037,-123.1305134,garden,South African Garden,{}
+49.2397451,-123.1303559,garden,Australia & New Zealand Garden,{}
+49.2391724,-123.1299656,garden,ornamental grasses,{}
+49.2388935,-123.1304246,garden,Stanley Smith Rock Garden,{}
+49.239094,-123.1309543,garden,Heritage Rose Garden,{}
+49.2382788,-123.1343219,garden,camelias,{}
+49.2808971,-123.0217281,fitness_centre,Float Sense North Burnaby,"{'addr:province': 'BC', 'addr:housenumber': '3764', 'addr:country': 'CA', 'addr:street': 'Hastings Street', 'sport': 'yoga', 'addr:postcode': 'V5C 2H5', 'addr:city': 'Burnaby'}"
+49.3071372,-123.0249553,golf_course,Seymour Creek Golf Centre,"{'addr:province': 'BC', 'addr:housenumber': '315', 'addr:street': 'Seymour Boulevard', 'addr:city': 'North Vancouver'}"
+49.2471476,-123.0902512,outdoor_seating,Parklet,"{'wheelchair': 'limited', 'note': 'Parklet with multiple benches and tables; seating for approximately 20 people', 'backrest': 'yes', 'material': 'wood', 'operator': 'City of Vancouver and Pizza Carano'}"
+49.2724139,-123.095954,fitness_centre,Raincity Athletics,"{'addr:province': 'BC', 'addr:housenumber': '333', 'addr:street': 'Terminal Avenue', 'addr:unit': '102', 'addr:city': 'Vancouver'}"
+49.2811353,-122.9972622,fitness_centre,Heights Yoga and Wellness,"{'website': 'http://heightswellness.ca/', 'addr:housenumber': '4701', 'addr:street': 'Hastings Street', 'phone': '+1-236-412-7794', 'sport': 'yoga', 'email': 'info@heightswellness.ca'}"
+49.2321188,-123.0096123,fitness_centre,She's Fit,{'survey:date': '2020-11-25'}
+49.2315633,-123.005447,escape_game,Bamboozled Escape Games,"{'website': 'https://www.bamboozledeg.ca/', 'addr:housenumber': '4429', 'phone': '+1-604-431-6788', 'opening_hours': 'Mo-Th 15:00-22:00; Fr 15:00-23:00; Sa 12:00-24:00; Su 12:00-20:00', 'addr:street': 'Kingsway', 'email': 'info@BamboozledEG.ca', 'addr:unit': '17'}"
+49.2802212,-123.1096777,fitness_centre,West Coast Strength & Movement,"{'addr:province': 'BC', 'website': 'https://www.wcsmovement.com/', 'addr:housenumber': '560', 'addr:street': 'Beatty Street', 'addr:postcode': 'V6B 2L3', 'addr:unit': 'L300', 'addr:city': 'Vancouver'}"
+49.2637912,-123.1398954,fitness_centre,VIP Fitness & Lifestyle,"{'opening_hours': '""covid by appt""', 'addr:unit': '101'}"
+49.2760146,-123.1196966,sauna,Shrink Wrap,"{'website': 'https://www.getshrinkwrapped.com/', 'addr:housenumber': '1028', 'addr:street': 'Mainland Street', 'phone': '+1-604-558-1722', 'email': 'info@getshrinkwrapped.com'}"
+49.229152,-123.0158389,fitness_station,Squats,"{'sport': 'fitness', 'survey:date': '2021-06-02'}"
+49.2670485,-123.011929,fitness_centre,Club 16 Trevor Linden Fitness,"{'opening_hours': 'Mo-Th 05:00-22:00; Fr 05:00-21:00; Sa-Su 07:00-19:00; PH 07:00-19:00', 'website': 'https://www.trevorlindenfitness.com/brentwood/', 'phone': '+1-604-674-3116', 'email': 'brentwood@trevorlindenfitness.com'}"
+49.2668068,-123.0100586,dance,Dance Express,"{'dance:teaching': 'yes', 'phone': '+1-604-205-5157', 'website': 'https://danceexpress.ca/'}"
+49.2808631,-123.0176496,fitness_centre,DyerFItness,"{'opening_hours': 'Mo-Su 06:00-21:00', 'website': 'https://www.dyerfitness.ca/', 'addr:housenumber': '3972', 'addr:street': 'Hastings Street', 'phone': '+1-604-291-8414', 'email': 'info@dyerfitness.ca'}"
+49.2831713,-123.0024571,sports_centre,Eileen Dailly Leisure Pool & Fitness Centre,"{'website': 'https://www.burnaby.ca/Things-To-Do/Community-Centres/Eileen-Dailly.html', 'addr:housenumber': '240', 'phone': '+1-604-298-7946', 'fee': 'yes', 'opening_hours': 'Mo-Su 08:00-21:00', 'addr:street': 'Willingdon Avenue', 'sport': 'swimming;fitness', 'operator': 'City of Burnaby'}"
+49.2061005,-123.0316842,fitness_centre,Orangetheory Fitness,"{'brand:wikidata': 'Q25005163', 'website': 'https://www.orangetheory.com/en-ca/', 'addr:housenumber': '3479', 'phone': '+1 604 225 1000', 'brand:wikipedia': 'en:Orangetheory Fitness', 'addr:street': 'Sawmill Crescent', 'brand': 'Orangetheory Fitness', 'addr:postcode': 'V5S 0H2'}"
+49.2822636,-123.123983,fitness_centre,Yyoga Downtown Flow,"{'addr:province': 'BC', 'website': 'https://yyoga.ca/bc/locations/downtown-flow/', 'addr:housenumber': '888', 'phone': '+1-604-682-3569', 'opening_hours': 'Mo-Fr 07:50-20:35; Sa 08:30-19:05; Sui 08:30-17:35', 'addr:street': 'Burrard Street', 'sport': 'yoga', 'addr:postcode': 'V6Z 1X9', 'addr:city': 'Vancouver'}"
+49.2319836,-123.0275804,fitness_centre,Oxygen Yoga & Fitness,"{'sport': 'yoga', 'website': 'https://oxygenyogaandfitness.com/', 'survey:date': '2021-07-24'}"
+49.2751913,-123.126974,sports_centre,Baza Dance Studios,"{'addr:province': 'BC', 'addr:housenumber': '1304', 'addr:street': 'Seymour Street', 'sport': 'dance', 'addr:city': 'Vancouver'}"
+49.2814065,-123.021448,fitness_centre,Anytime Fitness,"{'brand:wikidata': 'Q4778364', 'brand': 'Anytime Fitness', 'brand:wikipedia': 'en:Anytime Fitness'}"
+49.2809331,-123.0231785,fitness_centre,Driftwood Athletics,{}
+49.2671967,-123.254072,park,Stephen Toope Gardens,"{'addr:province': 'BC', 'description': ""Terraced sunken garden, named in honour of UBC's 12th President, Stephen Toope. Used to be known as Library Garden. Located beside the Indian Residential School History and Dialogue Centre, and between Walter C. Koerner Library and Ike K. Barber Learning"", 'addr:housenumber': '1950', 'addr:street': 'Main Mall', 'operator': 'UBC', 'addr:city': 'Vancouver'}"
+49.2577193,-123.1859301,fitness_centre,PRIME Personal Training,{}
+49.2678701,-123.0062444,fitness_centre,30 Minute Hit,"{'website': 'https://www.30minutehit.com/', 'addr:housenumber': '1801', 'addr:street': 'Rosser Avenue', 'sport': 'kickboxing;boxing'}"
+49.2670982,-123.0121726,dance,Dance Collective,"{'dance:teaching': 'yes', 'website': 'https://dancecollective.ca/', 'addr:unit': '202'}"
+49.2625717,-123.098193,amusement_arcade,Zero Latency Virtual Reality,"{'website': 'https://www.zerolatencyvancouver.com/', 'addr:housenumber': '370', 'phone': '+1 604-423-4753', 'opening_hours': 'Tu-Th 14:00-21:00; Fr-Sa 12:00-24:00; Su 12:00-21:00', 'addr:street': 'East Broadway', 'email': 'info@zerolatencyvancouver.com', 'addr:unit': '101', 'virtual_reality': 'yes'}"
+49.1783373,-123.1384545,pitch,X HOOP Basketball Gym,"{'addr:province': 'BC', 'addr:housenumber': '7951', 'access': 'customers', 'surface': 'asphalt', 'lit': 'yes', 'hoops': '5', 'indoor': 'yes', 'addr:street': 'Alderbridge Way', 'sport': 'basketball', 'addr:postcode': 'V6X 2A4', 'addr:unit': '150', 'addr:city': 'Richmond'}"
+49.2749086,-123.1135692,fitness_centre,Anytime Fitness,"{'brand:wikidata': 'Q4778364', 'addr:housenumber': '60', 'addr:street': 'Smithe Street', 'brand': 'Anytime Fitness', 'brand:wikipedia': 'en:Anytime Fitness', 'addr:city': 'Vancouver'}"
+49.2750232,-123.1151344,fitness_centre,Rumble Boxing,"{'addr:housenumber': '968', 'addr:street': 'Expo Boulevard', 'addr:city': 'Vancouver'}"
+49.3034576,-123.0210113,fitness_centre,Coast Mountain Crossfit,"{'website': 'https://www.coastmountaincrossfit.com', 'addr:housenumber': '1850', 'phone': '+1 604 698 7203', 'opening_hours': 'Mo-Fr 05:30-19:45; Sa 08:00-12:00; Su 09:00-11:00', 'addr:street': 'Spicer Road', 'sport': 'crossfit', 'addr:postcode': 'V7H 0A4'}"
+49.2633156,-123.1116091,escape_game,E-Exit,"{'addr:housenumber': '309', 'addr:street': 'West Broadway'}"
+49.1815938,-123.138641,sports_centre,Q1 Billiards,"{'payment:mastercard': 'yes', 'addr:province': 'BC', 'image': 'https://www.q1-billiards.com/wp-content/themes/UWD/images/q1-logo.png', 'website': 'https://www.q1-billiards.com/', 'payment:cash': 'yes', 'payment:visa': 'yes', 'addr:postcode': 'V6X 2C3', 'addr:unit': '118', 'addr:city': 'Richmond', 'addr:housenumber': '4411', 'phone': '+1-604-303-0550', 'opening_hours': '12:00-01:00; Fr,Sa 12:00-02:00', 'addr:street': 'No. 3 Road', 'sport': 'billiards;darts'}"
+49.2641589,-123.1570606,fitness_centre,Fit Body Boot Camp,{}
+49.263604,-123.124722,fitness_centre,Gymbox,"{'wheelchair': 'yes', 'website': 'https://www.gymbox.ca/', 'survey:date': '2022-03-19'}"
+49.2632458,-123.126042,fitness_centre,F45,"{'website': 'https://f45ob.com/', 'addr:housenumber': '980', 'addr:street': 'West Broadway', 'survey:date': '2022-03-19'}"
+49.2806956,-123.1167408,fitness_centre,Sweat Co.,"{'addr:province': 'BC', 'website': 'https://sweatcostudios.com/', 'addr:housenumber': '746', 'phone': '+1 604-683-7938', 'opening_hours': 'Mo-Fr 08:00-14:00', 'addr:street': 'Richards Street', 'addr:postcode': 'V6B 3A4', 'addr:city': 'Vancouver'}"
+49.280122,-123.122108,sports_centre,Harbour Dance Centre,"{'addr:province': 'BC', 'website': 'https://harbourdance.com/', 'addr:housenumber': '927', 'phone': '+1-604-684-9542', 'opening_hours': 'Mo, Tu, Th 09:30-21:30; We 09:30-21:00; Fr 09:30-20:00; Sa, Su 09:00-16:00', 'description': 'dance school with multiple studios', 'addr:street': 'Granville Street', 'addr:city': 'Vancouver'}"
+49.2891854,-123.1392472,fitness_centre,Anytime Fitness,"{'brand:wikidata': 'Q4778364', 'addr:province': 'BC', 'addr:housenumber': '1015', 'brand:wikipedia': 'en:Anytime Fitness', 'opening_hours': '24/7', 'addr:street': 'Denman Street', 'brand': 'Anytime Fitness', 'addr:city': 'Vancouver'}"
+49.2906965,-123.1361044,fitness_centre,Oxygen Yoga and Fitness-West End,"{'opening_hours:signed': 'no', 'addr:province': 'BC', 'addr:housenumber': '1777', 'check_date:opening_hours': '2022-07-07', 'addr:street': 'Haro Street', 'sport': 'yoga', 'addr:city': 'Vancouver'}"
+49.1872236,-123.0796587,indoor_play,365 Fundays,"{'website': 'https://www.365fundays.ca/', 'addr:housenumber': '3810', 'addr:street': 'Jacombs Road', 'addr:unit': '120'}"
+49.2630924,-123.1170148,fitness_centre,Oxygen Yoga,"{'addr:province': 'BC', 'addr:street': 'West Broadway', 'sport': 'yoga', 'addr:city': 'Vancouver'}"
+49.2615982,-123.1014311,sports_hall,Origins Parkour,"{'website': 'https://originsparkour.com/', 'addr:housenumber': '2655', 'addr:street': 'Main Street', 'level': '3', 'addr:unit': '3rd'}"
+49.2544969,-123.0222102,fitness_centre,Scienced Athletics,"{'website': 'https://scienced-athletics.ca/', 'addr:housenumber': '3732', 'survey:date': '2022-04-29'}"
+49.2326985,-123.0245595,fitness_centre,Orijin Yoga,"{'website': 'https://www.orijinyoga.com/', 'addr:housenumber': '3665', 'phone': '+1-604-428-0330', 'addr:street': 'Kingsway', 'sport': 'yoga', 'email': 'info@orijinyoga.com', 'addr:unit': '150'}"
+49.1926802,-123.0836655,amusement_arcade,Sandbox VR,"{'website': 'https://sandboxvr.com/vancouver', 'addr:housenumber': '12571', 'addr:street': 'Bridgeport Road', 'brand': 'Sandbox VR', 'branch': 'Vancouver', 'addr:unit': '170'}"
+49.2923731,-123.134396,fitness_centre,MOOV Yoga & Movement Studio,"{'opening_hours:signed': 'no', 'addr:province': 'BC', 'website': 'https://wemoov.com/', 'addr:housenumber': '689', 'check_date:opening_hours': '2022-10-29', 'addr:street': 'Denman Street', 'sport': 'yoga', 'addr:unit': '1600', 'addr:city': 'Vancouver'}"
+49.2643281,-123.0129407,fitness_centre,Oxygen Yoga & Fitness,"{'sport': 'yoga', 'addr:housenumber': '4142', 'addr:street': 'Dawson Street'}"
+49.1978064,-123.1740323,dog_park,Animal Relief Area,{'fixme': 'Better tag type?'}
+49.2808587,-122.9977925,fitness_centre,The Next Step Training Centre,"{'website': 'https://www.thenextsteptc.com/', 'addr:housenumber': '4680', 'addr:street': 'Hastings Street', 'phone': '+1-604-423-4680', 'operator': 'Mike Franco', 'email': 'info@thenextsteptc.com'}"
+49.2808144,-123.000708,fitness_centre,Orangetheory Fitness,"{'brand:wikidata': 'Q25005163', 'website': 'https://www.orangetheory.com/en-ca/locations/british-columbia/burnaby/4588-hastings-st/', 'addr:housenumber': '4588', 'addr:street': 'Hastings Street', 'phone': '+1-778-262-0382', 'brand': 'Orangetheory Fitness'}"
+49.28085,-123.0017258,dance,Hz Ballet Classique,"{'website': 'https://www.balletclassique.com/', 'addr:housenumber': '4534', 'dance:teaching': 'yes', 'phone': '+1-604-800-3718', 'dance:style': 'ballet', 'description': 'Cecchetti Method of ballet', 'addr:street': 'Hastings Street', 'email': 'hzballet@shaw.ca', 'addr:unit': '200'}"
+49.2641794,-123.1661402,fitness_centre,Tight Body Fitness,"{'website': 'https://www.tightbody.ca/', 'addr:housenumber': '2693', 'addr:street': 'West Broadway'}"
+49.2639018,-123.165728,fitness_centre,K Fitness,"{'phone': '+1-604-298-5425', 'addr:housenumber': '2674'}"
+49.2639121,-123.1658441,fitness_centre,Club Pilates,"{'opening_hours': 'Mo-Fr 06:00-20:30; Sa 08:00-12:00; Su 06:00-12:00', 'addr:housenumber': '2682'}"
+49.2640928,-123.0035724,fitness_centre,F45 Training,"{'brand:wikidata': 'Q64390973', 'addr:housenumber': '2229', 'short_name': 'F45', 'addr:street': 'Willingdon Avenue', 'brand': 'F45 Training'}"
+49.282202,-123.122795,fitness_centre,Studeo,"{'addr:province': 'BC', 'website': 'https://www.studeogyms.com/', 'addr:housenumber': '856', 'phone': '+1-604-684-0544', 'opening_hours': 'Mo-Fr 06:00- 20:00, Sa 08:00-14:00', 'addr:street': 'Hornby Street', 'addr:unit': '202', 'addr:city': 'Vancouver'}"
+49.2633407,-123.1120254,dance,West Pointe Dance Project,{'dance:teaching': 'yes'}
+49.2906034,-123.130157,fitness_centre,The Well,"{'addr:province': 'BC', 'addr:housenumber': '1579', 'addr:street': 'West Georgia Street', 'sport': 'yoga', 'addr:city': 'Vancouver'}"
+49.2873774,-123.11928,fitness_centre,Barry's,"{'brand:wikidata': 'Q96373178', 'addr:province': 'BC', 'brand': ""Barry's"", 'addr:city': 'Vancouver'}"
+49.279972,-123.121188,miniature_golf,Par-Tee Putt,"{'addr:province': 'BC', 'addr:housenumber': '670', 'phone': '+1-236-304-6282', 'opening_hours': 'Su-Th 15:00-00:00, Fr-Sa 15:00-03:00', 'addr:street': 'Smithe Street', 'addr:postcode': 'V6Z 1L2', 'addr:city': 'Vancouver'}"
+49.193459,-123.133593,amusement_arcade,JZ Entertainment,"{'phone': '+1-778-834-3506', 'opening_hours': 'DURING Richmond Night Market', 'payment:lightning': 'yes', 'payment:coinos': 'yes', 'operator': 'Darao', 'currency:XBT': 'yes', 'survey:date': '2022-11-11'}"
+49.2634992,-123.1202844,fitness_centre,Gold's Gym,"{'opening_hours': '24/7', 'check_date': '2022-11-14'}"
