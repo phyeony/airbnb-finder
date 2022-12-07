@@ -44,5 +44,5 @@ tourism_condition = (
 tourism_df = df[tourism_condition]
 
 #%%
-tourism_df.to_csv("cleaned_tourism_amenities.csv", index=False)
+tourism_df.to_csv("cleaned_tourism.csv", index=False)
 # %%

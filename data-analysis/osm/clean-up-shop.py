@@ -163,5 +163,5 @@ shop_condition = (
 shop_df = df[shop_condition]
 
 #%%
-shop_df.to_csv("cleaned_shop_amenities.csv", index=False)
+shop_df.to_csv("cleaned_shop.csv", index=False)
 # %%

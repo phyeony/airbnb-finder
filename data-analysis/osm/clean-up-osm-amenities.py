@@ -153,6 +153,6 @@ amenities = amenities[amenities['category'].notna()]
 food_amenities = amenities[amenities['category']=='food']
 attraction_amenities = amenities[amenities['category']=='entertainment']
 
-food_amenities.to_csv("cleaned_food_amenities.csv", index=False)
-attraction_amenities.to_csv("cleaned_entertainment_amenities.csv", index=False)
+food_amenities.to_csv("cleaned_food.csv", index=False)
+attraction_amenities.to_csv("cleaned_entertainment.csv", index=False)
 # %%
