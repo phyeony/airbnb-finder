@@ -1,9 +1,8 @@
 #%%
 import pandas as pd
-import numpy as np
 
 # from entertainment file, move marketplace, arts_centre types to tourism file
-entertainment = pd.read_csv("cleaned_entertainment_amenities.csv")
+entertainment = pd.read_csv("cleaned_entertainment.csv")
 
 # select
 marketplace = entertainment[entertainment["type"] == "marketplace"]
@@ -16,16 +15,16 @@ entertainment = entertainment.drop(entertainment[entertainment["type"] == "arts_
 entertainment = entertainment.drop(entertainment[entertainment["type"] == "spa"].index)
 
 # save entertainment
-entertainment.to_csv("cleaned_entertainment_amenities.csv", index=False)
+entertainment.to_csv("cleaned_entertainment.csv", index=False)
 
 # save tourism 
-tourism = pd.read_csv("cleaned_tourism_amenities.csv")
+tourism = pd.read_csv("cleaned_tourism.csv")
 tourism = tourism.append(marketplace)
 tourism = tourism.append(arts_centre)
-tourism.to_csv("cleaned_tourism_amenities.csv", index=False)
+tourism.to_csv("cleaned_tourism.csv", index=False)
 
 # save leisure
-leisure = pd.read_csv("cleaned_leisure_amenities.csv")
+leisure = pd.read_csv("cleaned_leisure.csv")
 leisure = leisure.append(spa)
-leisure.to_csv("cleaned_leisure_amenities.csv", index=False)
+leisure.to_csv("cleaned_leisure.csv", index=False)
 # %%
