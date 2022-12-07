@@ -61,4 +61,6 @@ def score(point: Point, intersections: gpd.GeoDataFrame):
     else:
         return 0
 
-
+# background map
+# local = gpd.read_file('local-area-boundary.geojson')
+# m=local.explore(style_kwds={'color':'black', 'opacity': 0})

@@ -7,20 +7,25 @@ import shapely
 import airbnb_intersection as inters
 
 def filtering(min_price, max_price, room_type):
-    airbnb = pd.read_csv('cleaned_airbnb_data.csv')
-
+    airbnb = pd.read_csv('airbnb_score.csv')
     # "Entire home/apt"
     # "Hotel room"
     # "Private room"
     # "Shared room"
     
+    # pr = [0, 200]
+    # rt1 = ["Entire home/apt", "Hotel room"]
+    # rt2 = ["Private room"]
+    # rt3 = ["Entire home/apt", "Private room", "Shared room"]
+
+    # at1 = ["food"]
+    # at2 = ["transportation", "attraction"]
+
     # filter price range
     price_filtered = airbnb[(airbnb['price'] >= float(min_price)) & (airbnb['price'] <= float(max_price))]
     # filter room type
-    filtered = price_filtered.loc[price_filtered['room_type'].isin(room_type)]
-    return filtered
-
-
+    return airbnb
+    
 # # cleaned_entertainment.csv
 # airbnb = pd.read_csv('cleaned_airbnb_data.csv')
 # amen_intersection, name = inters.amentiy_intersections('cleaned_entertainment.csv')
@@ -62,15 +67,4 @@ def filtering(min_price, max_price, room_type):
 # intersection_airbnb = inters.intersection_score(airbnb, amen_intersection, name)
 # intersection_airbnb.to_csv('airbnb_score.csv', index=False) # -> airbnb_food.csv with entertainment,food,leisure,transportation,shop,tourism
 
-# pr = [0, 200]
-# rt1 = ["Entire home/apt", "Hotel room"]
-# rt2 = ["Private room"]
-# rt3 = ["Entire home/apt", "Private room", "Shared room"]
-
-# at1 = ["food"]
-# at2 = ["transportation", "attraction"]
-
-# background map
-# local = gpd.read_file('local-area-boundary.geojson')
-# m=local.explore(style_kwds={'color':'black', 'opacity': 0})
 # %%
