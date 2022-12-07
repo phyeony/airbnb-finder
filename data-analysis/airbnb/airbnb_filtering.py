@@ -1,8 +1,10 @@
+#%%
 import pandas as pd
 import sys
 import geopandas as gpd
 from shapely.geometry import Point, Polygon
 import shapely
+import airbnb_intersection as inters
 
 def filtering(min_price, max_price, room_type):
     airbnb = pd.read_csv('cleaned_airbnb_data.csv')
@@ -18,27 +20,47 @@ def filtering(min_price, max_price, room_type):
     filtered = price_filtered.loc[price_filtered['room_type'].isin(room_type)]
     return filtered
 
-def count_overlapping_features(gdf: gpd.GeoDataFrame):
-    #generating all of the split pieces
-    import shapely
-    bounds = gdf.geometry.exterior.unary_union
-    new_polys = list(shapely.ops.polygonize(bounds))
-    new_gdf = gpd.GeoDataFrame(geometry=new_polys, crs='epsg:32634')
-    new_gdf['id'] = range(len(new_gdf))
 
-    #count overlapping by sjoin between pieces centroid and the input gdf 
-    new_gdf_centroid = new_gdf.copy()
-    new_gdf_centroid['geometry'] = new_gdf.centroid
-    overlapcount = gpd.sjoin(new_gdf_centroid,gdf)
-    overlapcount = overlapcount.groupby(['id'])['index_right'].count().rename('count').reset_index()
-    out_gdf = pd.merge(new_gdf,overlapcount)
-    return out_gdf
+# # cleaned_entertainment.csv
+# airbnb = pd.read_csv('cleaned_airbnb_data.csv')
+# amen_intersection, name = inters.amentiy_intersections('cleaned_entertainment.csv')
+# intersection_airbnb = inters.intersection_score(airbnb, amen_intersection, name)
+# intersection_airbnb.to_csv('airbnb_' + name[0] +'.csv', index=False) # -> airbnb_e.csv with entertainment
 
-class user_preference:
-    def __init__(self, price_range, room_type, amenity):
-        self.pr = price_range
-        self.rt= room_type
-        self.at = amenity
+# # cleaned_food.csv
+# # airbnb = intersection_airbnb
+# airbnb = pd.read_csv('airbnb_e.csv')
+# amen_intersection, name = inters.amentiy_intersections('cleaned_food.csv')
+# intersection_airbnb = inters.intersection_score(airbnb, amen_intersection, name)
+# intersection_airbnb.to_csv('airbnb_e' + name[0] +'.csv', index=False) # -> airbnb_ef.csv with entertainment,food
+
+# # cleaned_leisure.csv
+# # airbnb = intersection_airbnb
+# airbnb = pd.read_csv('airbnb_ef.csv')
+# amen_intersection, name = inters.amentiy_intersections('cleaned_leisure.csv')
+# intersection_airbnb = inters.intersection_score(airbnb, amen_intersection, name)
+# intersection_airbnb.to_csv('airbnb_ef' + name[0] +'.csv', index=False) # -> airbnb_food.csv with entertainment,food,leisure
+
+# # cleaned_transportation.csv
+# # airbnb = intersection_airbnb
+# airbnb = pd.read_csv('airbnb_efl.csv')
+# amen_intersection, name = inters.amentiy_intersections('cleaned_transportation.csv')
+# intersection_airbnb = inters.intersection_score(airbnb, amen_intersection, name)
+# intersection_airbnb.to_csv('airbnb_efl' + name[0] +'.csv', index=False) # -> airbnb_food.csv with entertainment,food,leisure,transportation
+
+# # cleaned_shop.csv
+# # airbnb = intersection_airbnb
+# airbnb = pd.read_csv('airbnb_eflt.csv')
+# amen_intersection, name = inters.amentiy_intersections('cleaned_shop.csv')
+# intersection_airbnb = inters.intersection_score(airbnb, amen_intersection, name)
+# intersection_airbnb.to_csv('airbnb_eflt' + name[0] +'.csv', index=False) # -> airbnb_food.csv with entertainment,food,leisure,transportation,shop
+
+# cleaned_tourism.csv
+# airbnb = intersection_airbnb
+# airbnb = pd.read_csv('airbnb_eflts.csv')
+# amen_intersection, name = inters.amentiy_intersections('cleaned_tourism.csv')
+# intersection_airbnb = inters.intersection_score(airbnb, amen_intersection, name)
+# intersection_airbnb.to_csv('airbnb_score.csv', index=False) # -> airbnb_food.csv with entertainment,food,leisure,transportation,shop,tourism
 
 # pr = [0, 200]
 # rt1 = ["Entire home/apt", "Hotel room"]
@@ -48,6 +70,7 @@ class user_preference:
 # at1 = ["food"]
 # at2 = ["transportation", "attraction"]
 
-# # background map
+# background map
 # local = gpd.read_file('local-area-boundary.geojson')
 # m=local.explore(style_kwds={'color':'black', 'opacity': 0})
+# %%
