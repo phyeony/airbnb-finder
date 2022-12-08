@@ -9,11 +9,14 @@ app = FastAPI()
 
 origins = [
     "http://localhost:3000",
-    "localhost:3000"
+    "localhost:3000",
+    "https://airbnb-finder.up.railway.app/",
+    "https://airbnb-finder.up.railway.app",
+    "https://airbnb-finder.up.railway.app:3000",
 ]
 
-if FRONTEND_DOMAIN_NAME is not None:
-    origins.append(f'https://{FRONTEND_DOMAIN_NAME}')
+#if FRONTEND_DOMAIN_NAME is not None:
+#    origins.append(f'https://{FRONTEND_DOMAIN_NAME}')
 
 app.add_middleware(
     CORSMiddleware,
