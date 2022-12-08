@@ -36,11 +36,15 @@ function union(a, b) {
 }
 
 function App() {
+  const PUBLIC_TRANSPORTATION = "Public Transportation"
+  const TOURISM_CULTURE = "Tourism & Culture"
+  const MAX_NUM = 13025
   const [airbnbList, setAirbnbList] = useState([])
   const [state, setState] = useState({
     entire: false,
     pv: false,
     shared: false,
+    hotel: false,
   });
 
   const handleChange = (event) => {
@@ -50,14 +54,30 @@ function App() {
     });
   };
 
-  const { entire, pv, shared } = state;
+
+  const { entire, pv, shared, hotel } = state;
 
   const handleSubmit = async () => {
     // Iterate through the object
     let airbnb_room_type = []
     for (const key in state) {
       if (state[key]) {
-        airbnb_room_type.push(key)
+        let name;
+        switch(key) {
+          case 'entire':
+            name = 'Entire home/apt'
+            break;
+          case 'pv':
+            name = 'Private room'
+            break;
+          case 'shared':
+            name = 'Shared room'
+            break;
+          case 'hotel':
+            name = 'Hotel room'
+            break;
+        }
+        airbnb_room_type.push(name)
       }
     }
     try {
@@ -68,9 +88,17 @@ function App() {
           'Content-Type': 'application/json'
         },
         body: JSON.stringify({
-          airbnb_price_range: [minprice, maxprice],
+          min_price: minPrice ?? 0,
+          max_price: maxPrice ?? MAX_NUM,
+          activity_preference: right.map((activity) => {
+            if (activity === PUBLIC_TRANSPORTATION) {
+              return 'transportation'
+            } else if (activity === TOURISM_CULTURE) {
+              return 'tourism'
+            }
+            return activity.toLowerCase()
+          }),
           airbnb_room_type,
-          activity_preference: right
         }) 
       })
 
@@ -85,8 +113,8 @@ function App() {
     }
   };
 
-  const [minprice, setMinPrice] = useState(0);
-  const [maxprice, setMaxPrice] = useState(0);
+  const [minPrice, setMinPrice] = useState(null);
+  const [maxPrice, setMaxPrice] = useState(null);
 
   const [error, setError] = useState(false);
   const [errorMessage, setErrorMessage] = useState("");
@@ -97,9 +125,19 @@ function App() {
   const HandleMinPriceChange = (inputString) => {
     var numbers = /^[0-9]+$/;
     if (inputString.match(numbers)) {
+      const temp_min = parseInt(inputString)
+      if(maxPrice && temp_min > maxPrice){
+        setErrorMessage("Min Price can't be bigger than Max Price");
+        setError(true);
+        return
+      } else if(temp_min > MAX_NUM) {
+        setErrorMessage("Too expensive! The highest airbnb price is $13025 CAD.");
+        setError(true);
+        return
+      }
       setError(false);
       setErrorMessage("");
-      setMinPrice(inputString);
+      setMinPrice(temp_min);
     } else {
       setErrorMessage("Please input numbers only");
       setError(true);
@@ -109,9 +147,19 @@ function App() {
   const HandleMaxPriceChange = (inputString) => {
     var numbers = /^[0-9]+$/;
     if (inputString.match(numbers)) {
+      const temp_max = parseInt(inputString)
+      if(minPrice && minPrice > temp_max){
+        setMaxErrorMessage("Min Price can't be bigger than Max Price");
+        setMaxError(true);
+        return
+      } else if(temp_max > MAX_NUM) {
+        setMaxErrorMessage("Too expensive! The highest airbnb price is $13025 CAD.");
+        setMaxError(true);
+        return
+      }
       setMaxError(false);
       setMaxErrorMessage("");
-      setMaxPrice(inputString);
+      setMaxPrice(temp_max);
     } else {
       setMaxErrorMessage("Please input numbers only");
       setMaxError(true);
@@ -120,9 +168,7 @@ function App() {
 
   const [checked, setChecked] = useState([]);
   const [left, setLeft] = useState([
-    "Food",
-    "Attraction",
-    "Public Transporation",
+    "Entertainment", "Food", "Leisure", PUBLIC_TRANSPORTATION, "Shop", TOURISM_CULTURE
   ]);
   const [right, setRight] = useState([]);
 
@@ -261,6 +307,16 @@ function App() {
             label="Shared room"
           />
         </FormGroup>
+        <FormControlLabel
+            control={
+              <Checkbox
+                checked={hotel}
+                onChange={handleChange}
+                name="hotel"
+              />
+            }
+            label="Hotel room"
+          />
         <FormLabel component="legend">2. Select Your Price Range</FormLabel>
 
         <Box
@@ -319,7 +375,7 @@ function App() {
           <Grid item>{customList("Chosen", right)}</Grid>
         </Grid>
       </FormControl>
-      <Button variant="contained" onClick={handleSubmit}>
+      <Button variant="contained" onClick={handleSubmit} disabled={error || maxError}>
         Find!
       </Button>
 
