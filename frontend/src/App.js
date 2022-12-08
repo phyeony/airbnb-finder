@@ -86,7 +86,6 @@ function App() {
       }
     }
     try {
-      console.log("BACKEND DOMAIN ",process.env.BE_DOMAIN)
       const res = await fetch(`http://${BACKEND_DOMAIN}:${BACKEND_PORT}/api/airbnb_list`, {
         method: 'POST',
         headers: {
