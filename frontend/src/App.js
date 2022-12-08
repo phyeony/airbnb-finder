@@ -380,8 +380,8 @@ function App() {
       </Button>
 
       {
-        airbnbList.map((airbnb) =>
-          <Card sx={{ width: 1 / 1.5, maxWidth: 500 }}>
+        airbnbList.map((airbnb, idx) =>
+          <Card key={idx} sx={{ width: 1 / 1.5, maxWidth: 500 }}>
             <CardContent>
               <Stack direction="row" justifyContent="space-between" sx={{ mb: 1 }}>
                 <Typography variant="h6" component="div">
