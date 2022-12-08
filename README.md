@@ -29,7 +29,6 @@ An example request body json:
   ]
 } 
 ```
-
 **Note:**
 
 The logic for our airbnb computation will live in `backend/src/airbnb_service.py`. The cleaned_data will live in `backend/cleaned_data`.
