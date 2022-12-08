@@ -1,12 +1,16 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from . import airbnb_router
+import os
+
+FRONTEND_DOMAIN_NAME = os.getenv("FRONTEND_DOMAIN_NAME", "localhost")
+FRONTEND_PORT = os.getenv("FRONTEND_PORT","3000")
 
 app = FastAPI()
 
 origins = [
-    "http://localhost:3000",
-    "localhost:3000"
+    f"http://{FRONTEND_DOMAIN_NAME}:{FRONTEND_PORT}",
+    f"{FRONTEND_DOMAIN_NAME}:{FRONTEND_PORT}"
 ]
 
 app.add_middleware(

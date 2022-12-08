@@ -41,12 +41,12 @@ def compute_airbnb(user_preference: Options) -> pd.DataFrame:
         print("WEIGHT: ", weight)
         # https://stackoverflow.com/questions/18419962/how-to-compute-weighted-sum-of-all-elements-in-a-row-in-pandas
         df['weighted_sum'] = df[activity_preference].dot(weight)
-
-    # Give weight of 1 to the airbnb review ratings
-    df['weighted_sum'] = df[['weighted_sum', 'review_scores_rating']].sum(axis=1)
-    
-    # sort value with points
-    df = df.sort_values('weighted_sum', ascending=False)
+        # Give weight of 1 to the airbnb review ratings
+        df['weighted_sum'] = df[['weighted_sum', 'review_scores_rating']].sum(axis=1)
+        # sort value with points
+        df = df.sort_values('weighted_sum', ascending=False)
+    else:
+        df = df.sort_values('review_scores_rating', ascending=False)
 
     df = df.head(20)
     
