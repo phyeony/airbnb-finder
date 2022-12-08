@@ -39,8 +39,8 @@ function App() {
   const PUBLIC_TRANSPORTATION = "Public Transportation"
   const TOURISM_CULTURE = "Tourism & Culture"
   const MAX_NUM = 13025
-  const BACKEND_DOMAIN = process.env.BACKEND_DOMAIN ?? "localhost"
-  const BACKEND_PORT = process.env.BACKEND_PORT ?? "8000"
+  const BACKEND_DOMAIN = process.env.REACT_APP_BACKEND_DOMAIN ?? "localhost"
+  const BACKEND_PORT = process.env.REACT_APP_BACKEND_PORT ?? "8000"
 
   const [airbnbList, setAirbnbList] = useState([])
   const [state, setState] = useState({
@@ -86,6 +86,7 @@ function App() {
       }
     }
     try {
+      console.log("BACKEND DOMAIN ",process.env.BE_DOMAIN)
       const res = await fetch(`http://${BACKEND_DOMAIN}:${BACKEND_PORT}/api/airbnb_list`, {
         method: 'POST',
         headers: {
