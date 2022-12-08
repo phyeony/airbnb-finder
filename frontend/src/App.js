@@ -39,9 +39,7 @@ function App() {
   const PUBLIC_TRANSPORTATION = "Public Transportation"
   const TOURISM_CULTURE = "Tourism & Culture"
   const MAX_NUM = 13025
-  const BACKEND_DOMAIN = process.env.REACT_APP_BACKEND_DOMAIN ?? "localhost"
-  const BACKEND_PORT = process.env.REACT_APP_BACKEND_PORT ?? "8000"
-  const HTTPS = process.env.REACT_APP_HTTPS ?? "http"
+  const URL = process.env.REACT_APP_ENV === "railway" ? `https://${process.env.REACT_APP_BACKEND_DOMAIN}` : 'http://localhost:8000'
 
   const [airbnbList, setAirbnbList] = useState([])
   const [state, setState] = useState({
@@ -87,7 +85,7 @@ function App() {
       }
     }
     try {
-      const res = await fetch(`${HTTPS}://${BACKEND_DOMAIN}:${BACKEND_PORT}/api/airbnb_list`, {
+      const res = await fetch(`${URL}/api/airbnb_list`, {
         method: 'POST',
         headers: {
           'Accept': 'application/json',
