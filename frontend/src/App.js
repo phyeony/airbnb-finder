@@ -78,7 +78,9 @@ function App() {
             break;
           case 'hotel':
             name = 'Hotel room'
-            break;
+            break; 
+          default:
+            break;//do nothing
         }
         airbnb_room_type.push(name)
       }
