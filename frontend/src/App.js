@@ -4,6 +4,7 @@ import {
   FormControl,
   FormGroup,
   FormControlLabel,
+  FormHelperText,
   Checkbox,
   Stack,
   Card,
@@ -38,7 +39,7 @@ function union(a, b) {
 function App() {
   const PUBLIC_TRANSPORTATION = "Public Transportation"
   const TOURISM_CULTURE = "Tourism & Culture"
-  const MAX_NUM = 13025
+  const MAX_NUM = 20000
   const URL = process.env.REACT_APP_ENV === "railway" ? `https://${process.env.REACT_APP_BACKEND_DOMAIN}` : 'http://localhost:8000'
 
   const [airbnbList, setAirbnbList] = useState([])
@@ -48,6 +49,7 @@ function App() {
     shared: false,
     hotel: false,
   });
+  const [roomTypeError, setRoomTypeError] = useState(false)
 
   const handleChange = (event) => {
     setState({
@@ -83,6 +85,12 @@ function App() {
         }
         airbnb_room_type.push(name)
       }
+    }
+    if(airbnb_room_type.length === 0) {
+      setRoomTypeError(true)
+      return
+    } else {
+      setRoomTypeError(false)
     }
     try {
       const res = await fetch(`${URL}/api/airbnb_list`, {
@@ -282,7 +290,7 @@ function App() {
     <Stack alignItems="center" justifyContent="space-evenly" spacing={2}>
       <Typography variant="h3">Airbnb Finder</Typography>
       <FormControl component="fieldset" variant="standard">
-        <FormLabel component="legend">1. Select Your Room Type</FormLabel>
+        <FormLabel component="legend" error={roomTypeError} required>1. Select Your Room Type (Please select at least 1)</FormLabel>
         <FormGroup>
           <FormControlLabel
             control={
@@ -310,8 +318,7 @@ function App() {
             }
             label="Shared room"
           />
-        </FormGroup>
-        <FormControlLabel
+          <FormControlLabel
             control={
               <Checkbox
                 checked={hotel}
@@ -321,8 +328,9 @@ function App() {
             }
             label="Hotel room"
           />
-        <FormLabel component="legend">2. Select Your Price Range</FormLabel>
-
+        </FormGroup>
+        {roomTypeError && <FormHelperText error>Must select at least 1 room type</FormHelperText>}
+        <FormLabel component="legend" sx={{mt:1}}>2. Select Your Price Range</FormLabel>
         <Box
           component="form"
           sx={{

@@ -13,8 +13,7 @@ def compute_airbnb(user_preference: Options) -> pd.DataFrame:
 
     # Filter with room type
     # ['Entire home/apt', 'Private room', 'Shared room', 'Hotel room']
-    if len(airbnb_room_type)>0:
-        df = df[df['room_type'].isin(airbnb_room_type)] 
+    df = df[df['room_type'].isin(airbnb_room_type)] 
 
     # Filter with price range
     if min_price is not None and max_price is not None:
