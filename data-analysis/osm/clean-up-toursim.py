@@ -10,9 +10,6 @@ df['type'].unique()
 # array(['artwork', 'attraction', 'museum', 'guest_house', 'viewpoint', 
 # 'gallery', 'Plane_Spotting_Platform'], dtype=object)
 
-# TODO: delete
-# Delete 'guest_house'
-
 #%%
 # https://towardsdatascience.com/all-pandas-json-normalize-you-should-know-for-flattening-json-13eae1dfb7dd
 # print(amenities)

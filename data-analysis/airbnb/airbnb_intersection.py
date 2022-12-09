@@ -1,7 +1,6 @@
 import pandas as pd
-import sys
 import geopandas as gpd
-from shapely.geometry import Point, Polygon
+from shapely.geometry import Point
 import shapely
 
 def count_overlapping_features(gdf: gpd.GeoDataFrame):
@@ -21,7 +20,7 @@ def count_overlapping_features(gdf: gpd.GeoDataFrame):
 
 def amentiy_intersections(amenity: str):
     #  1) get all amenity intersection points(coordinates) -> return only with points with intersection counts bigger than average count
-    amen = pd.read_csv(amenity)
+    amen = pd.read_csv(f'cleaned_data/{amenity}')
     gdamen = gpd.GeoDataFrame(amen, geometry=gpd.points_from_xy(amen.lon, amen.lat), crs='epsg:4326')
     gdamen = gdamen.to_crs("EPSG:32634")
     gdamen['geometry'] = gdamen.buffer(300, 3)
