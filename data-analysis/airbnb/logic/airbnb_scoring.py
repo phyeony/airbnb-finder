@@ -1,6 +1,6 @@
 #%%
 import pandas as pd
-import airbnb_intersection as inters
+#import airbnb_intersection as inters
     
 # # cleaned_entertainment.csv
 # airbnb = pd.read_csv('cleaned_data/cleaned_airbnb_data.csv')
@@ -42,5 +42,15 @@ import airbnb_intersection as inters
 # amen_intersection, name = inters.amentiy_intersections('cleaned_tourism.csv')
 # intersection_airbnb = inters.intersection_score(airbnb, amen_intersection, name)
 # intersection_airbnb.to_csv('airbnb_score.csv', index=False) # -> airbnb_food.csv with entertainment,food,leisure,transportation,shop,tourism
+
+# Min Max scale airbnb scores
+airbnb = pd.read_csv('../cleaned_data/airbnb_score.csv')
+
+df = airbnb[["review_scores_rating","entertainment", "food", "leisure", "transportation", "shop", "tourism"]]
+min_max_scaled=(df-df.min())/(df.max()-df.min())
+
+airbnb[["review_scores_rating","entertainment", "food", "leisure", "transportation", "shop", "tourism"]] = min_max_scaled
+
+airbnb.to_csv('airbnb_score.csv')
 
 # %%
