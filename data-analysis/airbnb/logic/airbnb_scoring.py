@@ -49,7 +49,8 @@ airbnb = pd.read_csv('../cleaned_data/airbnb_score.csv')
 df = airbnb[["review_scores_rating","entertainment", "food", "leisure", "transportation", "shop", "tourism"]]
 min_max_scaled=(df-df.min())/(df.max()-df.min())
 
-airbnb[["review_scores_rating","entertainment", "food", "leisure", "transportation", "shop", "tourism"]] = min_max_scaled
+airbnb[["scaled_review_scores_ratings","entertainment", "food", "leisure", "transportation", "shop", "tourism"]] = min_max_scaled
+
 
 airbnb.to_csv('airbnb_score.csv')
 

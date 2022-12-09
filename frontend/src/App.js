@@ -414,10 +414,10 @@ function App() {
 
               <Stack direction="row" alignItems='center' sx={{mt:1}}>
                 <Typography variant="body1">
-                  Airbnb Review Rating:
+                  {airbnb.weighted_sum ? "Airbnb Score: " : "Airbnb Review Rating: "}
                 </Typography>
                 <Typography variant="h6" sx={{ml:1}}>
-                  {airbnb.review_scores_rating}
+                  {airbnb.weighted_sum || airbnb.review_scores_rating}
                 </Typography>
               </Stack>
             </CardContent>
