@@ -1,8 +1,12 @@
-# Backend
+# Intro
+Welcome to Airbnb finder. Find your best Airbnb when you travel to Metro Vancouver.
+![image](https://user-images.githubusercontent.com/67985232/208594362-64b92dbd-cedb-4b4b-a8f2-a3316b85c32e.png)
+
+# To run Locally
+## Backend
 **Dependencies** (Only needs to do the first time and when new library is added)
 1. &ensp;Use python 3.10 (Below should work but I'm using 3.10)
-2. &ensp;Install FastApi:  `pip install "fastapi[all]"` 
-3. &ensp;Install pandas: `pip install pandas`
+2. &ensp;Install Dependencies:  `pip install -r requirements.txt` 
 
 **To run**
 1. &ensp;`cd backend`
@@ -18,9 +22,8 @@ Remember to edit the request body which the api endpoint will receive.
 An example request body json:
 ``` 
 {
-  "airbnb_price_range": [
-    0, 400
-  ],
+  "min_price": 0,
+  "max_price": 400,
   "airbnb_room_type": [
     "Room A", "Room B"
   ],
@@ -33,8 +36,7 @@ An example request body json:
 
 The logic for our airbnb computation will live in `backend/src/airbnb_service.py`. The cleaned_data will live in `backend/cleaned_data`.
 
-
-# Frontend
+## Frontend
 
 **Dependencies** (Only needs to do the first time and when new library is added)
 1. &ensp;Use node 18
