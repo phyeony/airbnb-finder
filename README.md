@@ -2,6 +2,9 @@
 Welcome to Airbnb finder. Find your best Airbnb when you travel to Metro Vancouver.
 ![image](https://user-images.githubusercontent.com/67985232/208594362-64b92dbd-cedb-4b4b-a8f2-a3316b85c32e.png)
 
+# Algorithm
+Gathered data from OSM using Panda and PySpark. Then scored Airbnbs depending on the distance from these attractions for each category. For more details, please refer the attached pdf report. 
+
 # To run Locally
 ## Backend
 **Dependencies** (Only needs to do the first time and when new library is added)
